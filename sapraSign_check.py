@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import webbrowser as wb
-
+import datetime.datetime as DATE
 
 wCtlr= wb.get('firefox')
 
@@ -26,7 +26,7 @@ def search_in_site (site,keyword):
     return s
 
 
-df = pd.read_excel('output.xlsx', index_col=0)
+df = pd.read_excel('sitesList.xlsx', index_col=0)
 sitesList = list(df.index)
 check=[]
 for site in sitesList:
@@ -47,6 +47,8 @@ for site in sitesList:
         except Exception:
                 check.append(["service unavailable"])
                 wCtlr.open('https://'+site)  #just for checking weather it is unavailable or not by open the site in firefox browser
-
+x= DATE()
+xname=  x.strftime('%d')+x.strftime('%b')+x.strftime('%Y')
+xname= str(xname)+'.xlsx'
 df1 = pd.DataFrame(check,index= df.index,columns=df.columns)
-df1.to_excel("sapra_check.xlsx")
+df1.to_excel(xname)
