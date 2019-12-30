@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html lang="fa" class='linux wget 1'  itemscope itemtype="http://schema.org/WebSite">
+<head>
+	<title>تلویزیون تعاملی تیوا</title>
+	<meta charset="UTF-8">
+	
+	<meta name="theme-color" content="#FA5A00" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
+	
+	
+    <meta property="og:site_name" content="تلویزیون تعاملی تیوا"/>
+    <meta property="og:title" content="تلویزیون تعاملی تیوا"/>
+    <meta property="og:type" content="website"/>
+	<meta property="og:url" content="http://www.tva.ir"/>
+    <meta property="og:image" content="/web/theme/default/assets/images/icon.png"/>
+    <meta property='og:description' content=''> 
+    <meta name='description' content=''>
+    <meta name='keywords' content='فیلم, سریال, شبکه های زنده, تیوا, پخش زنده, فیلم ایرانی, فیلم خارجی, کارتون'>
+	
+	<link rel="apple-touch-icon" href="/web/theme/default/assets/images/icon.png">
+	<link rel="shortcut icon"  href="http://www.tva.ir/favicon.ico" type="image/x-icon" />
+	<link rel="icon"  href="http://www.tva.ir/favicon.ico" type="image/x-icon" />
+	
+	<link rel="stylesheet"  href="/web/theme/default/assets/css/video-js.min.css" type="text/css" media="all" />
+	<link rel="stylesheet"  href="/web/theme/default/assets/css/chosen.min.css" type="text/css" media="all" />
+	<link rel="stylesheet"  href="/web/theme/default/assets/css/style_rtl.css" type="text/css" media="all" />
+	
+	<link itemprop="url" href="http://www.tva.ir"/>
+	
+	
+
+	
+	
+		
+	<link rel="stylesheet"  href="/web/theme/default/assets/css/swiper/swiper.css" type="text/css" media="all" />
+	
+</head>
+<body class='' data-url='http://www.tva.ir' data-ajax='http://www.tva.ir/fa/ajax-helper'>
+<div class='p'>
+
+		
+		
+<div class='wrapper wrapper-rtl'>
+	<header id='site-header'>
+		<div class='container'>
+			<div id='logo'>
+				<a title='تلویزیون تعاملی تیوا' href='http://www.tva.ir'><img src='/web/theme/default/assets/images/logo_fa.png' alt='تلویزیون تعاملی تیوا' /></a>
+			</div>
+			
+			<nav id='menu'  itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+				
+				<ul class='navigation'><li class='main-li'>
+					<span itemprop='name'><a class='root' itemprop='url' href='http://www.tva.ir/fa/home'>صفحه اصلی</a></span>
+					</li><li class='main-li'>
+					<span itemprop='name'><a class='root has-submenu ' itemprop='url' href='http://www.tva.ir/fa/services'>سرویس تیوا</a></span>
+					<div class='submenu oneline'><div class='container'><ul><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/services/app'>اپلیکیشن تیوا</a></li><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/services/web'>نسخه وب</a></li><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/services/tbox'>تیباکس</a></li></ul></div></div></li><li class='main-li'>
+					<span itemprop='name'><a class='root has-submenu ' itemprop='url' href='http://www.tva.ir/fa/help-and-support'>راهنما و پشتیبانی</a></span>
+					<div class='submenu oneline'><div class='container'><ul><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/help-and-support/faq'>سوالات متداول</a></li><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/help-and-support/tbox-manual'>راهنمای نصب تیباکس</a></li><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/help-and-support/promo-code'>فعال سازی کد خرید/تخفیف</a></li></ul></div></div></li><li class='main-li'>
+					<span itemprop='name'><a class='root' itemprop='url' href='http://www.tva.ir/fa/sport'>تیوا اسپورت</a></span>
+					</li><li class='main-li'>
+					<span itemprop='name'><a class='root has-submenu ' itemprop='url' href='http://www.tva.ir/fa/contact'>تماس با ما</a></span>
+					<div class='submenu oneline'><div class='container'><ul><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/contact/contact'>اطلاعات تماس</a></li><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/contact/voc'>صدای مشتری</a></li></ul></div></div></li><li class='main-li'>
+					<span itemprop='name'><a class='root' itemprop='url' href='https://tva.tv/auth/sign-in'>ورود/ثبت نام</a></span>
+					</li></ul>				<div class='clear'></div>
+			</nav>
+			
+			<div class='toolbox'>	
+				<a href='#menu' class='btn-menu-switch'><!--<span class='text'>منو</span>--> <span class='icon icns'></span></a>
+				<div class='box'>
+					<form action='http://www.tva.ir/fa/search' method='post' onsubmit="return handleSearchForm(this);" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+						<div class='search'>
+							<meta itemprop="target" content="http://www.tva.ir/fa/search?q={q}"/>
+							<input type="hidden" name="csrf_token" value="DPAPNy3IBx4bdxFHA5rs74rrHOhFVa09FLPntX1jM2U=" />
+							<input itemprop="query-input" type='text' name='q' id='search-input' />
+							<input type='submit' name='submit' value='جستجو' class='icns' id='search-button' />
+						</div>					
+					</form>
+				</div>
+								
+				
+			</div>	
+			<div class='clear'></div>	
+		</div>	
+	</header>
+	
+	
+	<div class='page'>
+        <h1 style="display:none;">تلویزیون تعاملی تیوا</h1>
+		<div class='container'>
+
+<div class='boxes'>
+<div class="box-group margin-no theme-dark" data-id="df4fe11d" id="bxg-df4fe11d"><div class="group-body" style=""><div class="newBox" style="display: block"><div class="clear"></div>
+	<div class='box hentry h-entry type-1 margin-top image-on-right image-loc-imagetype-2 ' id="bxc-c3cb26b2" style="">
+		<span class='me-hidy updated'>2019-12-28 10:33</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="532" data-width="610">
+                                    <div class="image">
+                        <img class='u-photo' src='/uploads/images/13981007719_devices-copy.png' alt='آنلاین تماشا کنید' />                    </div>
+                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>تلویزیون تعاملی تیوا</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        آنلاین تماشا کنید                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    تماشای بهترین فیلم‌ها، سریال‌ها و دسترسی آسان به شبکه‌های زنده تلویزیونی بصورت آنلاین.<br />
+شما می‌توانید از طریق گوشی موبایل، تبلت، کامپیوتر شخصی و همچنین از طریق تلویزیون به سرویس تیوا دسترسی داشته باشید.                                </div>
+                                <div class='clear'></div><a href='https://tva.tv/' class='btn-fancy u-url btn-fancy-x btnv' rel='bookmark'><span>نسخه وب</span></a>                                <div class='clear'></div><a href='http://gettva.com'  class='btn-fancy u-url btn-fancy-x btnv' rel='bookmark'><span>دریافت اپلیکیشن تیوا</span></a>                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+<div class="clear"></div></div></div></div><div class="box-group margin-no theme-light" data-id="4773877b" id="bxg-4773877b"><div class="group-body" style=" background: url('http://www.tva.ir/uploads/images/13970506738_ts-1440x500.jpg') no-repeat center top / cover; "><div class="newBox" style="display: block"><div class="clear"></div>
+	<div class='box hentry h-entry type-1 margin-both image-on-center image-loc-imagetype-1 ' id="bxc-18f29cde" style="">
+		<span class='me-hidy updated'>2018-07-28 15:35</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="122" data-width="460">
+                                    <img class='u-photo' src='/uploads/images/13970506674_tvasport-logo.png' alt='برنامه‌های متنوع ورزشی' />                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>شبکه خصوصی ورزشی تیوا اسپورت</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        برنامه‌های متنوع ورزشی                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    با شبکه تیوا اسپورت همراه باشید با برنامه‌های متنوع ورزشی از سراسر جهان.                                </div>
+                                <div class='clear'></div><a href='https://tva.tv/competition/Sport' class='btn-fancy u-url btn-fancy-x btnv' rel='bookmark'><span>تماشا کنید</span></a>                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+<div class="clear"></div></div></div></div><div class="box-group margin-no theme-dark" data-id="926da9d9" id="bxg-926da9d9"><div class="group-body" style=""><div class="newBox" style="display: block"><div class="clear"></div>
+	<div class='box hentry h-entry type-1 margin-both image-on-left image-loc-imagetype-1 ' id="bxc-e1a4fbf8" style="">
+		<span class='me-hidy updated'>2019-06-19 15:02</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="966" data-width="1524">
+                                    <div class="image">
+                        <img class='u-photo' src='/uploads/images/13980329924_tva-ir-asiatech.png' alt='با اشتراک تیوا رایگان تماشا کنید!' />                    </div>
+                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>برای آسیاتکی ها</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        با اشتراک تیوا رایگان تماشا کنید!                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    از این پس مشترکین ADSL آسیاتک می‌توانند با خرید  اشتراک، تمام محتوای تیوا را با ترافیک رایگان تماشا کنند. پس از تیوا نهایت لذت را ببرید.                                </div>
+                                                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+<div class="clear"></div></div></div></div>
+	<div class='box hentry h-entry type-14 margin-both no-main-image bg-pos-left theme-light bg-pos-left theme-light ' id="bxc-61cdfc46" style="">
+		<span class='me-hidy updated'>2018-11-27 09:03</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+						<div class='box-svg'><div class='in'></div></div>				<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        در تیوا تماشا کنید<br><br>                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    <div class="swiper-container" dir="rtl"><div class="swiper-wrapper"><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/mission_impossible'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905543_tva-mission.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/mission_impossible'>ماموریت غیرممکن</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/the_unity_of_heroes'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905441_tva-unity.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/the_unity_of_heroes'>اتحاد قهرمانان</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/incoming'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905527_tva-incoming.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/incoming'>ورودی</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/outlaw_king'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905807_tva-out-law.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/outlaw_king'>پادشاه قانون شکن</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/black_47'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905921_tva-black47.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/black_47'>بلک ۴۷</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/the_equalizer_2'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905106_tva-equalizer.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/the_equalizer_2'>اکولایزر ۲</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/dog_man'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905475_tva-dogman.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/dog_man'>مرد سگی</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/mile_22'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905643_tva-mile22.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/mile_22'>مایل ۲۲</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/the_rider'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905936_tva-rider.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/the_rider'>سوارکار</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/antman_and_wasp'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905426_tva-antman.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/antman_and_wasp'>مرد مورچه‌ای و زنبورک</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/escape_plan'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905431_tva-escape.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/escape_plan'>نقشه فرار ۲</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/the_secret_life_of_pets'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905699_tva-secret.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/the_secret_life_of_pets'>زندگی خصوصی حیوانات خانگی</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/welcome_to_mercy'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905382_tva-welcome.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/welcome_to_mercy'>بخشش</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='http://www.tva.ir/fa//61cdfc46/کریستوفر-رابین'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905749_tva-robin.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='http://www.tva.ir/fa//61cdfc46/کریستوفر-رابین'>کریستوفر رابین</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/the_resistance_bankers'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905455_tva-banker.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/the_resistance_bankers'>بانک‌دار مقاوم</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/blade-of-the-immortal'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905531_tva-blade.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/blade-of-the-immortal'>تیغ جاودانگی</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/the_avengers'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905971_tva-avengers-poster.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/the_avengers'>انتقام جویان</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/padington_2'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905317_tva-paddington-poster.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/padington_2'>پدینگتون ۲</a></h5></div></div><div class='list-item swiper-slide'><div class='item-content'><div class='item-image'><div class='small-image image-hover'><div class='c-hover'><a href='https://tva.tv/movies/a_quiet_place'><img class='i-photo' src='http://www.tva.ir/thumb/200/300/uploads/images/13970905648_tva-quiet-poster.jpg' alt='در تیوا تماشا کنید<br><br>' /></a></div></div></div><h5><a href='https://tva.tv/movies/a_quiet_place'>مکان آرام</a></h5></div></div></div>
+                            <div class='swiper-button-next'></div>
+                            <div class='swiper-button-prev'></div>
+                      </div>                                </div>
+                                                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-1 margin-both image-on-right image-loc-imagetype-1 ' id="bxc-41fc5b23" style="">
+		<span class='me-hidy updated'>2018-07-26 11:48</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="427" data-width="466">
+                                    <div class="image">
+                        <img class='u-photo' src='/uploads/images/13970504643_tva-ir-scrach.png' alt='کارت اشتراک تیوا' />                    </div>
+                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>نحوه فعال سازی</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        کارت اشتراک تیوا                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    اگر یکی از کارت‌های اشتراک تیوا را در اختیار دارید، به سادگی می‌توانید نسبت به فعال سازی آن اقدام کنید. در صورت نیاز از راهنمای فعال سازی استفاده نمایید.                                </div>
+                                <div class='clear'></div><a href='https://tva.tv/promo' class='btn-fancy u-url btn-fancy-x btnv' rel='bookmark'><span>فعال سازی</span></a>                                <div class='clear'></div><a href='http://tva.ir/fa/help-and-support/promo-code'  class='btn-fancy u-url btn-fancy-x btnv' rel='bookmark'><span>راهنمای فعال سازی</span></a>                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-22 margin-no theme-dark ' id="bxc-ba522337" style="">
+		<span class='me-hidy updated'>2018-11-26 16:20</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image parallax' style=" background-image:url('/uploads/images/13970905896_tva-sky-scraper-bg.jpg');  " data-height="600" data-width="1280">
+                                    <img class='u-photo' src='/uploads/images/13970905896_tva-sky-scraper-bg.jpg' alt='آسمان خراش' />                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                                                        <div class='box-poster'>
+                                <div class='list-item'>
+                                    <div class='item-content'>
+                                        <div class='item-image'>
+                                            <div class='small-image image-hover'>
+                                                <div class='c-hover '>
+                                                    <a target="_blank" href='https://tva.tv/movies/sky-scraper'><img class='i-photo' src='/uploads/images/13970905930_tva-sky-scraper-poster.jpg' alt='آسمان خراش' /> </a>
+                                                </div>
+                                                                                                <a target="_blank" href="https://tva.tv/movies/sky-scraper" class="icon-play">play</a>
+                                                                                            </div>
+                                        </div>
+                                        <h5>
+                                            <a href='https://tva.tv/movies/sky-scraper'></a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        آسمان خراش                                    </span>
+                                </h6>
+                            
+                            
+                                                            <div class="botton_box">
+                                    <p class="create_year"><span>سال ساخت:</span>۱۳۹۶</p>
+                                    <p class="genre"><span>ژانر:</span>اکشن</p>
+                                </div>
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+<div class="box-group margin-no theme-light" data-id="19fe4267" id="bxg-19fe4267"><div class="group-body" style=" background:#e0e0e0 url('http://www.tva.ir/uploads/images/13960810810_bg.jpg') no-repeat center top / cover; "><div class="newBox" style="display: block"><div class="clear"></div>
+	<div class='box hentry h-entry type-1 margin-no image-on-left image-loc-imagetype-1 ' id="bxc-fc1e54b7" style="">
+		<span class='me-hidy updated'>2019-10-23 22:47</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="444" data-width="700">
+                                    <div class="image">
+                        <img class='u-photo' src='/uploads/images/13980801890_13970607850_tva-ir-all.png' alt='با ترافیک رایگان تماشا کنید' />                    </div>
+                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>مشترکین گرامی</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        با ترافیک رایگان تماشا کنید                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    با خرید بسته های اشتراک تیوا، از ترافیک رایگان اپراتورهای منتخب بهره‌مند شوید                                </div>
+                                                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+<div class="clear"></div></div></div></div><div class="box-group margin-no theme-dark" data-id="679b7f53" id="bxg-679b7f53"><div class="group-body" style=" background: url('http://www.tva.ir/uploads/images/13970226557_background-1.jpg') no-repeat center top / cover; "><div class="newBox" style="display: block"><div class="clear"></div>
+	<div class='box hentry h-entry type-1 margin-top image-on-left image-loc-imagetype-2 ' id="bxc-b6777e38" style="">
+		<span class='me-hidy updated'>2019-05-04 15:34</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="525" data-width="700">
+                                    <div class="image">
+                        <img class='u-photo' src='/uploads/images/13980214883_watching-online.png' alt='آنلاین تماشا کنید' />                    </div>
+                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>نسخه وب تیوا</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        آنلاین تماشا کنید                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    tva.tv را به خاطر بسپارید تا تیـوا را به سادگی تماشـا کنید. وبسایت تیوا راحت‌ترین راه دسترسی شمـا برای دیدن برنامه‌های مـورد علاقه‌تان است. تماشـای برنامه‌هایی که دوست دارید بصـورت آنلاین و از طـریق کامپیوتـر شخصی تجـربه‌ای متفاوت و لذت‌بخش خواهد بود. تجربه کاربری آسـان و کیفیت بالای نمایش تصاویر بر روی وبسایت شما را محو تماشا خواهد کرد.                                </div>
+                                <div class='clear'></div><a href='https://tva.tv/' class='btn-fancy u-url btn-fancy-x btnv' rel='bookmark'><span>آنلاین تماشا کنید</span></a>                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-1 margin-bottom image-on-right image-loc-imagetype-2 ' id="bxc-e949a4df" style="">
+		<span class='me-hidy updated'>2019-05-04 15:40</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="600" data-width="600">
+                                    <div class="image">
+                        <img class='u-photo' src='/uploads/images/13980214299_mobile-.png' alt='برنامه‌های مورد علاقه‌تان، همیشه همراه شما' />                    </div>
+                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>اپلیکیشن موبایل تیوا</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        برنامه‌های مورد علاقه‌تان، همیشه همراه شما                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    نرم‌افزار موبایل تیوا این امکان را در اختیارتان می‌گذارد تا در هر مکان برنامه مورد علاقه‌تان را تماشا و دنبال کنید. این نرم‌افزار برای سیستم عامل‌های Android و iOS طراحی شده است تا بتوانید همیشه با تیوا همراه باشید. دسترسی آنلاین با موبایل یا تبلت به محتوای تصویری تیوا از این طریق بسیار سریع و آسان خواهد بود.                                </div>
+                                <div class='clear'></div><a href='http://www.tva.ir/fa/services/app' class='btn-fancy u-url btn-fancy-x btnv' rel='bookmark'><span>دریافت اپلیکیشن</span></a>                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+<div class="clear"></div></div></div></div>
+	<div class='box hentry h-entry type-22 margin-no theme-dark ' id="bxc-11cb6bb3" style="">
+		<span class='me-hidy updated'>2018-11-26 16:18</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image parallax' style=" background-image:url('/uploads/images/13970905614_tva-alpha-bg.jpg');  " data-height="600" data-width="1280">
+                                    <img class='u-photo' src='/uploads/images/13970905614_tva-alpha-bg.jpg' alt='آلفا' />                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                                                        <div class='box-poster'>
+                                <div class='list-item'>
+                                    <div class='item-content'>
+                                        <div class='item-image'>
+                                            <div class='small-image image-hover'>
+                                                <div class='c-hover '>
+                                                    <a target="_blank" href='https://tva.tv/movies/alpha'><img class='i-photo' src='/uploads/images/13970905955_tva-alpha.jpg' alt='آلفا' /> </a>
+                                                </div>
+                                                                                                <a target="_blank" href="https://tva.tv/movies/alpha" class="icon-play">play</a>
+                                                                                            </div>
+                                        </div>
+                                        <h5>
+                                            <a href='https://tva.tv/movies/alpha'></a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        آلفا                                    </span>
+                                </h6>
+                            
+                            
+                                                            <div class="botton_box">
+                                    <p class="create_year"><span>سال ساخت:</span>۱۳۹۶</p>
+                                    <p class="genre"><span>ژانر:</span>ماجراجویی</p>
+                                </div>
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-1 margin-both image-on-left image-loc-imagetype-2 ' id="bxc-376a27ca" style="">
+		<span class='me-hidy updated'>2017-10-29 17:27</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" " data-height="450" data-width="736">
+                                    <div class="image">
+                        <img class='u-photo' src='/uploads/images/13960807591_iptv.jpg' alt='تلویزیون تعاملی تیوا' />                    </div>
+                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        تلویزیون تعاملی تیوا                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    IPTV یا تلویزیـون تعاملی همـان رسـانه قدیمی اسـت در بسـتری نوین. در دنیـای امـروز برای پیشرو بودن فاکتور زمـان تعیین کننده است. کاربران IPTV با استفاده از اینترنت، آزادی عمل بیشتری برای دسترسـی به محتوای تصـویری دارند و تماشـای آنلاین برنامـه‌های زنده در هر مکان با IPTV برای آنها تجربه‌ای ‌لذت بخش خواهد بود. تماشـا و دنبال کردن برنامه‌های زنده در هر مکان با آسودگی خاطر و با بهترین کیفیت ممکن می‌تواند کمترین انتظار شما از این سرویس باشد. IPTV قابلیت‌های دیگری مانند Time Shifting و Catch-up TV را به منظور داشتن بهتـرین تجـربه کاربری در اختیارتان قـرار می‌دهـد، همچنین شما با دسترسی به آرشیو متنوعی از فیلم و سریال‌‌های روز دنیا بیننده بهترین‌ها خواهید بود.                                </div>
+                                                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-22 margin-no theme-dark ' id="bxc-3d1a5995" style="">
+		<span class='me-hidy updated'>2018-11-26 16:16</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image parallax' style=" background-image:url('/uploads/images/13970905739_tva-planet-of-apes-bg.jpg');  " data-height="600" data-width="1280">
+                                    <img class='u-photo' src='/uploads/images/13970905739_tva-planet-of-apes-bg.jpg' alt='جنگ برای سیاره میمون ها' />                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                                                        <div class='box-poster'>
+                                <div class='list-item'>
+                                    <div class='item-content'>
+                                        <div class='item-image'>
+                                            <div class='small-image image-hover'>
+                                                <div class='c-hover '>
+                                                    <a target="_blank" href='https://tva.tv/movies/war_for_the_planet_of_the_apes'><img class='i-photo' src='/uploads/images/13970905639_tva-planet-of-apes-poster.jpg' alt='جنگ برای سیاره میمون ها' /> </a>
+                                                </div>
+                                                                                                <a target="_blank" href="https://tva.tv/movies/war_for_the_planet_of_the_apes" class="icon-play">play</a>
+                                                                                            </div>
+                                        </div>
+                                        <h5>
+                                            <a href='https://tva.tv/movies/war_for_the_planet_of_the_apes'></a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        جنگ برای سیاره میمون ها                                    </span>
+                                </h6>
+                            
+                            
+                                                            <div class="botton_box">
+                                    <p class="create_year"><span>سال ساخت:</span>۱۳۹۵</p>
+                                    <p class="genre"><span>ژانر:</span>اکشن، درام</p>
+                                </div>
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-10 margin-no bg-pos-right theme-dark height_600 ' id="bxc-4387d7ff" style="">
+		<span class='me-hidy updated'>2018-11-26 16:28</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image ' style=" background-image:url('/uploads/images/13960827334_stb_home.jpg');  " data-height="650" data-width="1280">
+                                    <img class='u-photo' src='/uploads/images/13960827334_stb_home.jpg' alt='در کنار هم ببینید' />                            </div>
+        		<div class='box-svg'><div class='in'></div></div>				<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							<h4 class='entry-ontitle'><span>تیباکس</span></h4>
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        در کنار هم ببینید                                    </span>
+                                </h6>
+                            
+                                                        <div class='description'>
+                                <div class='text entry-content e-content'>
+                                    شمـا می‌توانید با استفـاده از گیرنده تیـوا هیجان دنبال کردن و تماشـای برنامـه‌هایی را که دوست ‌دارید در کنـار یکدیگر تجـربه کنید. با این گیرنده سرویس تیـوا بر‌ روی تلویزیون در دسترس شما خواهد‌ بود. جستجـو در منوهای سرویس و انتخاب برنامه مورد علاقه‌تان با استفاده از ریموت کنترل هوشمند، آسان و ساده است. این گیرنده اینترتنی کامل‌ترین تجربه استفاده از سرویس تیـوا را به صورت جمعی در اختیار شما می‌گذارد؛ تجـربه دیدن تصاویر در ابعاد بزرگتر.                                </div>
+                                                                                                                                
+                                                                                                                            </div>
+                            
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-22 margin-no theme-dark ' id="bxc-cf63ec58" style="">
+		<span class='me-hidy updated'>2018-11-26 16:41</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image parallax' style=" background-image:url('/uploads/images/13970905720_tva-hhold-the-dark-bg.jpg');  " data-height="600" data-width="1280">
+                                    <img class='u-photo' src='/uploads/images/13970905720_tva-hhold-the-dark-bg.jpg' alt='تاریکی را نگه دار' />                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                                                        <div class='box-poster'>
+                                <div class='list-item'>
+                                    <div class='item-content'>
+                                        <div class='item-image'>
+                                            <div class='small-image image-hover'>
+                                                <div class='c-hover '>
+                                                    <a target="_blank" href='https://tva.tv/movies/hold_the_dark'><img class='i-photo' src='/uploads/images/13970905328_tva-hold-the-dark-poster.jpg' alt='تاریکی را نگه دار' /> </a>
+                                                </div>
+                                                                                                <a target="_blank" href="https://tva.tv/movies/hold_the_dark" class="icon-play">play</a>
+                                                                                            </div>
+                                        </div>
+                                        <h5>
+                                            <a href='https://tva.tv/movies/hold_the_dark'></a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        تاریکی را نگه دار                                    </span>
+                                </h6>
+                            
+                            
+                                                            <div class="botton_box">
+                                    <p class="create_year"><span>سال ساخت:</span>۱۳۹۶</p>
+                                    <p class="genre"><span>ژانر:</span>ماجراجویی، درام</p>
+                                </div>
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+
+	<div class='box hentry h-entry type-22 margin-no theme-dark ' id="bxc-62adedf2" style="">
+		<span class='me-hidy updated'>2018-11-26 16:26</span>
+		<span class='me-hidy author vcard'><span class='fn'>تلویزیون تعاملی تیوا</span></span>
+				            <div class='box-image parallax' style=" background-image:url('/uploads/images/13970905536_tva-kill-the-gaints-bg.jpg');  " data-height="600" data-width="1280">
+                                    <img class='u-photo' src='/uploads/images/13970905536_tva-kill-the-gaints-bg.jpg' alt='من غول‌ها را می‌کشم' />                            </div>
+        						<div class='box-over'>
+						<div class='box-content' style="">
+				<div class='container'>
+
+
+					<div class='c'>
+
+                        
+                                                        <div class='box-poster'>
+                                <div class='list-item'>
+                                    <div class='item-content'>
+                                        <div class='item-image'>
+                                            <div class='small-image image-hover'>
+                                                <div class='c-hover '>
+                                                    <a target="_blank" href='https://tva.tv/movies/i_kill_giant'><img class='i-photo' src='/uploads/images/13970905391_tva-hold-the-dark-poster.jpg' alt='من غول‌ها را می‌کشم' /> </a>
+                                                </div>
+                                                                                                <a target="_blank" href="https://tva.tv/movies/i_kill_giant" class="icon-play">play</a>
+                                                                                            </div>
+                                        </div>
+                                        <h5>
+                                            <a href='https://tva.tv/movies/i_kill_giant'></a>
+                                        </h5>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        
+                        
+                            <div class='box-text'>
+							
+
+							
+							                                <h6 class='entry-title p-name'>
+                                    <span>
+                                        من غول‌ها را می‌کشم                                    </span>
+                                </h6>
+                            
+                            
+                                                            <div class="botton_box">
+                                    <p class="create_year"><span>سال ساخت:</span>۱۳۹۵</p>
+                                    <p class="genre"><span>ژانر:</span>خیالی، درام</p>
+                                </div>
+                            
+						</div>
+
+                        
+						
+						
+                        
+					</div>
+
+					<div class='clear'></div>
+				</div>
+			</div>
+		</div>
+
+        
+
+		
+	</div>
+
+</div>
+			<div class='clear'></div>
+		</div><!-- .container -->
+	</div><!-- .page -->
+
+
+	<footer id='site-footer'>
+		<div class='container'>
+			<div class='display-mobile'>
+				<div class='logo'>
+					<a title='تلویزیون تعاملی تیوا' href='http://www.tva.ir'><img src='/web/theme/default/assets/images/logo_fa.png' alt='تلویزیون تعاملی تیوا' /></a>
+				</div>
+				
+				<nav class='copyright'>
+					دارای مجوز رسمی از صدا و سیمای جمهوری اسلامی ایران. کلیه حقوق این وب سایت برای شرکت تراشه سبز تهران محفوظ است.				</nav>
+				<div class='clear'></div>
+			</div>
+			
+			
+			<div class='menu'>
+                    <ul class='navigation'><li class='main-li'>
+					
+					<div class='submenu oneline'><div class='container'><ul><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/home'>صفحه اصلی</a></li></ul></div></div></li><li class='main-li'>
+					
+					<div class='submenu oneline'><div class='container'><ul><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/services/app'>دریافت اپلیکیشن</a></li><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='https://tva.tv/'>تماشای آنلاین</a></li></ul></div></div></li><li class='main-li'>
+					
+					<div class='submenu oneline'><div class='container'><ul><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/contact/contact'>تماس با ما</a></li><li class='menu-item' itemprop='name'><a class='sublink' itemprop='url'  href='http://www.tva.ir/fa/contact/voc'>صدای مشتری</a></li></ul></div></div></li></ul>				<div class='clear'></div>	
+			</div>
+			
+			
+			<div class='logo'>
+				<a title='تلویزیون تعاملی تیوا' href='http://www.tva.ir'><img src='/web/theme/default/assets/images/logo_fa.png' alt='تلویزیون تعاملی تیوا' /></a>
+			</div>
+			
+			<nav class='copyright'>
+				تلویزیون تعاملی تیوا				<br /><br />
+				دارای مجوز رسمی از صدا و سیمای جمهوری اسلامی ایران. کلیه حقوق این وب سایت برای شرکت تراشه سبز تهران محفوظ است.				<br />
+				&copy; 2018
+			</nav>
+            <div class="social-network">
+                <ul>
+                    <li class="instagram"><a href="https://www.instagram.com/tva.ir/" target="_blank"></a></li>
+                    <li class="bisphone"><a href="http://bpn.im/tva_tv" target="_blank"></a></li>
+                    <li class="telegram"><a href="https://t.me/irtvatv" target="_blank"></a></li>
+                    <li class="aparat"><a href="https://www.aparat.com/tva.ir" target="_blank"></a></li>
+                </ul>
+            </div>
+			<div class='clear'></div>
+		</div>	
+	</footer>
+
+	
+</div><!-- .wrapper -->
+</div><!-- .p -->
+<script type='text/javascript' src='/web/theme/default/assets/js/jquery.min;html5shiv;video;autosize;chosen.jquery.min.js'></script>
+<script type='text/javascript' src='/web/theme/default/assets/js/owl.carousel.min;js-image-slider;jquery.ui.widget;jquery.iframe-transport;jquery.fileupload;flickity.pkgd.min.js'></script>
+
+<script type='text/javascript' src='/web/theme/default/assets/js/custom.js'></script>
+
+<script type='text/javascript' src='/web/theme/default/assets/js/swiper/swiper.min.js'></script>
+<script>
+//    var doc = document.innerWidth;
+//    var win =  window.innerWidth;
+//    var count = Math.floor(win / 230);
+//    console.log(count);
+
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 'auto',
+        spaceBetween: 0,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+    });
+</script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-65949796-3', 'auto');
+    ga('send', 'pageview');
+</script>
+
+</body>
+</html>

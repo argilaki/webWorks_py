@@ -1,0 +1,1848 @@
+
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="google-site-verification" content="z6FjZdQulJoG6dYj4WQi5wBnhlvlHYf2gUD2ilTuANw">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="content-language" content="fa">
+    <meta name="alexaVerifyID" content="FtpHXHj6qVAZnHo8Lr-bAAaNBYc">
+
+    <link rel="icon" href="/favicon.ico">
+    <link rel="manifest" href="https://www.mp4.ir/manifest.json?v=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Saham 98">
+
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+    <link rel="shortcut icon" sizes="192x192" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+    <link rel="shortcut icon" sizes="256x256" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+    <link rel="shortcut icon" sizes="512x512" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+
+    <link rel="apple-touch-icon" sizes="192x192" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+    <link rel="apple-touch-icon" sizes="256x256" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+
+    <link rel="apple-touch-icon-precomposed" sizes="192x192" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+    <link rel="apple-touch-icon-precomposed" sizes="256x256" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+    <link rel="apple-touch-icon-precomposed" sizes="512x512" href="https://www.mp4.ir/images/Mp4LogoCirc.png">
+
+
+    <meta name="theme-color" content="#bdbdbd" />
+
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#FEAE22" />
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#dedede" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="alexaVerifyID" content="FtpHXHj6qVAZnHo8Lr-bAAaNBYc" />
+
+
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+    <link rel='schema.DC' href='http://purl.org/dc/elements/1.1/' />
+    <link rel='schema.DCTERMS' href='http://purl.org/dc/terms/' />
+    <meta name='DC.Type' content='video'>
+    <meta name='DC.title' content='mp4.ir - &#x633;&#x631;&#x648;&#x6CC;&#x633; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x648;&#x6CC;&#x62F;&#x6CC;&#x648;' />
+    <meta name='DC.description' content='&#x648;&#x6CC;&#x62F;&#x6CC;&#x648; &#x647;&#x627;&#x6CC; &#x62E;&#x648;&#x62F; &#x631;&#x627; &#x628;&#x62F;&#x648;&#x646; &#x645;&#x62D;&#x62F;&#x648;&#x62F;&#x6CC;&#x62A; &#x62D;&#x62C;&#x645; &#x628;&#x627; &#x62F;&#x648;&#x633;&#x62A;&#x627;&#x646; &#x648;&#x647;&#x632;&#x627;&#x631;&#x627;&#x646; &#x646;&#x641;&#x631; &#x62F;&#x6CC;&#x6AF;&#x631; &#x628;&#x647; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x628;&#x6AF;&#x630;&#x627;&#x631;&#x6CC;&#x62F;.&#x645;&#x646;&#x628;&#x639; &#x628;&#x632;&#x631;&#x6AF;&#x6CC; &#x627;&#x632; &#x6A9;&#x644;&#x6CC;&#x67E; &#x647;&#x627;&#x6CC; &#x62C;&#x627;&#x644;&#x628; &#x648; &#x641;&#x6CC;&#x644;&#x645; &#x647;&#x627;&#x6CC; &#x628;&#x627; &#x6A9;&#x6CC;&#x641;&#x6CC;&#x62A; &#x648; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x647;&#x627;&#x6CC; &#x62C;&#x62F;&#x6CC;&#x62F; ' />
+    <meta name='DC.subject' content='mp4.ir - &#x633;&#x631;&#x648;&#x6CC;&#x633; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x648;&#x6CC;&#x62F;&#x6CC;&#x648;' />
+    <meta name='DC.language' content='fa' />
+    <meta name='DC.Identifier' content='https://mp4.ir'>
+    <meta name='title' content='mp4.ir - &#x633;&#x631;&#x648;&#x6CC;&#x633; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x648;&#x6CC;&#x62F;&#x6CC;&#x648;' />
+    <meta name='description' content='&#x648;&#x6CC;&#x62F;&#x6CC;&#x648; &#x647;&#x627;&#x6CC; &#x62E;&#x648;&#x62F; &#x631;&#x627; &#x628;&#x62F;&#x648;&#x646; &#x645;&#x62D;&#x62F;&#x648;&#x62F;&#x6CC;&#x62A; &#x62D;&#x62C;&#x645; &#x628;&#x627; &#x62F;&#x648;&#x633;&#x62A;&#x627;&#x646; &#x648;&#x647;&#x632;&#x627;&#x631;&#x627;&#x646; &#x646;&#x641;&#x631; &#x62F;&#x6CC;&#x6AF;&#x631; &#x628;&#x647; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x628;&#x6AF;&#x630;&#x627;&#x631;&#x6CC;&#x62F;.&#x645;&#x646;&#x628;&#x639; &#x628;&#x632;&#x631;&#x6AF;&#x6CC; &#x627;&#x632; &#x6A9;&#x644;&#x6CC;&#x67E; &#x647;&#x627;&#x6CC; &#x62C;&#x627;&#x644;&#x628; &#x648; &#x641;&#x6CC;&#x644;&#x645; &#x647;&#x627;&#x6CC; &#x628;&#x627; &#x6A9;&#x6CC;&#x641;&#x6CC;&#x62A; &#x648; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x647;&#x627;&#x6CC; &#x62C;&#x62F;&#x6CC;&#x62F; ' />
+    <meta name='keywords' content='mp4 , video , clip , film , cinema , animation, trailers , &#x648;&#x6CC;&#x62F;&#x6CC;&#x648; , &#x648;&#x6CC;&#x62F;&#x626;&#x648; , &#x6A9;&#x644;&#x6CC;&#x67E; , &#x641;&#x6CC;&#x644;&#x645; , &#x633;&#x6CC;&#x646;&#x645;&#x627; , &#x6A9;&#x627;&#x631;&#x62A;&#x648;&#x646; , &#x62A;&#x631;&#x6CC;&#x644;&#x631; , &#x622;&#x646;&#x648;&#x646;&#x633;' />
+    <meta property='og:site_name' content='mp4' />
+    <meta property='og:type' content='video' />
+    <meta property='og:url' content='https://mp4.ir' />
+    <meta property='og:title' content='mp4.ir - &#x633;&#x631;&#x648;&#x6CC;&#x633; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x648;&#x6CC;&#x62F;&#x6CC;&#x648;' />
+    <meta property='og:description' content='&#x648;&#x6CC;&#x62F;&#x6CC;&#x648; &#x647;&#x627;&#x6CC; &#x62E;&#x648;&#x62F; &#x631;&#x627; &#x628;&#x62F;&#x648;&#x646; &#x645;&#x62D;&#x62F;&#x648;&#x62F;&#x6CC;&#x62A; &#x62D;&#x62C;&#x645; &#x628;&#x627; &#x62F;&#x648;&#x633;&#x62A;&#x627;&#x646; &#x648;&#x647;&#x632;&#x627;&#x631;&#x627;&#x646; &#x646;&#x641;&#x631; &#x62F;&#x6CC;&#x6AF;&#x631; &#x628;&#x647; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x628;&#x6AF;&#x630;&#x627;&#x631;&#x6CC;&#x62F;.&#x645;&#x646;&#x628;&#x639; &#x628;&#x632;&#x631;&#x6AF;&#x6CC; &#x627;&#x632; &#x6A9;&#x644;&#x6CC;&#x67E; &#x647;&#x627;&#x6CC; &#x62C;&#x627;&#x644;&#x628; &#x648; &#x641;&#x6CC;&#x644;&#x645; &#x647;&#x627;&#x6CC; &#x628;&#x627; &#x6A9;&#x6CC;&#x641;&#x6CC;&#x62A; &#x648; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x647;&#x627;&#x6CC; &#x62C;&#x62F;&#x6CC;&#x62F; ' />
+    <meta property='og:image' />
+    <meta property='og:image:secure_url' />
+    <meta property='og:image:type' content='image/jpeg' />
+    <meta property='og:image:width' content='778' />
+    <meta property='og:image:height' content='438' />
+    <meta property='og:video:url' />
+    <meta property='og:video:secure_url' />
+    <meta property='og:video:type' content='video/mp4' />
+    <meta property='og:video:width' content='640' />
+    <meta property='og:video:height' content='360' />
+    <link rel='image_src' />
+    <link rel='canonical' href='https://mp4.ir' />
+    <meta name="author" content="PishtazGroup" />
+    <meta name="copyright" content="كلیه حقوق مادی و معنوی این وب سایت، متعلق به گروه شرکتهای پیشتاز است." />
+
+    <title>mp4.ir - &#x633;&#x631;&#x648;&#x6CC;&#x633; &#x627;&#x634;&#x62A;&#x631;&#x627;&#x6A9; &#x648;&#x6CC;&#x62F;&#x6CC;&#x648;</title>
+    <link rel="icon" sizes="32x32" href="/favicon.ico">
+    <link rel="stylesheet" href="/styles/bootstrap.min.css">
+    <link rel="stylesheet" href="/styles/bootstrap-rtl.min.css">
+    <link rel="stylesheet" href="/styles/flaticon.css">
+    <link rel="stylesheet" href="/Styles/swiper.min.css" />
+    <link rel="stylesheet" href="/styles/aos.css" />
+    <link rel="stylesheet" href="/Styles/main-style.css?v=21" />
+
+    
+
+
+</head>
+<body>
+    <div class="container-fluid">
+
+        <!--Header-->
+        <div class="row hidden-sm hidden-xs">
+            <div class=" header clearfix navbar-fixed-top">
+                <div class="col-md-3">
+                    <div class="icon-menu inline">
+                        <i class="flaticon-menu-three-horizontal-lines-symbol C-gray"></i>
+                    </div>
+                    <div class="d-logo inline">
+                        <a href="/" title="mp4.ir">
+                            <img src="/images/mp4logo-justlogo.png" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="col-sm-7 col-md-offset-2 SearchBox ">
+                        <input type="text" placeholder="ویدیو خود را جستجو کنید ..." class="form-control txtsearch">
+                        <div class="searchresult">
+
+                        </div>
+                    </div>
+                    <div onclick="gotosearch('pc')" class="btn-search paddR0 col-md-1">
+                        <span><i class="flaticon-magnifier"></i></span>
+                    </div>
+                </div>
+                <div class="col-md-3 text-left">
+                    <ul class="paddR0 mrgB0">
+                        <li class=" UpVideo mrgL40">
+                            <a href="/Upload" title="بارگذاری ویدیو">
+                                <span class="pull-right">بارگذاری ویدیو</span>
+                                <div class="pull-right">
+                                    <i class="flaticon-clapperboard C-orang"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li class=" More-option logins">
+                            <div style="cursor:pointer" class="userImg" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <img src="/images/disk-jockey.png?v=1" class="img-responsive img-circle">
+
+                            </div>
+                            <ul class="dropdown-menu">
+                                        <li>
+                                            <p class="UserName">کاربر میهمان</p>
+                                        </li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a style="cursor:pointer" onclick="gotoaccount()"><i class="flaticon-enter"></i>ورود</a></li>
+                                        <li><a href="https://accounts.pishtaz.ir/account/register"><i class="flaticon-user-1"></i>ثبت نام</a></li>
+                                                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="MenuMobile hidden-lg hidden-md">
+            <nav class="navbar navbar-default navbar-fixed-top text-center">
+                <div class="container-fluid">
+                    <div class="M-nav">
+                        <ul class=" text-center">
+
+                            <li class="dropdown UserMenu pull-right">
+                                <div style="cursor:pointer" class="userImg" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <img src="/images/disk-jockey.png?v=1" class="img-responsive img-circle" width="35">
+
+                                </div>
+                                <ul class="dropdown-menu">
+                                            <li>
+                                                <p class="UserName C-green">کاربر میهمان</p>
+                                            </li>
+                                            <li role="separator" class="divider"></li>
+                                            <li><a style="cursor:pointer" onclick="gotoaccount()"><i class="flaticon-enter"></i>ورود</a></li>
+                                            <li><a href="https://accounts.pishtaz.ir/account/register"><i class="flaticon-user-1"></i>ثبت نام</a></li>
+                                                                    </ul>
+                            </li>
+                            <li>
+                                <a href="/" title="خانه" class="navbar-brand">
+                                    <img src="/images/mp4logo-justlogo.png" class="img-responsive" />
+                                </a>
+                            </li>
+                            <li class="dropdown pull-left SearchTop">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                    <i class="flaticon-magnifier"></i>
+                                </a>
+                                <ul class="dropdown-menu trans">
+                                    <li>
+                                        <form class="navbar-form  padd0">
+                                            <div class="clearfix mrg0-a padd15">
+                                                <div class="SearchBox padd0">
+                                                    <input type="text" placeholder="ویدیو خود را جستجو کنید ..." class="form-control txtsearch_mb txtsearch">
+                                                    <div class="searchresult">
+
+                                                    </div>
+                                                </div>
+                                                <div onclick="gotosearch('mb')" class="btn-search ">
+                                                    <span><i class="flaticon-magnifier"></i></span>
+                                                </div>
+                                            </div>
+                                            <i class="flaticon-cancel C-red"></i>
+                                        </form>
+                                    </li>
+                                </ul>
+                            </li>
+
+
+
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav>
+            <nav class="navbar navbar-default navbar-fixed-bottom text-center">
+                <div class="container-fluid">
+                    <div class="M-nav">
+                        <ul class="nav navbar-nav text-center">
+                            <li>
+                                <a href="/" title="خانه">
+                                    <i class="flaticon-home-button-for-interface"></i>
+                                </a>
+                            </li>
+
+                                    <li>
+                                        <a href="/User/Login" title="ورود به حساب کاربری">
+                                            <i class="flaticon-user-account-box "></i>
+                                        </a>
+                                    </li>
+                            <li><a href="/Upload" title="بارگذاری ویدیو"><i class="flaticon-clapperboard"></i></a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="دسته بندی">
+                                    <i class="flaticon-grid"></i>
+                                </a>
+                                <ul class="paddR0  dropdown-menu trans category">
+                                    <li>
+                                        <a href="/Category/22/آشپزی" title="آشپزی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-cooking-food-in-a-hot-casserole C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">آشپزی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/4/آموزشی" title="آموزشی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-business-presentation C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">آموزشی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/25/اطلاعات-عمومی" title="اطلاعات عمومی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-raise-your-hand-to-ask C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">اطلاعات عمومی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/13/انیمیشن" title="انیمیشن">
+                                            <div class="icon inline">
+                                                <i class="flaticon-animat C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">انیمیشن</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/14/ایرانگردی" title="ایرانگردی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-iranview C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">ایرانگردی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/28/بازی" title="بازی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-game C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">بازی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/19/پزشکی" title="پزشکی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-heartbeat C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">پزشکی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/10/تبلیغات" title="تبلیغات">
+                                            <div class="icon inline">
+                                                <i class="flaticon-commercial C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">تبلیغات</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/15/جهانگردی" title="جهانگردی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-global C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">جهانگردی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/12/حوادث" title="حوادث">
+                                            <div class="icon inline">
+                                                <i class="flaticon-accident C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">حوادث</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/16/حیات-وحش" title="حیات وحش">
+                                            <div class="icon inline">
+                                                <i class="flaticon-pawprint C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">حیات وحش</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/9/خبری" title="خبری">
+                                            <div class="icon inline">
+                                                <i class="flaticon-interview C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">خبری</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/17/دوربین-مخفی" title="دوربین مخفی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-video-recorder C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">دوربین مخفی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/2/شخصی" title="شخصی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-film C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">شخصی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/26/طبیعت" title="طبیعت">
+                                            <div class="icon inline">
+                                                <i class="flaticon-plant C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">طبیعت</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/3/طنز" title="طنز">
+                                            <div class="icon inline">
+                                                <i class="flaticon-funny-mask C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">طنز</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/5/علمی" title="علمی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-brain-and-head C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">علمی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/24/فناوری-اطلاعات" title="فناوری اطلاعات">
+                                            <div class="icon inline">
+                                                <i class="flaticon-visualization-of-data C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">فناوری اطلاعات</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/6/فیلم-و-سریال" title="فیلم و سریال">
+                                            <div class="icon inline">
+                                                <i class="flaticon-film-1 C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">فیلم و سریال</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/20/کودک" title="کودک">
+                                            <div class="icon inline">
+                                                <i class="flaticon-child-head-with-smiling-face C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">کودک</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/11/گوناگون" title="گوناگون">
+                                            <div class="icon inline">
+                                                <i class="flaticon-reaction C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">گوناگون</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/21/مد-و-زیبایی" title="مد و زیبایی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-spa C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">مد و زیبایی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/8/مذهبی" title="مذهبی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-islam C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">مذهبی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/7/موسیقی" title="موسیقی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-vinyl C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">موسیقی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/1/ورزشی" title="ورزشی">
+                                            <div class="icon inline">
+                                                <i class="flaticon-gym C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">ورزشی</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/27/وسیله-نقلیه" title="وسیله نقلیه">
+                                            <div class="icon inline">
+                                                <i class="flaticon-taxi C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">وسیله نقلیه</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/Category/23/هنری" title="هنری">
+                                            <div class="icon inline">
+                                                <i class="flaticon-paint-and-brush C-green"></i>
+                                            </div>
+                                            <div class="title-menu inline">
+                                                <h5 class="inline">هنری</h5>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav>
+        </div>
+
+        <!--sidebar-->
+        
+        
+
+<div class="col-md-3 col-lg-2 sidebar CB-gray hidden-sm hidden-xs trans padd0">
+    <ul class=" paddR0 ">
+        <li class="inline">
+            <a href="/" title="خانه">
+                <div class="icon inline">
+                    <i class="flaticon-home-button-for-interface C-lightOrang "></i>
+                </div>
+                <div class="title-menu inline">
+                    <h5 class="inline">خانه</h5>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://kids.mp4.ir" title="سرویس کودک">
+                <div class="icon inline">
+                    <i class="flaticon-movie-child C-lightOrang "></i>
+                </div>
+                <div class="title-menu inline">
+                    <h5 class="inline">سرویس کودک</h5>
+                </div>
+            </a>
+        </li>
+        <li class="borderB-O open">
+            <div class="icon inline">
+                <i class="flaticon-grid C-lightOrang "></i>
+            </div>
+            <div class="title-menu inline">
+                <h5 class="inline">دسته بندی</h5>
+            </div>
+            <div class="icon caret"></div>
+            <div class="sliding" tabindex="1" style="overflow: hidden; outline: none;display: block;">
+                <ul class="paddR0 Sub-category">
+                    <li>
+                        <a href="/Category/22/آشپزی" title="آشپزی">
+                            <div class="icon inline">
+                                <i class="flaticon-cooking-food-in-a-hot-casserole C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">آشپزی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/4/آموزشی" title="آموزشی">
+                            <div class="icon inline">
+                                <i class="flaticon-business-presentation C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">آموزشی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/25/اطلاعات-عمومی" title="اطلاعات عمومی">
+                            <div class="icon inline">
+                                <i class="flaticon-raise-your-hand-to-ask C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">اطلاعات عمومی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/13/انیمیشن" title="انیمیشن">
+                            <div class="icon inline">
+                                <i class="flaticon-animat C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">انیمیشن</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/14/ایرانگردی" title="ایرانگردی">
+                            <div class="icon inline">
+                                <i class="flaticon-iranview C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">ایرانگردی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/28/بازی" title="بازی">
+                            <div class="icon inline">
+                                <i class="flaticon-game C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">بازی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/19/پزشکی" title="پزشکی">
+                            <div class="icon inline">
+                                <i class="flaticon-heartbeat C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">پزشکی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/10/تبلیغات" title="تبلیغات">
+                            <div class="icon inline">
+                                <i class="flaticon-commercial C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">تبلیغات</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/15/جهانگردی" title="جهانگردی">
+                            <div class="icon inline">
+                                <i class="flaticon-global C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">جهانگردی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/12/حوادث" title="حوادث">
+                            <div class="icon inline">
+                                <i class="flaticon-accident C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">حوادث</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/16/حیات-وحش" title="حیات وحش">
+                            <div class="icon inline">
+                                <i class="flaticon-pawprint C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">حیات وحش</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/9/خبری" title="خبری">
+                            <div class="icon inline">
+                                <i class="flaticon-interview C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">خبری</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/17/دوربین-مخفی" title="دوربین مخفی">
+                            <div class="icon inline">
+                                <i class="flaticon-video-recorder C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">دوربین مخفی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/2/شخصی" title="شخصی">
+                            <div class="icon inline">
+                                <i class="flaticon-film C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">شخصی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/26/طبیعت" title="طبیعت">
+                            <div class="icon inline">
+                                <i class="flaticon-plant C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">طبیعت</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/3/طنز" title="طنز">
+                            <div class="icon inline">
+                                <i class="flaticon-funny-mask C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">طنز</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/5/علمی" title="علمی">
+                            <div class="icon inline">
+                                <i class="flaticon-brain-and-head C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">علمی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/24/فناوری-اطلاعات" title="فناوری اطلاعات">
+                            <div class="icon inline">
+                                <i class="flaticon-visualization-of-data C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">فناوری اطلاعات</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/6/فیلم-و-سریال" title="فیلم و سریال">
+                            <div class="icon inline">
+                                <i class="flaticon-film-1 C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">فیلم و سریال</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/20/کودک" title="کودک">
+                            <div class="icon inline">
+                                <i class="flaticon-child-head-with-smiling-face C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">کودک</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/11/گوناگون" title="گوناگون">
+                            <div class="icon inline">
+                                <i class="flaticon-reaction C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">گوناگون</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/21/مد-و-زیبایی" title="مد و زیبایی">
+                            <div class="icon inline">
+                                <i class="flaticon-spa C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">مد و زیبایی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/8/مذهبی" title="مذهبی">
+                            <div class="icon inline">
+                                <i class="flaticon-islam C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">مذهبی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/7/موسیقی" title="موسیقی">
+                            <div class="icon inline">
+                                <i class="flaticon-vinyl C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">موسیقی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/1/ورزشی" title="ورزشی">
+                            <div class="icon inline">
+                                <i class="flaticon-gym C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">ورزشی</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/27/وسیله-نقلیه" title="وسیله نقلیه">
+                            <div class="icon inline">
+                                <i class="flaticon-taxi C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">وسیله نقلیه</h5>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Category/23/هنری" title="هنری">
+                            <div class="icon inline">
+                                <i class="flaticon-paint-and-brush C-lightOrang "></i>
+                            </div>
+                            <div class="title-menu inline">
+                                <h5 class="inline">هنری</h5>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+
+    </ul>
+    <footer class="padd15">
+        <div class="Slogan backimg">
+
+        </div>
+        <div class="BrandList mrg15-0">
+            <ul class="text-center">
+                <li><a class="backimg pishtazMovie" href="https://pishtazmovie.ir/" title="pishtazmovie.ir"></a></li>
+                <li><a class="backimg calendar" href="http://calendar.pishtaz.ir" title="calendar.pishtaz.ir"></a></li>
+                <li><a class="backimg kids" href="http://www.mp4kids.ir" title="mp4kids.ir"></a></li>
+                <li><a class="backimg mp4" href="http://www.mp4.ir" title="mp4.ir"></a></li>
+                <li><a class="backimg imageplus" href="http://www.imageplus.ir" title="imageplus.ir"></a></li>
+                <li><a class="backimg mysd" href="http://www.mysd.ir" title="mysd.ir"></a></li>
+                <li><a class="backimg news" href="http://news.pishtaz.ir" title="news.pishtaz.ir"></a></li>
+            </ul>
+        </div>
+        <div class="mrg15-0 text-center">
+            <a href="https://accounts.pishtaz.ir/account/register" title="عضویت">
+                <h5 class="C-lightOrang ">در <span class="font-en">MP4.ir </span>عضو شوید</h5>
+            </a>
+        </div>
+        <div class="nav-footer">
+            <ul class="text-center">
+                <li class="inline">
+                    <a target="_blank" href="https://accounts.pishtaz.ir/Home/Rules" title="قوانین">قوانین</a>
+                </li>
+                <li class="inline">
+                    <a target="_blank" href="https://accounts.pishtaz.ir/Home/AboutUs" title="درباره ما">درباره ما</a>
+                </li>
+                <li class="inline">
+                    <a target="_blank" href="https://accounts.pishtaz.ir/Home/ContactUs" title="تماس با ما">تماس با ما</a>
+                </li>
+            </ul>
+        </div>
+        <div class="fllowUs text-center">
+            <h5>ما را در شبکه های اجتماعی دنبال کنید</h5>
+            <ul>
+                <li>
+                    <a href="" title="facebook">
+                        <img src="/images/Facebook.png?v=1" class="img-responsive" />
+                    </a>
+                </li>
+                <li>
+                    <a href="" title="whatsapp">
+                        <img src="/images/whatsapp.png?v=1" class="img-responsive" />
+                    </a>
+                </li>
+                <li>
+                    <a href="" title="telegram">
+                        <img src="/images/telegram.png?v=1" class="img-responsive" />
+                    </a>
+                </li>
+                <li>
+                    <a href="" title="instagram">
+                        <img src="/images/instagram.png?v=1" class="img-responsive" />
+                    </a>
+                </li>
+                <li>
+                    <a href="" title="twitter">
+                        <img src="/images/twitter.png?v=1" class="img-responsive" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="Mp4Apps text-center clearfix">
+            <ul>
+                <li>
+                    <a href="" title="ios" class="IosApp"> </a>
+                </li>
+                <li>
+                    <a href="" title="android" class="AndroidApp"> </a>
+                </li>
+            </ul>
+        </div>
+        <div class="mrg15-0 text-center">
+            <!-- <h6>مسئولیت محتوای ویدیوها با منتشرکننده ی آن است و mp4.ir مسئولیتی نسبت به آن ندارد.</h6> -->
+            <h6>تمام حقوق این سایت متعلق به <span class="font-en">mp4.ir </span>می باشد.</h6>
+        </div>
+    </footer>
+</div>
+<!-- <div class="container"> -->
+<div class="col-md-9 col-lg-10 col-lg-offset-2 col-md-offset-3 ContentMaster trans clearfix" id="homePage">
+    <!--master Video-->
+    <div class="masterVideo container">
+        <a href="/Video?Watch=3572-491062709" title="&#x622;&#x647;&#x646;&#x6AF; &#x627;&#x632; &#x62E;&#x648;&#x634;&#x6CC; &#x645;&#x6CC;&#x645;&#x6CC;&#x631;&#x645; &#x627;&#x632; &#x628;&#x627;&#x628;&#x6A9; &#x62C;&#x647;&#x627;&#x646;&#x628;&#x62E;&#x634;">
+            <div class="ImgHolder">
+                <img style="width:100%" src="https://photos.mp4.ir/image/2019/12/3572-491062709/1.jpg" class="img-responsive img-rounded" alt="&#x622;&#x647;&#x646;&#x6AF; &#x627;&#x632; &#x62E;&#x648;&#x634;&#x6CC; &#x645;&#x6CC;&#x645;&#x6CC;&#x631;&#x645; &#x627;&#x632; &#x628;&#x627;&#x628;&#x6A9; &#x62C;&#x647;&#x627;&#x646;&#x628;&#x62E;&#x634;" />
+                <div class="MovieTitle"><h1>&#x622;&#x647;&#x646;&#x6AF; &#x627;&#x632; &#x62E;&#x648;&#x634;&#x6CC; &#x645;&#x6CC;&#x645;&#x6CC;&#x631;&#x645; &#x627;&#x632; &#x628;&#x627;&#x628;&#x6A9; &#x62C;&#x647;&#x627;&#x646;&#x628;&#x62E;&#x634;</h1></div>
+            </div>
+
+            <div class="IconVIdeo">
+                <img src="/images/play-icon.png?v=1" class="img-responsive" />
+            </div>
+        </a>
+    </div>
+    <!--Popular Video-->
+    <div class="container  mrgT4em">
+        <div class="Title-Section mrg1-0 clearfix">
+            <div class="col-xs-8 FlexBox ">
+                <i class="flaticon-play-button C-orang inline"></i>
+                <h3 class="C-Graydark inline">ویدئوهای پیشنهادی </h3>
+            </div>
+        </div>
+        <div class="swipers" id="SuggestVideos">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=6208-170587838" class="BoxVideo" title="&#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x648;&#x627;&#x644;&#x6CC;&#x6A9;&#x627;&#x632;&#x627;&#x645; &#x642;&#x633;&#x645;&#x62A; &#x628;&#x6CC;&#x633;&#x62A; &#x648; &#x634;&#x634;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/6208-170587838/1-m.jpg" class="img-responsive img-rounded " alt="&#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x648;&#x627;&#x644;&#x6CC;&#x6A9;&#x627;&#x632;&#x627;&#x645; &#x642;&#x633;&#x645;&#x62A; &#x628;&#x6CC;&#x633;&#x62A; &#x648; &#x634;&#x634;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:16:56<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x648;&#x627;&#x644;&#x6CC;&#x6A9;&#x627;&#x632;&#x627;&#x645; &#x642;&#x633;&#x645;&#x62A; &#x628;&#x6CC;&#x633;&#x62A; &#x648; &#x634;&#x634;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/09</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=78422-218514011" class="BoxVideo" title="&#x645;&#x648;&#x633;&#x6CC;&#x642;&#x6CC; &#x633;&#x646;&#x62A;&#x6CC; &#x627;&#x6CC;&#x631;&#x627;&#x646;&#x6CC; &#x62F;&#x631; &#x62C;&#x634;&#x646; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/78422-218514011/1-m.jpg" class="img-responsive img-rounded " alt="&#x645;&#x648;&#x633;&#x6CC;&#x642;&#x6CC; &#x633;&#x646;&#x62A;&#x6CC; &#x627;&#x6CC;&#x631;&#x627;&#x646;&#x6CC; &#x62F;&#x631; &#x62C;&#x634;&#x646; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:12:41<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x645;&#x648;&#x633;&#x6CC;&#x642;&#x6CC; &#x633;&#x646;&#x62A;&#x6CC; &#x627;&#x6CC;&#x631;&#x627;&#x646;&#x6CC; &#x62F;&#x631; &#x62C;&#x634;&#x646; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/08</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=57437-244571246" class="BoxVideo" title="&#x645;&#x648;&#x627;&#x62F; &#x63A;&#x630;&#x627;&#x6CC;&#x6CC; &#x628;&#x631;&#x627;&#x6CC; &#x642;&#x648;&#x6CC; &#x6A9;&#x631;&#x62F;&#x646; &#x62F;&#x648;&#x628;&#x627;&#x631;&#x647; &#x686;&#x634;&#x645;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-244571246/1-m.jpg" class="img-responsive img-rounded " alt="&#x645;&#x648;&#x627;&#x62F; &#x63A;&#x630;&#x627;&#x6CC;&#x6CC; &#x628;&#x631;&#x627;&#x6CC; &#x642;&#x648;&#x6CC; &#x6A9;&#x631;&#x62F;&#x646; &#x62F;&#x648;&#x628;&#x627;&#x631;&#x647; &#x686;&#x634;&#x645;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:07:04<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x645;&#x648;&#x627;&#x62F; &#x63A;&#x630;&#x627;&#x6CC;&#x6CC; &#x628;&#x631;&#x627;&#x6CC; &#x642;&#x648;&#x6CC; &#x6A9;&#x631;&#x62F;&#x646; &#x62F;&#x648;&#x628;&#x627;&#x631;&#x647; &#x686;&#x634;&#x645;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/07</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=57437-535507180" class="BoxVideo" title="&#x648;&#x62D;&#x634;&#x62A;&#x646;&#x627;&#x6A9; &#x62A;&#x631;&#x6CC;&#x646; &#x62D;&#x648;&#x627;&#x62F;&#x62B;&#x6CC; &#x6A9;&#x647; &#x62F;&#x631; &#x634;&#x647;&#x631; &#x628;&#x627;&#x632;&#x6CC; &#x647;&#x627; &#x627;&#x62A;&#x641;&#x627;&#x642; &#x627;&#x641;&#x62A;&#x627;&#x62F;&#x646;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-535507180/1-m.jpg" class="img-responsive img-rounded " alt="&#x648;&#x62D;&#x634;&#x62A;&#x646;&#x627;&#x6A9; &#x62A;&#x631;&#x6CC;&#x646; &#x62D;&#x648;&#x627;&#x62F;&#x62B;&#x6CC; &#x6A9;&#x647; &#x62F;&#x631; &#x634;&#x647;&#x631; &#x628;&#x627;&#x632;&#x6CC; &#x647;&#x627; &#x627;&#x62A;&#x641;&#x627;&#x642; &#x627;&#x641;&#x62A;&#x627;&#x62F;&#x646;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:07:12<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x648;&#x62D;&#x634;&#x62A;&#x646;&#x627;&#x6A9; &#x62A;&#x631;&#x6CC;&#x646; &#x62D;&#x648;&#x627;&#x62F;&#x62B;&#x6CC; &#x6A9;&#x647; &#x62F;&#x631; &#x634;&#x647;&#x631; &#x628;&#x627;&#x632;&#x6CC; &#x647;&#x627; &#x627;&#x62A;&#x641;&#x627;&#x642; &#x627;&#x641;&#x62A;&#x627;&#x62F;&#x646;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/07</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=57437-125560445" class="BoxVideo" title="&#x645;&#x634;&#x62E;&#x635;&#x627;&#x62A; &#x62E;&#x648;&#x62F;&#x631;&#x648; &#x645;&#x644;&#x6CC; &#x62A;&#x631;&#x6A9;&#x6CC;&#x647;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-125560445/1-m.jpg" class="img-responsive img-rounded " alt="&#x645;&#x634;&#x62E;&#x635;&#x627;&#x62A; &#x62E;&#x648;&#x62F;&#x631;&#x648; &#x645;&#x644;&#x6CC; &#x62A;&#x631;&#x6A9;&#x6CC;&#x647;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:01:54<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x645;&#x634;&#x62E;&#x635;&#x627;&#x62A; &#x62E;&#x648;&#x62F;&#x631;&#x648; &#x645;&#x644;&#x6CC; &#x62A;&#x631;&#x6A9;&#x6CC;&#x647;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/08</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=57437-629028698" class="BoxVideo" title="&#x62A;&#x631;&#x641;&#x646;&#x62F;&#x647;&#x627;&#x6CC;&#x6CC; &#x628;&#x631;&#x627;&#x6CC; &#x62F;&#x631;&#x62E;&#x634;&#x634; &#x62F;&#x646;&#x62F;&#x627;&#x646;&#x647;&#x627;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-629028698/1-m.jpg" class="img-responsive img-rounded " alt="&#x62A;&#x631;&#x641;&#x646;&#x62F;&#x647;&#x627;&#x6CC;&#x6CC; &#x628;&#x631;&#x627;&#x6CC; &#x62F;&#x631;&#x62E;&#x634;&#x634; &#x62F;&#x646;&#x62F;&#x627;&#x646;&#x647;&#x627;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:12:05<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x62A;&#x631;&#x641;&#x646;&#x62F;&#x647;&#x627;&#x6CC;&#x6CC; &#x628;&#x631;&#x627;&#x6CC; &#x62F;&#x631;&#x62E;&#x634;&#x634; &#x62F;&#x646;&#x62F;&#x627;&#x646;&#x647;&#x627;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/09</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=78422-624946671" class="BoxVideo" title="&#x639;&#x628;&#x648;&#x631; &#x633;&#x6CC;&#x627;&#x631;&#x6A9;&#x6CC; &#x628;&#x632;&#x631;&#x6AF; &#x648; &#x62E;&#x637;&#x631;&#x646;&#x627;&#x6A9; &#x62A;&#x627; &#x67E;&#x6CC;&#x634; &#x627;&#x632; &#x633;&#x627;&#x644; &#x646;&#x648; 2020 &#x627;&#x632; &#x6A9;&#x646;&#x627;&#x631; &#x632;&#x645;&#x6CC;&#x646;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/78422-624946671/4-m.jpg" class="img-responsive img-rounded " alt="&#x639;&#x628;&#x648;&#x631; &#x633;&#x6CC;&#x627;&#x631;&#x6A9;&#x6CC; &#x628;&#x632;&#x631;&#x6AF; &#x648; &#x62E;&#x637;&#x631;&#x646;&#x627;&#x6A9; &#x62A;&#x627; &#x67E;&#x6CC;&#x634; &#x627;&#x632; &#x633;&#x627;&#x644; &#x646;&#x648; 2020 &#x627;&#x632; &#x6A9;&#x646;&#x627;&#x631; &#x632;&#x645;&#x6CC;&#x646;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:12:05<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x639;&#x628;&#x648;&#x631; &#x633;&#x6CC;&#x627;&#x631;&#x6A9;&#x6CC; &#x628;&#x632;&#x631;&#x6AF; &#x648; &#x62E;&#x637;&#x631;&#x646;&#x627;&#x6A9; &#x62A;&#x627; &#x67E;&#x6CC;&#x634; &#x627;&#x632; &#x633;&#x627;&#x644; &#x646;&#x648; 2020 &#x627;&#x632; &#x6A9;&#x646;&#x627;&#x631; &#x632;&#x645;&#x6CC;&#x646;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/07</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=57437-248738801" class="BoxVideo" title="&#x633;&#x642;&#x648;&#x637; &#x647;&#x648;&#x627;&#x67E;&#x6CC;&#x645;&#x627;&#x6CC; &#x62C;&#x646;&#x6AF;&#x6CC; &#x62F;&#x631; &#x633;&#x628;&#x644;&#x627;&#x646;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-248738801/1-m.jpg" class="img-responsive img-rounded " alt="&#x633;&#x642;&#x648;&#x637; &#x647;&#x648;&#x627;&#x67E;&#x6CC;&#x645;&#x627;&#x6CC; &#x62C;&#x646;&#x6AF;&#x6CC; &#x62F;&#x631; &#x633;&#x628;&#x644;&#x627;&#x646;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:02:38<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x633;&#x642;&#x648;&#x637; &#x647;&#x648;&#x627;&#x67E;&#x6CC;&#x645;&#x627;&#x6CC; &#x62C;&#x646;&#x6AF;&#x6CC; &#x62F;&#x631; &#x633;&#x628;&#x644;&#x627;&#x646;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/07</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=57437-42526761" class="BoxVideo" title="&#x686;&#x631;&#x627; &#x6A9;&#x634;&#x62A;&#x6CC; &#x62A;&#x627;&#x6CC;&#x62A;&#x627;&#x646;&#x6CC;&#x6A9; &#x627;&#x632; &#x632;&#x6CC;&#x631; &#x622;&#x628; &#x628;&#x6CC;&#x631;&#x648;&#x646; &#x622;&#x648;&#x631;&#x62F;&#x647; &#x646;&#x645;&#x6CC; &#x634;&#x648;&#x62F;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-42526761/1-m.jpg" class="img-responsive img-rounded " alt="&#x686;&#x631;&#x627; &#x6A9;&#x634;&#x62A;&#x6CC; &#x62A;&#x627;&#x6CC;&#x62A;&#x627;&#x646;&#x6CC;&#x6A9; &#x627;&#x632; &#x632;&#x6CC;&#x631; &#x622;&#x628; &#x628;&#x6CC;&#x631;&#x648;&#x646; &#x622;&#x648;&#x631;&#x62F;&#x647; &#x646;&#x645;&#x6CC; &#x634;&#x648;&#x62F;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:05:44<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x686;&#x631;&#x627; &#x6A9;&#x634;&#x62A;&#x6CC; &#x62A;&#x627;&#x6CC;&#x62A;&#x627;&#x646;&#x6CC;&#x6A9; &#x627;&#x632; &#x632;&#x6CC;&#x631; &#x622;&#x628; &#x628;&#x6CC;&#x631;&#x648;&#x646; &#x622;&#x648;&#x631;&#x62F;&#x647; &#x646;&#x645;&#x6CC; &#x634;&#x648;&#x62F;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/05</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=34759-831807642" class="BoxVideo" title="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x62C;&#x648;&#x6A9;&#x631; 2019 &#x628;&#x627; &#x62F;&#x648;&#x628;&#x644;&#x647; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/34759-831807642/4-m.jpg" class="img-responsive img-rounded " alt="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x62C;&#x648;&#x6A9;&#x631; 2019 &#x628;&#x627; &#x62F;&#x648;&#x628;&#x644;&#x647; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                02:00:58<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x62C;&#x648;&#x6A9;&#x631; 2019 &#x628;&#x627; &#x62F;&#x648;&#x628;&#x644;&#x647; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC;</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/02</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=34759-263187604" class="BoxVideo" title="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x62A;&#x648;&#x6AF;&#x648; 2019">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/34759-263187604/3-m.jpg" class="img-responsive img-rounded " alt="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x62A;&#x648;&#x6AF;&#x648; 2019">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                01:51:20<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x62A;&#x648;&#x6AF;&#x648; 2019</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/02</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/Video?Watch=34759-689972524" class="BoxVideo" title="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x641;&#x627;&#x646;&#x648;&#x633; &#x62F;&#x631;&#x6CC;&#x627;&#x6CC;&#x6CC; 2019">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/34759-689972524/2-m.jpg" class="img-responsive img-rounded " alt="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x641;&#x627;&#x646;&#x648;&#x633; &#x62F;&#x631;&#x6CC;&#x627;&#x6CC;&#x6CC; 2019">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                01:43:19<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="DesVideo">
+                                        <div class="videoName  padd0">
+                                            <p>&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x641;&#x627;&#x646;&#x648;&#x633; &#x62F;&#x631;&#x6CC;&#x627;&#x6CC;&#x6CC; 2019</p>
+                                        </div>
+                                        <div class="padd0 TinyFont text-left">
+                                            <div class=" DateCreat C-gray">
+                                                <b><span>تاریخ ارسال : </span><span class="inline C-orang">1398/10/01</span></b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Popular videos-->
+    <div class=" mrgT4em" id="PopularVideos">
+        <div class="container">
+            <div class="Title-Section mrg1-0 clearfix">
+                <div class="col-xs-8 FlexBox ">
+                    <i class="flaticon-play-button C-orang inline"></i>
+                    <h3 class="C-Graydark inline">ویدئوهای محبوب</h3>
+                </div>
+                <div class="col-xs-4 text-left ViewMore FlexBox">
+                </div>
+            </div>
+
+            <div class="LastVideos clearfix">
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=80129-943998290" title="&#x641;&#x648;&#x627;&#x6CC;&#x62F; &#x639;&#x62C;&#x6CC;&#x628; &#x646;&#x648;&#x634;&#x627;&#x628;&#x647;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/80129-943998290/2-m.jpg" class="img-responsive img-rounded" alt="&#x641;&#x648;&#x627;&#x6CC;&#x62F; &#x639;&#x62C;&#x6CC;&#x628; &#x646;&#x648;&#x634;&#x627;&#x628;&#x647;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:03:21<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=80129-943998290" title="&#x641;&#x648;&#x627;&#x6CC;&#x62F; &#x639;&#x62C;&#x6CC;&#x628; &#x646;&#x648;&#x634;&#x627;&#x628;&#x647;"> <p>&#x641;&#x648;&#x627;&#x6CC;&#x62F; &#x639;&#x62C;&#x6CC;&#x628; &#x646;&#x648;&#x634;&#x627;&#x628;&#x647;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/30min/666/channelname=30min" title="30min">
+                                    <span>30min</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2014/10/687-1351381428/1-m.jpg)" alt="30min">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=75091-189101653" title="&#x62A;&#x646;&#x647;&#x627; &#x633;&#x6CC; &#x627;&#x644; &#x627;&#x633; &#x6F2;&#x6F0;&#x6F1;&#x6F9; &#x627;&#x6CC;&#x631;&#x627;&#x646;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/75091-189101653/4-m.jpg" class="img-responsive img-rounded" alt="&#x62A;&#x646;&#x647;&#x627; &#x633;&#x6CC; &#x627;&#x644; &#x627;&#x633; &#x6F2;&#x6F0;&#x6F1;&#x6F9; &#x627;&#x6CC;&#x631;&#x627;&#x646;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:30:54<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=75091-189101653" title="&#x62A;&#x646;&#x647;&#x627; &#x633;&#x6CC; &#x627;&#x644; &#x627;&#x633; &#x6F2;&#x6F0;&#x6F1;&#x6F9; &#x627;&#x6CC;&#x631;&#x627;&#x646;"> <p>&#x62A;&#x646;&#x647;&#x627; &#x633;&#x6CC; &#x627;&#x644; &#x627;&#x633; &#x6F2;&#x6F0;&#x6F1;&#x6F9; &#x627;&#x6CC;&#x631;&#x627;&#x646;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/paras2/296/channelname=&#x62F;&#x6CC;&#x62F;&#x646;&#x6CC;-&#x647;&#x627;" title="&#x62F;&#x6CC;&#x62F;&#x646;&#x6CC; &#x647;&#x627;">
+                                    <span>&#x62F;&#x6CC;&#x62F;&#x646;&#x6CC; &#x647;&#x627;</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2015/11/315-1666543310/1-m.jpg)" alt="&#x62F;&#x6CC;&#x62F;&#x646;&#x6CC; &#x647;&#x627;">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=79743-31293141" title="&#x645;&#x62C;&#x645;&#x648;&#x639;&#x647; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x627;&#x6CC;&#x646; &#x642;&#x633;&#x645;&#x62A; &#x622;&#x634;&#x63A;&#x627;&#x644;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/79743-31293141/1-m.jpg" class="img-responsive img-rounded" alt="&#x645;&#x62C;&#x645;&#x648;&#x639;&#x647; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x627;&#x6CC;&#x646; &#x642;&#x633;&#x645;&#x62A; &#x622;&#x634;&#x63A;&#x627;&#x644;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:00:42<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=79743-31293141" title="&#x645;&#x62C;&#x645;&#x648;&#x639;&#x647; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x627;&#x6CC;&#x646; &#x642;&#x633;&#x645;&#x62A; &#x622;&#x634;&#x63A;&#x627;&#x644;"> <p>&#x645;&#x62C;&#x645;&#x648;&#x639;&#x647; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x62F;&#x6CC;&#x631;&#x6CC;&#x646; &#x627;&#x6CC;&#x646; &#x642;&#x633;&#x645;&#x62A; &#x622;&#x634;&#x63A;&#x627;&#x644;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/music/280/channelname=&#x645;&#x648;&#x632;&#x6CC;&#x6A9;" title="&#x645;&#x648;&#x632;&#x6CC;&#x6A9;">
+                                    <span>&#x645;&#x648;&#x632;&#x6CC;&#x6A9;</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/Mp4VideosPhotos/299-672333012-m.jpg)" alt="&#x645;&#x648;&#x632;&#x6CC;&#x6A9;">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=57437-390242031" title="&#x62F;&#x645;&#x646;&#x648;&#x634; &#x633;&#x6CC;&#x628; &#x62A;&#x631;&#x634; &#x648; &#x62E;&#x627;&#x635;&#x6CC;&#x62A; &#x647;&#x627;&#x6CC; &#x622;&#x646;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-390242031/1-m.jpg" class="img-responsive img-rounded" alt="&#x62F;&#x645;&#x646;&#x648;&#x634; &#x633;&#x6CC;&#x628; &#x62A;&#x631;&#x634; &#x648; &#x62E;&#x627;&#x635;&#x6CC;&#x62A; &#x647;&#x627;&#x6CC; &#x622;&#x646;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:05:43<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=57437-390242031" title="&#x62F;&#x645;&#x646;&#x648;&#x634; &#x633;&#x6CC;&#x628; &#x62A;&#x631;&#x634; &#x648; &#x62E;&#x627;&#x635;&#x6CC;&#x62A; &#x647;&#x627;&#x6CC; &#x622;&#x646;"> <p>&#x62F;&#x645;&#x646;&#x648;&#x634; &#x633;&#x6CC;&#x628; &#x62A;&#x631;&#x634; &#x648; &#x62E;&#x627;&#x635;&#x6CC;&#x62A; &#x647;&#x627;&#x6CC; &#x622;&#x646;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/ritmico.ir/289826/channelname=Ritmico.ir" title="Ritmico.ir">
+                                    <span>Ritmico.ir</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/Mp4VideosPhotos/61998-833260817-m.jpg)" alt="Ritmico.ir">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=34759-393011140" title="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x631;&#x648;&#x632;&#x6CC; &#x631;&#x648;&#x632;&#x6AF;&#x627;&#x631;&#x6CC; &#x62F;&#x631; &#x647;&#x627;&#x644;&#x6CC;&#x648;&#x648;&#x62F; 2019 &#x628;&#x627; &#x62F;&#x648;&#x628;&#x644;&#x647; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/34759-393011140/3-m.jpg" class="img-responsive img-rounded" alt="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x631;&#x648;&#x632;&#x6CC; &#x631;&#x648;&#x632;&#x6AF;&#x627;&#x631;&#x6CC; &#x62F;&#x631; &#x647;&#x627;&#x644;&#x6CC;&#x648;&#x648;&#x62F; 2019 &#x628;&#x627; &#x62F;&#x648;&#x628;&#x644;&#x647; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                02:24:14<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=34759-393011140" title="&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x631;&#x648;&#x632;&#x6CC; &#x631;&#x648;&#x632;&#x6AF;&#x627;&#x631;&#x6CC; &#x62F;&#x631; &#x647;&#x627;&#x644;&#x6CC;&#x648;&#x648;&#x62F; 2019 &#x628;&#x627; &#x62F;&#x648;&#x628;&#x644;&#x647; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC;"> <p>&#x641;&#x6CC;&#x644;&#x645; &#x633;&#x6CC;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x631;&#x648;&#x632;&#x6CC; &#x631;&#x648;&#x632;&#x6AF;&#x627;&#x631;&#x6CC; &#x62F;&#x631; &#x647;&#x627;&#x644;&#x6CC;&#x648;&#x648;&#x62F; 2019 &#x628;&#x627; &#x62F;&#x648;&#x628;&#x644;&#x647; &#x627;&#x62E;&#x62A;&#x635;&#x627;&#x635;&#x6CC;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/namasha.com/328123/channelname=www.Namasha.com" title="www.Namasha.com">
+                                    <span>www.Namasha.com</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/8/72887-802401509/1-m.jpg?v=lbB3dudOqkWj9VMjVJBkrQ)" alt="www.Namasha.com">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=78422-356898512" title="&#x631;&#x648;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x627;&#x632; &#x62A;&#x632;&#x626;&#x6CC;&#x646;&#x627;&#x62A; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F; &#x62F;&#x631; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; ">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/78422-356898512/1-m.jpg" class="img-responsive img-rounded" alt="&#x631;&#x648;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x627;&#x632; &#x62A;&#x632;&#x626;&#x6CC;&#x646;&#x627;&#x62A; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F; &#x62F;&#x631; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; ">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:00:56<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=78422-356898512" title="&#x631;&#x648;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x627;&#x632; &#x62A;&#x632;&#x626;&#x6CC;&#x646;&#x627;&#x62A; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F; &#x62F;&#x631; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; "> <p>&#x631;&#x648;&#x646;&#x645;&#x627;&#x6CC;&#x6CC; &#x627;&#x632; &#x62A;&#x632;&#x626;&#x6CC;&#x646;&#x627;&#x62A; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F; &#x62F;&#x631; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; </p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/elham.m/909/channelname=&#x62F;&#x631;&#x647;&#x645;-&#x648;-&#x628;&#x631;&#x647;&#x645;" title="&#x62F;&#x631;&#x647;&#x645; &#x648; &#x628;&#x631;&#x647;&#x645;">
+                                    <span>&#x62F;&#x631;&#x647;&#x645; &#x648; &#x628;&#x631;&#x647;&#x645;</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/8/930-704817651/1-m.jpg?v=t/DeFrlLe0207qK2dYZudA)" alt="&#x62F;&#x631;&#x647;&#x645; &#x648; &#x628;&#x631;&#x647;&#x645;">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=57437-440620702" title="&#x641;&#x631;&#x648;&#x634; &#x62E;&#x648;&#x62F;&#x631;&#x648;&#x6CC; &#x645;&#x644;&#x6CC; &#x62A;&#x631;&#x6A9;&#x6CC;&#x647; &#x62F;&#x631; &#x633;&#x627;&#x644; 2021">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-440620702/4-m.jpg" class="img-responsive img-rounded" alt="&#x641;&#x631;&#x648;&#x634; &#x62E;&#x648;&#x62F;&#x631;&#x648;&#x6CC; &#x645;&#x644;&#x6CC; &#x62A;&#x631;&#x6A9;&#x6CC;&#x647; &#x62F;&#x631; &#x633;&#x627;&#x644; 2021">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:03:20<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=57437-440620702" title="&#x641;&#x631;&#x648;&#x634; &#x62E;&#x648;&#x62F;&#x631;&#x648;&#x6CC; &#x645;&#x644;&#x6CC; &#x62A;&#x631;&#x6A9;&#x6CC;&#x647; &#x62F;&#x631; &#x633;&#x627;&#x644; 2021"> <p>&#x641;&#x631;&#x648;&#x634; &#x62E;&#x648;&#x62F;&#x631;&#x648;&#x6CC; &#x645;&#x644;&#x6CC; &#x62A;&#x631;&#x6A9;&#x6CC;&#x647; &#x62F;&#x631; &#x633;&#x627;&#x644; 2021</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/venus/3154/channelname=&#x6A9;&#x62F;&#x628;&#x627;&#x646;&#x648;&#x6CC;-&#x627;&#x6CC;&#x631;&#x627;&#x646;&#x6CC;" title="&#x6A9;&#x62F;&#x628;&#x627;&#x646;&#x648;&#x6CC; &#x627;&#x6CC;&#x631;&#x627;&#x646;&#x6CC;">
+                                    <span>&#x6A9;&#x62F;&#x628;&#x627;&#x646;&#x648;&#x6CC; &#x627;&#x6CC;&#x631;&#x627;&#x646;&#x6CC;</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/8/1368-234812575/1-m.jpg?v=nmhUXqNk3ESQKsF2ZFrJ&#x2B;Q)" alt="&#x6A9;&#x62F;&#x628;&#x627;&#x646;&#x648;&#x6CC; &#x627;&#x6CC;&#x631;&#x627;&#x646;&#x6CC;">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=78422-531536560" title="&#x62A;&#x632;&#x6CC;&#x6CC;&#x646; &#x62F;&#x631;&#x62E;&#x62A; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; &#x62F;&#x631; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/78422-531536560/1-m.jpg" class="img-responsive img-rounded" alt="&#x62A;&#x632;&#x6CC;&#x6CC;&#x646; &#x62F;&#x631;&#x62E;&#x62A; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; &#x62F;&#x631; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:01:09<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=78422-531536560" title="&#x62A;&#x632;&#x6CC;&#x6CC;&#x646; &#x62F;&#x631;&#x62E;&#x62A; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; &#x62F;&#x631; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F;"> <p>&#x62A;&#x632;&#x6CC;&#x6CC;&#x646; &#x62F;&#x631;&#x62E;&#x62A; &#x6A9;&#x631;&#x6CC;&#x633;&#x645;&#x633; &#x62F;&#x631; &#x6A9;&#x627;&#x62E; &#x633;&#x641;&#x6CC;&#x62F;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/bazargani/1095/channelname=bazargani" title="bazargani">
+                                    <span>bazargani</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/8/1116-402518366/1-m.jpg?v=Wmq759IJeEmF21-moAW8wkRQ)" alt="bazargani">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=6208-229502490" title="&#x641;&#x6CC;&#x644;&#x645; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x6A9;&#x644;&#x627;&#x648;&#x633; &#x633;&#x631;&#x6AF;&#x630;&#x634;&#x62A; &#x628;&#x627;&#x628;&#x627;&#x646;&#x648;&#x626;&#x644;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/6208-229502490/1-m.jpg" class="img-responsive img-rounded" alt="&#x641;&#x6CC;&#x644;&#x645; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x6A9;&#x644;&#x627;&#x648;&#x633; &#x633;&#x631;&#x6AF;&#x630;&#x634;&#x62A; &#x628;&#x627;&#x628;&#x627;&#x646;&#x648;&#x626;&#x644;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                01:28:41<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=6208-229502490" title="&#x641;&#x6CC;&#x644;&#x645; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x6A9;&#x644;&#x627;&#x648;&#x633; &#x633;&#x631;&#x6AF;&#x630;&#x634;&#x62A; &#x628;&#x627;&#x628;&#x627;&#x646;&#x648;&#x626;&#x644;"> <p>&#x641;&#x6CC;&#x644;&#x645; &#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x6A9;&#x644;&#x627;&#x648;&#x633; &#x633;&#x631;&#x6AF;&#x630;&#x634;&#x62A; &#x628;&#x627;&#x628;&#x627;&#x646;&#x648;&#x626;&#x644;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/elham.m/909/channelname=&#x62F;&#x631;&#x647;&#x645;-&#x648;-&#x628;&#x631;&#x647;&#x645;" title="&#x62F;&#x631;&#x647;&#x645; &#x648; &#x628;&#x631;&#x647;&#x645;">
+                                    <span>&#x62F;&#x631;&#x647;&#x645; &#x648; &#x628;&#x631;&#x647;&#x645;</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/8/930-93861261/1-m.jpg?v=sYpRLfcDvU2zQri3wcDB7g)" alt="&#x62F;&#x631;&#x647;&#x645; &#x648; &#x628;&#x631;&#x647;&#x645;">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <div class="OwnerBox">
+                                <a href="/Video?Watch=57437-712629132" title="&#x627;&#x641;&#x631;&#x627;&#x62F;&#x6CC; &#x6A9;&#x647; &#x639;&#x62C;&#x6CC;&#x628; &#x648; &#x63A;&#x631;&#x6CC;&#x628; &#x62A;&#x631;&#x6CC;&#x646; &#x6A9;&#x627;&#x631; &#x647;&#x627; &#x631;&#x627; &#x627;&#x646;&#x62C;&#x627;&#x645; &#x62F;&#x627;&#x62F;&#x646;&#x62F;">
+                                    <div class="imgHolder">
+                                        <img src="https://photos.mp4.ir/image/2019/12/57437-712629132/4-m.jpg" class="img-responsive img-rounded" alt="&#x627;&#x641;&#x631;&#x627;&#x62F;&#x6CC; &#x6A9;&#x647; &#x639;&#x62C;&#x6CC;&#x628; &#x648; &#x63A;&#x631;&#x6CC;&#x628; &#x62A;&#x631;&#x6CC;&#x646; &#x6A9;&#x627;&#x631; &#x647;&#x627; &#x631;&#x627; &#x627;&#x646;&#x62C;&#x627;&#x645; &#x62F;&#x627;&#x62F;&#x646;&#x62F;">
+                                        <div class="durationBox">
+                                            <span class="duration">
+                                                00:06:31<i class="flaticon-stop-watch"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="DesVideo">
+                                <div class="videoName padd0">
+                                    <a href="/Video?Watch=57437-712629132" title="&#x627;&#x641;&#x631;&#x627;&#x62F;&#x6CC; &#x6A9;&#x647; &#x639;&#x62C;&#x6CC;&#x628; &#x648; &#x63A;&#x631;&#x6CC;&#x628; &#x62A;&#x631;&#x6CC;&#x646; &#x6A9;&#x627;&#x631; &#x647;&#x627; &#x631;&#x627; &#x627;&#x646;&#x62C;&#x627;&#x645; &#x62F;&#x627;&#x62F;&#x646;&#x62F;"> <p>&#x627;&#x641;&#x631;&#x627;&#x62F;&#x6CC; &#x6A9;&#x647; &#x639;&#x62C;&#x6CC;&#x628; &#x648; &#x63A;&#x631;&#x6CC;&#x628; &#x62A;&#x631;&#x6CC;&#x646; &#x6A9;&#x627;&#x631; &#x647;&#x627; &#x631;&#x627; &#x627;&#x646;&#x62C;&#x627;&#x645; &#x62F;&#x627;&#x62F;&#x646;&#x62F;</p></a>
+                                </div>
+                            </div>
+                            <div class="ImgOwner hidden-lg hidden-md hidden-sm pull-left">
+                                <a href="/parsa/393/channelname=Parsa" title="Parsa">
+                                    <span>Parsa</span>
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/8/412-600868988/2-m.jpg)" alt="Parsa">
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+            </div>
+
+        </div>
+    </div>
+    <!--Popular Chanel-->
+    <div class="container mrgT4em" id="Popular">
+        <div class="Title-Section mrg1-0 clearfix">
+            <div class="col-xs-8 FlexBox ">
+                <i class="flaticon-play-button C-orang inline"></i>
+                <h3 class="C-Graydark inline">کانالهای پیشنهادی </h3>
+            </div>
+        </div>
+        <div class="swipers" id="SuggestChannel">
+            <div class="swiper-container" data-autoplay="false">
+                <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="/freshte777/279031/channelname=&#x622;&#x645;&#x648;&#x632;&#x634;&#x647;&#x627;&#x6CC;-&#x6A9;&#x648;&#x62F;&#x6A9;&#x627;&#x646;&#x647;" class="BoxVideo" title="&#x622;&#x645;&#x648;&#x632;&#x634;&#x647;&#x627;&#x6CC; &#x6A9;&#x648;&#x62F;&#x6A9;&#x627;&#x646;&#x647;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/9/57437-602968046/1-m.jpg?v=VoYIYecN9EKqOUKmg6Lw0w)" alt="&#x622;&#x645;&#x648;&#x632;&#x634;&#x647;&#x627;&#x6CC; &#x6A9;&#x648;&#x62F;&#x6A9;&#x627;&#x646;&#x647;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x622;&#x645;&#x648;&#x632;&#x634;&#x647;&#x627;&#x6CC; &#x6A9;&#x648;&#x62F;&#x6A9;&#x627;&#x646;&#x647;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>freshte777</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/ashpazbashi/350722/channelname=&#x67E;&#x6CC;&#x62A;&#x632;&#x627;-&#x634;&#x648;" class="BoxVideo" title="&#x67E;&#x6CC;&#x62A;&#x632;&#x627; &#x634;&#x648;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/83222-84510175/1-m.jpg)" alt="&#x67E;&#x6CC;&#x62A;&#x632;&#x627; &#x634;&#x648;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x67E;&#x6CC;&#x62A;&#x632;&#x627; &#x634;&#x648;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>ashpazbashi</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/avayeirani/4083/channelname=&#x645;&#x627;&#x632;&#x6CC;&#x627;&#x631;-&#x641;&#x644;&#x627;&#x62D;&#x6CC;" class="BoxVideo" title="&#x645;&#x627;&#x632;&#x6CC;&#x627;&#x631; &#x641;&#x644;&#x627;&#x62D;&#x6CC;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/3572-710308101/1-m.jpg)" alt="&#x645;&#x627;&#x632;&#x6CC;&#x627;&#x631; &#x641;&#x644;&#x627;&#x62D;&#x6CC;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x645;&#x627;&#x632;&#x6CC;&#x627;&#x631; &#x641;&#x644;&#x627;&#x62D;&#x6CC;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>avayeirani</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/delawa/3827/channelname=&#x633;&#x6CC;&#x646;&#x627;-&#x633;&#x631;&#x644;&#x6A9;" class="BoxVideo" title="&#x633;&#x6CC;&#x646;&#x627; &#x633;&#x631;&#x644;&#x6A9;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/788-637306574/1-m.jpg)" alt="&#x633;&#x6CC;&#x646;&#x627; &#x633;&#x631;&#x644;&#x6A9;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x633;&#x6CC;&#x646;&#x627; &#x633;&#x631;&#x644;&#x6A9;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>delawa</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/khanomearayeshgar/3156/channelname=&#x637;&#x631;&#x627;&#x62D;&#x6CC;-&#x648;-&#x62F;&#x6CC;&#x632;&#x627;&#x6CC;&#x646;-&#x646;&#x627;&#x62E;&#x646;" class="BoxVideo" title="&#x637;&#x631;&#x627;&#x62D;&#x6CC; &#x648; &#x62F;&#x6CC;&#x632;&#x627;&#x6CC;&#x646; &#x646;&#x627;&#x62E;&#x646;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/2915-1462734/1-m.jpg)" alt="&#x637;&#x631;&#x627;&#x62D;&#x6CC; &#x648; &#x62F;&#x6CC;&#x632;&#x627;&#x6CC;&#x646; &#x646;&#x627;&#x62E;&#x646;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x637;&#x631;&#x627;&#x62D;&#x6CC; &#x648; &#x62F;&#x6CC;&#x632;&#x627;&#x6CC;&#x646; &#x646;&#x627;&#x62E;&#x646;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>khanomearayeshgar</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/sinohe/340608/channelname=&#x631;&#x6CC;&#x62D;&#x627;&#x646;&#x647;-&#x628;&#x647;&#x634;&#x62A;&#x6CC;" class="BoxVideo" title="&#x631;&#x6CC;&#x62D;&#x627;&#x646;&#x647; &#x628;&#x647;&#x634;&#x62A;&#x6CC;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/3186-915437782/1-m.jpg)" alt="&#x631;&#x6CC;&#x62D;&#x627;&#x646;&#x647; &#x628;&#x647;&#x634;&#x62A;&#x6CC;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x631;&#x6CC;&#x62D;&#x627;&#x646;&#x647; &#x628;&#x647;&#x634;&#x62A;&#x6CC;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>sinohe</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/cartoonkadeh/275860/channelname=&#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646;-&#x628;&#x631;&#x646;&#x627;&#x645;&#x647;-&#x622;&#x645;&#x648;&#x632;&#x634;&#x6CC;--peppa-pig" class="BoxVideo" title="&#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x628;&#x631;&#x646;&#x627;&#x645;&#x647; &#x622;&#x645;&#x648;&#x632;&#x634;&#x6CC;  peppa pig">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/Mp4VideosPhotos/6208-169783511-m.jpg)" alt="&#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x628;&#x631;&#x646;&#x627;&#x645;&#x647; &#x622;&#x645;&#x648;&#x632;&#x634;&#x6CC;  peppa pig">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x627;&#x646;&#x6CC;&#x645;&#x6CC;&#x634;&#x646; &#x628;&#x631;&#x646;&#x627;&#x645;&#x647; &#x622;&#x645;&#x648;&#x632;&#x634;&#x6CC;  peppa pig</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>cartoonkadeh</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/z.mohammadi/347437/channelname=&#x633;&#x628;&#x632;&#x6CC;-&#x622;&#x631;&#x627;&#x6CC;&#x6CC;" class="BoxVideo" title="&#x633;&#x628;&#x632;&#x6CC; &#x622;&#x631;&#x627;&#x6CC;&#x6CC;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/11/78422-177235874/1-m.jpg?v=Z66XfLs59kaseY8e82twFQ)" alt="&#x633;&#x628;&#x632;&#x6CC; &#x622;&#x631;&#x627;&#x6CC;&#x6CC;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x633;&#x628;&#x632;&#x6CC; &#x622;&#x631;&#x627;&#x6CC;&#x6CC;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>z.mohammadi</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/freshte777/382749/channelname=&#x628;&#x627;&#x646;&#x648;&#x64A;-&#x628;&#x627;-&#x633;&#x644;&#x64A;&#x642;&#x647;" class="BoxVideo" title="&#x628;&#x627;&#x646;&#x648;&#x64A; &#x628;&#x627; &#x633;&#x644;&#x64A;&#x642;&#x647;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/57437-219171040/1-m.jpg)" alt="&#x628;&#x627;&#x646;&#x648;&#x64A; &#x628;&#x627; &#x633;&#x644;&#x64A;&#x642;&#x647;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x628;&#x627;&#x646;&#x648;&#x64A; &#x628;&#x627; &#x633;&#x644;&#x64A;&#x642;&#x647;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>freshte777</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/z.mohammadi/382271/channelname=&#x633;&#x627;&#x644;-2020-&#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A;" class="BoxVideo" title="&#x633;&#x627;&#x644; 2020 &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/78422-218514011/1-m.jpg)" alt="&#x633;&#x627;&#x644; 2020 &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x633;&#x627;&#x644; 2020 &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>z.mohammadi</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/rezvan.zohre/349622/channelname=&#x62D;&#x627;&#x634;&#x6CC;&#x647;-&#x633;&#x6CC;&#x646;&#x645;&#x627;" class="BoxVideo" title="&#x62D;&#x627;&#x634;&#x6CC;&#x647; &#x633;&#x6CC;&#x646;&#x645;&#x627;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/80129-92162793/1-m.jpg)" alt="&#x62D;&#x627;&#x634;&#x6CC;&#x647; &#x633;&#x6CC;&#x646;&#x645;&#x627;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x62D;&#x627;&#x634;&#x6CC;&#x647; &#x633;&#x6CC;&#x646;&#x645;&#x627;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>rezvan.zohre</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="/freshte777/276172/channelname=&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x64A;-&#x633;&#x641;&#x631;" class="BoxVideo" title="&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x64A; &#x633;&#x641;&#x631;">
+                                    <div class="imgHolder" style="background-image:url(https://photos.mp4.ir/image/2019/12/57437-382541465/4-m.jpg)" alt="&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x64A; &#x633;&#x641;&#x631;">
+                                    </div>
+                                    <div class="DesVideo">
+                                        <h5>&#x631;&#x627;&#x647;&#x646;&#x645;&#x627;&#x64A; &#x633;&#x641;&#x631;</h5>
+                                        <span class="col-md-12 text-center C-gray TinyFont">
+                                            <span>freshte777</span>
+                                        </span>
+                                    </div>
+                                </a>
+                            </div>
+                </div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </div>
+    <input type="hidden" value="0" id="Login" />
+
+
+
+
+    <!--Follwing videos-->
+    <!-- chanel's & video'S-->
+    <div class="container  mrgT4em Chanels">
+        <!-- chanel row-->
+        <div class="chnltop"></div>
+    </div>
+
+</div>
+<div class="botboxload">
+    <img style="width: 100px;" src="/images/loading.gif" />
+</div>
+<script src="/script/jquery-1.9.1.min.js"></script>
+<script>
+    var s = 0;
+    var State = 0;
+    var no = 0;
+    $(document).ready(function (){
+        //getTopVideoChannel(1);
+        //getTopVideoChannel(2);
+        $(window).scroll(function () {
+            if ($(window).scrollTop() + $(window).height() >= parseInt($(document).height())) {
+                no = no + 1;
+                getTopVideoChannel(no);
+            }
+        });
+        $("html").click(function (e) {
+            if (e.target.id === "popover" || $(e.target).parents(".popover").size() || e.target.id === "followGuest" || $(e.target).parents(".followGuest").size()) {
+
+            } else {
+                $('.popover').removeClass('in');
+                $('.popover').removeClass('showPop');
+            }
+        });
+    });
+
+    function getTopVideoChannel(n) {
+        $(".botboxload").show();
+        if (State === 0) {
+            var userData = JSON.stringify({
+                'TypeID': n,
+                'StartRow': 0,
+                'EndRow': 6
+            });
+            $.ajax({
+                url: "/Home/TopVideoChannel",
+                type: "POST",
+                data: userData,
+                contentType: 'application/json',
+                success: function (response) {
+                    if (response.length === 0) {
+                        State = -1;
+                        return false;
+                    }
+                    var fltext = "دنبال کردن کانال";
+                    var flstate = "following";
+                    if (response[0].followChannelState) {
+                        fltext = "دنبال شده";
+                        flstate = "followed";
+                    }
+                    $(".chnltop").append("<div class='ChanelInfo clearfix FlexBox " + flstate + "'>" +
+                        "<div class='col-xs-8 col-sm-6 Img-Name FlexBox'>" +
+
+                        "<a href='/" + response[0].userName + "/" + response[0].channelID + "/channelname=" + response[0].channelName.replace(/ /g, '-').replace(/[/]/g, '').replace(/\//g, '').replace(/%/g, '').replace(/[+]/g, '') + "'" + "title='" + response[0].channelName + "'>" +
+                        "<div class='ImgHolder'>" +
+                        "<img src='" + response[0].profileImage + "' class='img-responsive img-circle chnindex'" + "alt='" + response[0].channelName + "'>" +
+                        "</a></div>" +
+                        "<div class='ChName mrgR30'>" +
+                        "<a href='/" + response[0].userName + "/" + response[0].channelID + "/channelname=" + response[0].channelName.replace(/ /g, '-').replace(/[/]/g, '').replace(/\//g, '').replace(/%/g, '').replace(/[+]/g, '') + "'" + "title='" + response[0].channelName + "'><h4>" + response[0].channelName + "</h4></a>" +
+                        "</div>" +
+                        "</div>" +
+                        "<div class='col-xs-5 col-sm-6 text-left ViewMore FlexBox'>" +
+                        "<p class='follow mrgB0 chnlbxfollow' onclick='FollowChannel(" + response[0].channelID + ")'>" + fltext + "</p>" +
+                        "<a href='/" + response[0].userName + "/" + response[0].channelID + "/channelname=" + response[0].channelName.replace(/ /g, '-').replace(/[/]/g, '').replace(/\//g, '').replace(/%/g, '').replace(/[+]/g, '') + "' title=''>" +
+                        "</a>" +
+                        "</div>" +
+                        "</div><div id='chnltop_" + response[0].channelID + "' class='ChanelsVideos row mrg2'></div>");
+                    $(response).each(function () {
+                        $("#chnltop_" + this.channelID).append("<a href='/Video?Watch=" + this.videoName + "' title='" + this.videoTitle + "'><div class='col-5 BoxVideo'>" +
+                            "<div class='imgHolder' >" +
+                            "<img src='" + this.videoImage + "' class='img-responsive img-rounded' alt='" + this.videoTitle + "'>" +
+                            "<div class='durationBox'>" +
+                            "<span class='duration'>" + this.videoDuration + "<i class='flaticon-stop-watch'>" + "</i></span>" +
+                            "</div>" +
+                            "</div>" +
+                            "<div class='DesVideo'>" +
+                            "<div class='videoName padd0'>" +
+                            "<p>" + this.videoTitle + "</p>" +
+                            "</div>" +
+                            "<div class='padd0 TinyFont text-left'>" +
+                            "<div class='DateCreat C-gray'>" +
+                            "<b><span>تاریخ ارسال : </span><span class='inline C-orang'>" + this.insDate + "</span></b>" +
+                            "</div>" +
+                            "</div>" +
+                            "</div>" +
+                            "</div></a>");
+                    });
+                    $(".botboxload").hide();
+                    if ($("#Login").val() === '0') {
+                        $('.chnlbxfollow').hide();
+                        $('.chnlbxfollow').parent('div').html("<p id='followGuest' onclick='followGuest(this)' class='btns followGuest'; style='background: #ef7f30;'>دنبال کردن کانال</p><div class='popover fade bottom' role='tooltip' style=' display: block !important;'> <div class='arrow'></div> <h3 class='popover-title'>دنبال کردن کانال</h3> <div class='popover-content'>برای دنبال کردن کانال لطفا وارد <a class='C-orang' href='/User/Login' title='حساب کاربری'> حساب کاربری </a> خود شوید.</div> </div>");
+                    }
+                    limitChName();
+                    limitDes_();
+                },
+                failure: function () {
+                    alert('خطا در ارتباط با سرور.');
+                }
+            });
+
+        }
+    }
+    function followGuest(c) {
+        $('.popover').removeClass('in');
+        $('.popover').removeClass('showPop');
+        $(c).parent('div').children('.popover').addClass('in');
+        $(c).parent('div').children('.popover').addClass('showPop');
+    }
+    function FollowChannel(c) {
+        var data = JSON.stringify({
+            'ChannelID': c
+        });
+        $.ajax({
+            url: "/Video/FollowChannel",
+            type: "POST",
+            data: data,
+            contentType: "application/Json",
+            success: function (res) {
+
+                if (res !== 1 && res !== 2) {
+                    location.reload();
+                }
+            }
+        });
+    }
+    $(document).ready(function () {
+
+        var offsetpopular = $("#PopularVideos ").offset();
+        offsetpopular.top += 300;
+        var offsetpop = $("#Popular ").offset();
+
+        if ($(document).outerWidth() <= 768) {
+            $(document).scroll(function () {
+                var window_top = $(document).scrollTop();
+                if (window_top >= offsetpopular.top && window_top <= offsetpop.top - 100) {
+                    $("#PopularVideos .Title-Section").addClass("fixed");
+                } else {
+                    $("#PopularVideos .Title-Section").removeClass("fixed");
+                }
+            });
+        }
+
+
+    });
+    $(document).ready(function () {
+        var offsetpopular = $("#PopularVideos ").offset();
+        var offsetpop = $("#Popular ").offset();
+
+        if ($(document).outerWidth() <= 768) {
+
+            $(document).scroll(function () {
+
+                var window_top = $(document).scrollTop();
+
+                if (window_top >= offsetpopular.top - 150 && window_top <= offsetpop.top - 200) {
+
+                    $("#PopularVideos .Title-Section").addClass("fixed");
+                } else {
+                    $("#PopularVideos .Title-Section").removeClass("fixed");
+                }
+            });
+        };
+    });
+
+</script>
+
+        
+        <div class="alarm_Box_Master">
+            <p>لیست پخش ایجاد شد.</p>
+        </div>
+        <div class="disablebox">
+
+        </div>
+    </div>
+    <environment include="Development">
+        <script src="/script/bootstrap.min.js"></script>
+        <script src="/Script/jquery.nicescroll.min.js"></script>
+        <script src="/Script/swiper.min.js"></script>
+        <script src="/script/aos.js"></script>
+        <script src="/script/main-script.js?v=6"></script>
+        <script src="/Script/Search.js?v=3"></script>
+    </environment>
+
+    <script>
+        function gotoaccount() {
+            if (window.location.pathname == '/') {
+                window.location.href = 'https://accounts.pishtaz.ir/account/login?postbackurl=' + window.location.href + 'Index';
+            }
+            else {
+                window.location.href = 'https://accounts.pishtaz.ir/account/login?postbackurl=' + window.location.href;
+            }
+        }
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150672221-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-150672221-1');
+    </script>
+
+    
+    <script type="text/javascript">
+        var head = document.getElementsByTagName("head")[0];
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.async = 1;
+        script.src = "https://s1.mediaad.org/serve/mp4.ir/loader.js";
+        head.appendChild(script);
+    </script>
+</body>
+</html>

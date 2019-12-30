@@ -1,0 +1,9 @@
+<style>
+    .bg img {
+    width: 100%;
+    height: 97vh;
+}
+</style>
+<div class="bg">
+    <img src="http://shahraneh.net/IMG.jpeg">    
+</div>

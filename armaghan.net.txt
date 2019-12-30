@@ -1,0 +1,1538 @@
+﻿<!DOCTYPE html>
+<html lang="fa-IR" prefix="og: http://ogp.me/ns#" class="no-js no-svg">
+
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118275933-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118275933-6');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQZB48M');</script>
+<!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <meta name="title" content ="ارمغان راه طلایی: پیام کوتاه، شبکه و اینترنت، دیتاسنتر و محتوا">
+	<meta name="keywords" content="ارمغان راه طلایی,ارمغان,راه طلایی,اپراتور,پیامک,پیام کوتاه,سامانه وصال,سامانه نگار,سامانه بالک,پیامک انبوه,وب سرویس,درگاه پیامک,شبکه و ,اینترنت,دیتاسنتر,محتوا,سرویس مووی,سامانه صبا,اشتراک ویدیو,ارزش افزوده,سرور,هاستینگ,پشتیبانی,افزونه,ماژول,افزونه پیامک,مدیریت محتوا,مدیریت فرم,مدیریت فروشگاه,سیستم مدیریت محتوا,وردپرس,ووکامرس,جوملا,گرویتی فرم,مدیریت هاستینگ,شبکه خصوصی,موبایل,تلفن همراه,armaghan,rahe,talaie,sms,operator,isp,ict,it,vesal,negar,bulk,web,web service,api,url,panel,sms gateway,datacenter,content,movie,video sharing,saba,archive,cdn,network,internet,apn,mvpn,voip,plugin,module,wp sms,wordpress,woocommerce,joomla,gravityforms,whmcs,cms,colocation,server,vps,vpn,simcard,sim,vas,4g,td lte,modem,router,dedicated server,وب سرویس ارسال پیامک,پنل ارسال پیامک,ارسال SMS,پنل SMS,ارسال منطقه ای,سامانه پیامکی,سامانه ارسال پیامک,پنل اس ام اس,پیامک تبلیغاتی,خط خدماتی,بانک شماره موبایل به روز,ارسال از روی نقشه,سرور فیزیکی,سرور اختصاصی ایران,سرور ویندوز,سرور لینوکس,دیتاسنتر ایران,مرکز داده,اجاره رک,رک کامل" />
+	<title>ارمغان راه طلایی: پیام کوتاه، شبکه و اینترنت، دیتاسنتر و محتوا</title>
+    <link rel="alternate" type="application/rss+xml" title="مووی &raquo; خوراک" href="/feed" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="stylesheet" href="/assets/fonts/fontawesome/css/all.css"/>
+    <link rel="stylesheet" href="/assets/css/art.min.css"/>
+	<meta name="google-site-verification" content="iWCfmfuojWbRp1h2YovnR6WcsutpXdJJYwwh5hR6uYw" /
+    
+<!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="اپراتور پیام کوتاه ، ارائه دهنده سرویس شبکه و اینترنت ، دیتاسنتر و محتوا"/>
+<link rel="canonical" href="https://www.armaghan.net/" />
+<link rel="next" href="https://www.armaghan.net/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="ارمغان راه طلایی - اپراتور پیام کوتاه ، ارائه دهنده سرویس شبکه و اینترنت ، دیتاسنتر و محتوا" />
+<meta property="og:description" content="اپراتور پیام کوتاه ، ارائه دهنده سرویس شبکه و اینترنت ، دیتاسنتر و محتوا" />
+<meta property="og:url" content="https://www.armaghan.net/" />
+<meta property="og:site_name" content="ارمغان راه طلایی" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="اپراتور پیام کوتاه ، ارائه دهنده سرویس شبکه و اینترنت ، دیتاسنتر و محتوا" />
+<meta name="twitter:title" content="ارمغان راه طلایی - اپراتور پیام کوتاه ، ارائه دهنده سرویس شبکه و اینترنت ، دیتاسنتر و محتوا" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.armaghan.net\/","name":"\u0627\u0631\u0645\u063a\u0627\u0646 \u0631\u0627\u0647 \u0637\u0644\u0627\u06cc\u06cc","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.armaghan.net\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.armaghan.net\/","sameAs":[],"@id":"https:\/\/www.armaghan.net\/#organization","name":"\u0627\u0631\u0645\u063a\u0627\u0646 \u0631\u0627\u0647 \u0637\u0644\u0627\u06cc\u06cc","logo":"https:\/\/armaghan.net\/wp-content\/uploads\/2017\/11\/Armaghan-Logo-Blue.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.armaghan.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.armaghan.net/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='css0-css'  href='https://www.armaghan.net/wp-content/themes/armaghan-childhttps://osplugin.ir//assets/css/w3.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='css1-css'  href='https://www.armaghan.net/wp-content/themes/armaghan-child/css/bootstrap.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='css2-css'  href='https://www.armaghan.net/wp-content/themes/armaghan-child/css/bootstrap.rtl.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='css3-css'  href='https://www.armaghan.net/wp-content/themes/armaghan-child/css/icomoon.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='css4-css'  href='https://www.armaghan.net/wp-content/themes/armaghan-child/css/jquery.animateSlider.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='css5-css'  href='https://www.armaghan.net/wp-content/themes/armaghan-child/css/style.css?ver=5.2.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.armaghan.net/wp-content/themes/armaghan-child/scripts/jquery-2.2.3.min.js?ver=2.2.3'></script>
+<script type='text/javascript' src='https://www.armaghan.net/wp-content/themes/armaghan-child/scripts/modernizr.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.armaghan.net/wp-content/themes/armaghan-child/scripts/bootstrap.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.armaghan.net/wp-content/themes/armaghan-child/scripts/owl.carousel.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.armaghan.net/wp-content/themes/armaghan-child/scripts/jquery.wow.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.armaghan.net/wp-content/themes/armaghan-child/scripts/custom.js?ver=1.3.2'></script>
+<link rel='https://api.w.org/' href='https://www.armaghan.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.armaghan.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.armaghan.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.5" />
+<link rel="icon" href="https://www.armaghan.net/wp-content/uploads/2018/11/cropped-Armaghan-Logo-Tab1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.armaghan.net/wp-content/uploads/2018/11/cropped-Armaghan-Logo-Tab1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.armaghan.net/wp-content/uploads/2018/11/cropped-Armaghan-Logo-Tab1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.armaghan.net/wp-content/uploads/2018/11/cropped-Armaghan-Logo-Tab1-270x270.png" />
+<script>
+$(function() {
+$('#menu-item-1495').removeClass('arto-hidden').removeClass('dropdown').addClass('col-sm-3');
+$('#menu-item-1495 ul').removeClass('dropdown-menu');
+$('#menu-item-1495 ul').append('<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="page-scroll" title="&#1582;&#1583;&#1605;&#1575;&#1578; &#1608;&#1740;&#1583;&#1574;&#1608; &#1705;&#1606;&#1601;&#1585;&#1575;&#1606;&#1587;" href="/video-conference">&#1582;&#1583;&#1605;&#1575;&#1578; &#1608;&#1740;&#1583;&#1574;&#1608; &#1705;&#1606;&#1601;&#1585;&#1575;&#1606;&#1587;</a></li>');
+});
+</script>
+</head>
+
+<body class="home blog">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQZB48M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header id="header" class="float-all">
+    <div class="container">
+        <div class="row">
+            <section id="logo" class="col-md-2 hidden-sm hidden-xs"> <a href="https://www.armaghan.net"><div class="art-logo"></div></a> </section>
+            <section class="menu col-md-9 col-sm-10 col-xs-9">
+                <nav class="navbar">
+                    <div class="navbar-header">
+                        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    </div>
+                    <div class="collapse navbar-collapse js-navbar-collapse"><ul id="menu-main-menu" class="nav navbar-nav"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1481 dropdown"><a class="page-scroll" title="ارمغان راه طلایی" href="#art">ارمغان راه طلایی <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu" >
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1482"><a class="page-scroll" title="درباره ما" href="/art-about">درباره ما</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1483"><a class="page-scroll" title="حضور در نمایشگاه ها" href="/art-expo">حضور در نمایشگاه ها</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1484"><a class="page-scroll" title="مشتریان ما" href="/art-customers">مشتریان ما</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1485"><a class="page-scroll" title="شرکای تجاری" href="/art-partners">شرکای تجاری</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1486"><a class="page-scroll" title="تماس با ما" href="/art-contact">تماس با ما</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1487" class="mega-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1487 dropdown"><a class="page-scroll" title="محصولات و خدمات" href="#ps">محصولات و خدمات <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu" >
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1494" class="col-sm-3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1494 dropdown"><a class="page-scroll" title="پیام کوتاه" href="/sms">پیام کوتاه</a>
+	<ul role="menu" class=" dropdown-menu" >
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1488"><a class="page-scroll" title="پیام رسان نگار" href="/sms-negar">پیام رسان نگار</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1489"><a class="page-scroll" title="درگاه پیامک وصال" href="/sms-vesal">درگاه پیامک وصال</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1490" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1490"><a class="page-scroll" title="افزونه ها و API" href="/sms-plugin">افزونه ها و API</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1491"><a class="page-scroll" title="ارزش افزوده (VAS)" href="/sms-vas">ارزش افزوده (VAS)</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1492"><a class="page-scroll" title="خدمات دستوری (USSD)" href="/sms-ussd">خدمات دستوری (USSD)</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1493" class="menu-font-size-fixer menu-item menu-item-type-custom menu-item-object-custom menu-item-1493"><a class="page-scroll" title="شماره اختصاصی (Shortcode)" href="/sms-number">شماره اختصاصی (Shortcode)</a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1581" class="col-sm-3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1581 dropdown"><a class="page-scroll" title="شبکه و اینترنت" href="/in">شبکه و اینترنت</a>
+	<ul role="menu" class=" dropdown-menu" >
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1582" class="menu-font-size-fixer menu-item menu-item-type-custom menu-item-object-custom menu-item-1582"><a class="page-scroll" title="شبکه خصوصی تلفن همراه (APN)" href="/in-apn">شبکه خصوصی تلفن همراه (APN)</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1587" class="menu-font-size-fixer menu-item menu-item-type-custom menu-item-object-custom menu-item-1587"><a class="page-scroll" title="شبکه اختصاصی تلفن همراه (MVPN)" href="/in-mvpn">شبکه اختصاصی تلفن همراه (MVPN)</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1584"><a class="page-scroll" title="خدمات VOIP" href="/in-voip">خدمات VOIP</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1588"><a class="page-scroll" title="اینترنت پرسرعت ADSL" href="/in-adsl">اینترنت پرسرعت ADSL</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1589"><a class="page-scroll" title="اینترنت بیسیم (Wireless)" href="/in-wifi">اینترنت بیسیم (Wireless)</a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1502" class="col-sm-3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1502 dropdown"><a class="page-scroll" title="دیتاسنتر" href="/dc">دیتاسنتر</a>
+	<ul role="menu" class=" dropdown-menu" >
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1503"><a class="page-scroll" title="اجاره فضا (Colocation)" href="/dc-colocation">اجاره فضا (Colocation)</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1504"><a class="page-scroll" title="سرور اختصاصی" href="/dc-dserver">سرور اختصاصی</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1505"><a class="page-scroll" title="سرور مجازی" href="/dc-vps">سرور مجازی</a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1506" class="col-sm-3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1506 dropdown"><a class="page-scroll" title="محتوا" href="https://art.armaghan.net/">محتوا</a>
+	<ul role="menu" class=" dropdown-menu" >
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1507"><a class="page-scroll" title="سرویس مووی" href="/content-movie">سرویس مووی</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1508"><a class="page-scroll" title="سامانه صبا" href="/content-saba">سامانه صبا</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1509"><a class="page-scroll" title="سرویس سلامت" href="/content-health">سرویس سلامت</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1510"><a class="page-scroll" title="درگاه محتوا" href="/cdn">درگاه محتوا</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1511 dropdown"><a class="page-scroll" title="همکاری با ما" href="#job">همکاری با ما <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu" >
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1512"><a class="page-scroll" title="شرایط استخدام" href="/job-careers">شرایط استخدام</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1513"><a class="page-scroll" title="همکاری تجاری" href="/job-business">همکاری تجاری</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1514"><a class="page-scroll" title="راه حل های سازمانی" href="/solutions">راه حل های سازمانی</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1515"><a class="page-scroll" title="تماس با ما" href="/art-contact">تماس با ما</a></li>
+</ul></div>                </nav>
+            </section>
+            <section id="lang-search" class="col-md-1 col-sm-2 col-xs-3">
+                <div id="top-search"> <a class="btn-search trans" href="#"><i class="icon-search4"></i></a>
+                    <div style="width: 0px;" class="cnt-search">
+                        <input class="text-search" type="text"> <span class="close">×</span></div>
+                </div>
+                <div class="lang select-sec"> <a class="fa fa-home" href="https://www.armaghan.net"></a></div>
+<!--                <div class="lang select-sec"> <a href="">EN</a></div>-->
+            </section>
+        </div>
+    </div>
+</header>
+
+<main class="float-all">
+
+	<script src="/assets/lib/labs/LAB.js"></script>
+    <script type="text/javascript">
+      $LAB
+      .script("https://www.armaghan.net/wp-content/themes/armaghan-child/scripts/jquery.animateSlider.js")
+      .script("/assets/js/art.min.js")
+    </script>
+    
+    <h1 class="arto-hidden">ارمغان راه طلایی ، اپراتور پیام کوتاه ، ارائه دهنده سرویس شبکه و اینترنت ، دیتاسنتر و محتوا</h1>
+    <h2 class="arto-hidden">افزونه های پیامک نگار برای وردپرس ، ووکامرس ، جوملا ، گرویتی فرم و whmcs</h2>
+    <h3 class="arto-hidden">سامانه وصال ، سامانه نگار ، سامانه بالک ، وب سرویس و API</h3>
+    <h4 class="arto-hidden">ارسال و دریافت پیامک « کشوری ، استانی ، شهری ، کدپستی ، جنسیتی ، مشاغل »</h4>
+    <h5 class="arto-hidden">Armaghan Rahe Talaie , SMS , Internet , Network , DataCenter and Content</h5>
+
+    <section style="height: 500px;" id="slider" class="section shape hidden-xs" >
+
+        <ul class="anim-slider">
+
+
+
+            <!-- Slide No1 -->
+
+            <li id="liSlide_1" class="anim-slide slide1" style="">
+
+                <div class="background bg-slider1" style="background-image: url('/assets/img/jpg/slider1.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;height: 100%;">
+
+                </div>
+
+                <!--                    <div class="container full_height">-->
+
+                <!--                        <h1 class="">شرکت ارمغان راه طلایی</h1>-->
+
+                <!--                        <h3 class="">خدمات Geteway</h3>-->
+
+                <!--                        <h3 class="">خدمات ارزش افزوده</h3>-->
+
+                <!--                        <h3 class="">سرشماره 50004</h3>-->
+
+                <!--                    </div>-->
+
+            </li>
+
+
+
+
+
+            <!-- Slide No2 -->
+
+            <li id="liSlide_2" class="anim-slide slide2" style="">
+
+                <div class="background bg-slider2" style="background-image: url('/assets/img/jpg/slider2.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;height: 100%;">
+
+                </div>
+
+                <!--                    <div class="container full_height">-->
+
+                <!--                        <h2 class="">سامانه نگار</h2>  -->
+
+                <!--                        <h4 class="">ارﺳﺎل اﻧﺒﻮه ﭘﯿﺎم</h4>   -->
+
+                <!--                        <h4 class="">اﻣﮑﺎن اﻓﺰودن اﻃﻼﻋﺎت اﺷﺨﺎص ﺑﻪ ﻣﺘﻦ</h4>                    -->
+
+                <!--                        <h4 class="">ﻓﺮﺳﺘﺎدن ﭘﯿﺎم بصورت اکسل یا دستی</h4>                          -->
+
+                <!--                        <h4 class="">ارﺳﺎل ﭘﯿﺎم ﻣﺒﻨﯽ ﺑﺮ ﭘﺎﯾﮕﺎه داده اﭘﺮاﺗﻮرﻫﺎ</h4>                   -->
+
+                <!--                    </div>-->
+
+            </li>
+
+
+
+            <!-- Slide No3 -->
+
+            <li id="liSlide_3" class="anim-slide slide3" style="">
+
+                <div class="background bg-slider3" style="background-image: url('/assets/img/jpg/slider3.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;height: 100%;">
+
+                </div>
+
+                <!--                     <div class="container full_height">
+
+                                        <h2 class="">خدمات Geteway</h2>
+
+                                        <h3 class="">خدمات ارزش افزوده</h3>
+
+                                        <h4 class="">سرشماره 50004</h4>
+
+                                    </div> -->
+
+            </li>
+
+
+
+            <!-- Slide No4 -->
+
+            <li id="liSlide_4" class="anim-slide slide3" style="">
+
+                <div class="background bg-slider4" style="background-image: url('/assets/img/jpg/slider4.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;height: 100%;">
+
+                </div>
+
+                <!--                     <div class="container full_height">
+
+                                        <h2 class="">خدمات Geteway</h2>
+
+                                        <h3 class="">خدمات ارزش افزوده</h3>
+
+                                        <h4 class="">سرشماره 50004</h4>
+
+                                    </div> -->
+
+            </li>
+
+
+
+
+
+            <nav class="anim-arrows">
+
+                <span class="anim-arrows-prev"></span>
+
+                <span class="anim-arrows-next"></span>
+
+            </nav>
+
+
+
+        </ul>
+
+        <div class="shape-slider hidden-sm hidden-xs"></div>
+
+        <div id="scrollToBottom" class="arrow-bt">
+
+            <img src="https://www.armaghan.net/wp-content/themes/armaghan-child/images/arrow.png">
+
+        </div>
+
+    </section>
+
+    <!--        <section id="services" class="float-all shape-bt pattern-services">-->
+
+    <!--            <div class="container">-->
+
+    <!--                <div class="row">-->
+
+    <!--                    <div class="col-md-2 col-sm-6 col-xs-12 zoomIn wow">-->
+
+    <!--                        <div class="service-box">-->
+
+    <!--                            <div class="img-sbox trans">-->
+
+    <!--                                <img class="trans" src="--><!--/images/payamkutah.png">-->
+
+    <!--                            </div> -->
+
+    <!--                            <a href="--><!--" class="hover-ser trans"><h3>پیام کوتاه</h3></a>-->
+
+    <!--                        </div>-->
+
+    <!--                    </div>-->
+
+    <!--                    <div class="col-md-2 col-sm-6 col-xs-12 zoomIn wow">-->
+
+    <!--                        <div class="service-box">-->
+
+    <!--                            <div class="img-sbox trans">-->
+
+    <!--                                <img class="trans" src="--><!--/images/shabake.png">-->
+
+    <!--                            </div> -->
+
+    <!--                            <a href="--><!--" class="hover-ser trans"><h3>شبکه</h3></a>-->
+
+    <!--                        </div>-->
+
+    <!--                    </div>-->
+
+    <!--                    <div class="col-md-2 col-sm-6 col-xs-12 zoomIn wow">-->
+
+    <!--                        <div class="service-box">-->
+
+    <!--                            <div class="img-sbox trans">-->
+
+    <!--                                <img class="trans" src="--><!--/images/internet.png">-->
+
+    <!--                            </div> -->
+
+    <!--                            <a href="--><!--" class="hover-ser trans"><h3>اینترنت</h3></a>-->
+
+    <!--                        </div>-->
+
+    <!--                    </div>-->
+
+    <!--                    <div class="col-md-2 col-sm-6 col-xs-12 zoomIn wow">-->
+
+    <!--                        <div class="service-box">-->
+
+    <!--                            <div class="img-sbox trans">-->
+
+    <!--                                <img class="trans" src="--><!--/images/mohtava.png">-->
+
+    <!--                            </div> -->
+
+    <!--                            <a href="--><!--" class="hover-ser trans"><h3>محتوا</h3></a>-->
+
+    <!--                        </div>-->
+
+    <!--                    </div>-->
+
+    <!--                    <div class="col-md-2 col-sm-6 col-xs-12 zoomIn wow">-->
+
+    <!--                        <div class="service-box">-->
+
+    <!--                            <div class="img-sbox trans">-->
+
+    <!--                                <img class="trans" src="--><!--/images/mohtava.png">-->
+
+    <!--                            </div>-->
+
+    <!--                            <a href="--><!--" class="hover-ser trans"><h3>محتوا</h3></a>-->
+
+    <!--                        </div>-->
+
+    <!--                    </div>-->
+
+    <!--                    <div class="col-md-2 col-sm-6 col-xs-12 zoomIn wow">-->
+
+    <!--                        <div class="service-box">-->
+
+    <!--                            <div class="img-sbox trans">-->
+
+    <!--                                <img class="trans" src="--><!--/images/mohtava.png">-->
+
+    <!--                            </div>-->
+
+    <!--                            <a href="--><!--" class="hover-ser trans"><h3>محتوا</h3></a>-->
+
+    <!--                        </div>-->
+
+    <!--                    </div>-->
+
+    <!--                </div>            -->
+
+    <!--            </div>-->
+
+    <!--        </section>-->
+
+    <section id="sectionProducts">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div id="divAProduct_1" class="divAProduct col-md-3 col-sm-3 col-xs-12 zoomIn wow">
+
+                    <a href="https://www.armaghan.net/sms" class="aProduct">
+
+                        <div class="divProduct">
+
+                            <div class="divImgProduct">
+
+                                <img class="imgProduct" src="https://www.armaghan.net/wp-content/themes/armaghan-child/images/products/pro1.png">
+
+                            </div>
+
+                            <span class="spanProduct">پیام کوتاه</span>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div id="divAProduct_2" class="divAProduct col-md-3 col-sm-3 col-xs-12 zoomIn wow">
+
+                    <a href="https://www.armaghan.net/internet" class="aProduct">
+
+                        <div class="divProduct">
+
+                            <div class="divImgProduct">
+
+                                <img class="imgProduct" src="https://www.armaghan.net/wp-content/themes/armaghan-child/images/products/pro5.png">
+
+                            </div>
+
+                            <span class="spanProduct">شبکه و اینترنت</span>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <div id="divAProduct_3" class="divAProduct col-md-3 col-sm-3 col-xs-12 zoomIn wow">
+
+                    <a href="https://www.armaghan.net/dc-colocation" class="aProduct">
+
+                        <div class="divProduct">
+
+                            <div class="divImgProduct">
+
+                                <img class="imgProduct" src="https://www.armaghan.net/wp-content/themes/armaghan-child/images/products/pro2.png">
+
+                            </div>
+
+                            <span class="spanProduct">دیتاسنتر</span>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+                <!--                <div class="divAProduct col-sm-4 col-xs-12 zoomIn wow">-->
+                <!---->
+                <!--                    <a href="--><!--" class="aProduct">-->
+                <!---->
+                <!--                        <div class="divProduct">-->
+                <!---->
+                <!--                            <div class="divImgProduct">-->
+                <!---->
+                <!--                                <img class="imgProduct" src="--><!--/images/products/pro3.png">-->
+                <!---->
+                <!--                            </div>-->
+                <!---->
+                <!--                            <span class="spanProduct">APN</span>-->
+                <!---->
+                <!--                        </div>-->
+                <!---->
+                <!--                    </a>-->
+                <!---->
+                <!--                </div>-->
+
+                <!--                <div class="divAProduct col-sm-4 col-xs-12 zoomIn wow">-->
+                <!---->
+                <!--                    <a href="--><!--" class="aProduct">-->
+                <!---->
+                <!--                        <div class="divProduct">-->
+                <!---->
+                <!--                            <div class="divImgProduct">-->
+                <!---->
+                <!--                                <img class="imgProduct" src="--><!--/images/products/pro4.png">-->
+                <!---->
+                <!--                            </div>-->
+                <!---->
+                <!--                            <span class="spanProduct">USSD</span>-->
+                <!---->
+                <!--                        </div>-->
+                <!---->
+                <!--                    </a>-->
+                <!---->
+                <!--                </div>-->
+
+
+
+                <!--                <div class="divAProduct col-sm-4 col-xs-12 zoomIn wow">-->
+                <!---->
+                <!--                    <a href="--><!--" class="aProduct">-->
+                <!---->
+                <!--                        <div class="divProduct">-->
+                <!---->
+                <!--                            <div class="divImgProduct">-->
+                <!---->
+                <!--                                <img class="imgProduct" src="--><!--/images/products/pro6.png">-->
+                <!---->
+                <!--                            </div>-->
+                <!---->
+                <!--                            <span class="spanProduct">VAS</span>-->
+                <!---->
+                <!--                        </div>-->
+                <!---->
+                <!--                    </a>-->
+                <!---->
+                <!--                </div>-->
+
+                <div id="divAProduct_4" class="divAProduct col-md-3 col-sm-3 col-xs-12 zoomIn wow">
+
+                    <a href="https://art.armaghan.net/" class="aProduct">
+
+                        <div class="divProduct">
+
+                            <div class="divImgProduct">
+
+                                <img class="imgProduct" src="https://www.armaghan.net/wp-content/themes/armaghan-child/images/products/pro7.png">
+
+                            </div>
+
+                            <span class="spanProduct">محتوا</span>
+
+                        </div>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="portals" class="float-all">
+
+        <div class="container">
+
+            <div class="">
+
+                <h2 class="title-st" style="font-size:20px;">
+
+                    <span>محصولات و خدمات ما</span>
+
+                    <i></i>
+
+                </h2>
+
+                <div class="hp11 hp11v0" data-trackas="hp11">
+
+                    <div class="hp11w1">
+
+                        <div class="hp11w2" data-lbl="cloud">
+
+                            <h3>پیام کوتاه</h3>
+
+                            <div class="hp11w3">
+
+                                <div class="hp11w4">
+
+                                    <ul>
+
+                                        <li>
+
+                                            <a data-lbl="" href="/negar/" class="icn-cvthn-right beforewhite">
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-05-min.jpg">&nbsp;</div>
+
+                                                <div class="hp11w6">
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>سامانه نگار</h4>
+
+                                                    <h3>سامانه ارسال پیام کوتاه نگار</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+                                                        <p>
+
+                                                            سرویس پیامک انبوه (Bulk Sms) یک بستر مطمئن و مقیاس پذیر برای ارسال پیام کوتاه در حجم بالا است.
+
+                                                        </p>
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+
+
+                                        <li>
+
+                                            <a data-lbl="" href="/vesal/" class="icn-cvthn-right beforewhite">
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-06-min.jpg">&nbsp;</div>
+
+
+
+
+
+                                                <div class="hp11w6">
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>سامانه وصال</h4>
+
+                                                    <h3>درگاه وب سرویس پیام کوتاه وصال</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+                                                        <p>درگاه وب سرویس پیام کوتاه شرکت ارمغان راه طلایی امکان ارسال و دریافت هزاران پیام کوتاه در ثانیه بصورت همزمان و پایدار به کلیه اپراتور های موبایل در سراسر کشور را فراهم می کند.</p>
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+
+
+                                        <li>
+
+                                            <a data-lbl="" href="https://osplugin.ir" class="icn-cvthn-right beforewhite">
+
+
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-08.jpg">&nbsp;</div>
+
+                                                <div class="hp11w6">    <!-- Transparent tile -->
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>افزونه ها</h4>
+
+                                                    <h3>افرونه های پیامکی پیام رسان نگار</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+<!--                                                        <p>راهنمای تصویری داشبورد مدیریتی سامانه وصال به همراه توضیحات و شرح مرحله به مرحله امکانات</p>-->
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="hp11w2" data-lbl="events">
+
+                            <h3>شبکه، اینترنت و دیتاسنتر</h3>
+
+                            <div class="hp11w3">
+
+
+
+                                <div class="hp11w4">
+
+                                    <ul>
+
+                                        <li>
+
+                                            <a data-lbl="" href="/network_apn/" class="icn-cvthn-right beforewhite">
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-09.jpg">&nbsp;</div>
+
+                                                <div class="hp11w6">
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>شبکه خصوصی تلفن همراه</h4>
+
+                                                    <h3>APN</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+<!--                                                        <p>-->
+<!---->
+<!--                                                            سرویس پیامک انبوه (Bulk Sms) یک بستر مطمئن و مقیاس پذیر برای ارسال پیام کوتاه در حجم بالا است.-->
+<!---->
+<!--                                                        </p>-->
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+
+
+                                        <li>
+
+                                            <a data-lbl="" href="/network_voip/" class="icn-cvthn-right beforewhite">
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-10.jpg">&nbsp;</div>
+
+
+
+
+
+                                                <div class="hp11w6">
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>خدمات VOIP</h4>
+
+                                                    <h3>برقراری تماس های تلفنی درون سازمانی بر روی شبکه محلی</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+<!--                                                        <p>درگاه وب سرویس پیام کوتاه شرکت ارمغان راه طلایی امکان ارسال و دریافت هزاران پیام کوتاه در ثانیه بصورت همزمان و پایدار به کلیه اپراتور های موبایل در سراسر کشور را فراهم می کند.</p>-->
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+
+
+                                        <li>
+
+                                            <a data-lbl="" href="/datacenter/" class="icn-cvthn-right beforewhite">
+
+
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-11.jpg">&nbsp;</div>
+
+                                                <div class="hp11w6">    <!-- Transparent tile -->
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>دیتاسنتر</h4>
+
+                                                    <h3>سخت افزارهای بروز شده و تجهیزات مختلف در فضای امن و مناسب</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+                                                        <p>راهنمای تصویری داشبورد مدیریتی سامانه وصال به همراه توضیحات و شرح مرحله به مرحله امکانات</p>
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                        <div class="hp11w2" data-lbl="whatsnew">
+
+                            <h3>محتوا</h3>
+
+                            <div class="hp11w3">
+
+
+
+                                <div class="hp11w4">
+
+                                    <ul>
+
+                                        <li>
+
+                                            <a data-lbl="" href="https://muvi1.ir" class="icn-cvthn-right beforewhite">
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-12.jpg">&nbsp;</div>
+
+                                                <div class="hp11w6">
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>سرویس مووی</h4>
+
+                                                    <h3>سرویس اشتراک ویدیو در کشور</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+<!--                                                        <p>-->
+<!---->
+<!--                                                            سرویس پیامک انبوه (Bulk Sms) یک بستر مطمئن و مقیاس پذیر برای ارسال پیام کوتاه در حجم بالا است.-->
+<!---->
+<!--                                                        </p>-->
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+
+
+                                        <li>
+
+                                            <a data-lbl="" href="https://saba.armaghan.net" class="icn-cvthn-right beforewhite">
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-13.jpg">&nbsp;</div>
+
+
+
+
+
+                                                <div class="hp11w6">
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>سرویس صبا</h4>
+
+                                                    <h3>سامانه مدیریت اطلاع رسانی محتوایی</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+<!--                                                        <p>درگاه وب سرویس پیام کوتاه شرکت ارمغان راه طلایی امکان ارسال و دریافت هزاران پیام کوتاه در ثانیه بصورت همزمان و پایدار به کلیه اپراتور های موبایل در سراسر کشور را فراهم می کند.</p>-->
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+
+
+                                        <li>
+
+                                            <a data-lbl="" href="https://salamatezanan.ir" class="icn-cvthn-right beforewhite">
+
+
+
+                                                <div class="hp11w5 o-bgimg" data-bgimg="/wp-content/uploads/2018/11/ART-Cover-14.jpg">&nbsp;</div>
+
+                                                <div class="hp11w6">    <!-- Transparent tile -->
+
+                                                </div>
+
+                                                <div class="hp11w7">
+
+                                                    <h4>سلامت</h4>
+
+                                                    <h3>ارائه توصیه های بهداشتی به منظور افزایش سطح آگاهی سلامت جامعه</h3>
+
+                                                    <div class="hp11Arrow icon-keyboard_capslock"></div>
+
+                                                    <div class="hp11w8">
+
+                                                        <hr />
+
+<!--                                                        <p>راهنمای تصویری داشبورد مدیریتی سامانه وصال به همراه توضیحات و شرح مرحله به مرحله امکانات</p>-->
+
+                                                        <div class="hp11GoBtn"><div class="icon-arrow-left hvr-sweep-to-left"><span>ادامه توضیحات</span></div></div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </a>
+
+                                        </li>
+
+                                    </ul>
+
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="about" class="float-all shape">
+
+        <i class="cover-img"></i>
+
+        <div class="container">
+
+            <div class="txt-cover wow pulse">
+
+                <h3 class="title-st tit2">
+
+                    <span>شرکت ارمغان راه طلایی</span>
+
+                    <i></i>
+
+                </h3>
+
+                <!-- <h2>شرکت ارمغان راه طلایی</h2> -->
+
+                <p>
+در راستای تخصصی شدن فعالیت های کسب و کاری و به منظور گسترش توانمندی ها در حوزه فناوری اطلاعات و ارتباطات و توسعه آن مطابق با نیازهای درون و برون سازمانی با نگاه ویژه به رشد سریع علوم در حوزه فاوا به عنوان یک شرکت چابک و متخصص پا به عرصه نهادیم و از بدو تاسیس تاکنون با ایجاد روندی پویا و بهره گیری از دانش روز و کارشناسان زبده و متعهد همگام و همسو با توسعه فناوری فعالیت نمودیم.                </p>
+
+                <a class="more hvr-sweep-to-left" href="https://www.armaghan.net/about"><span class="">ادامه مطلب</span><i class="icon-keyboard_arrow_left"></i></a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="partners" class="float-all carosel-sec shape">
+
+        <div class="bg-part" id="particles-js"></div>
+
+        <!--<img class="bg-part" src="https://www.armaghan.net/wp-content/themes/armaghan-child/images/bg-part.png">-->
+
+        <div class="container">
+
+            <h3 class="title-st">
+
+                <span>شرکای تجاری</span>
+
+                <i></i>
+
+            </h3>
+
+            <div class="partners-items">
+
+                <!-- <span class="shape-part"></span> -->
+
+                <span class="shape-part shape-partleft"></span>
+
+                <span class="shape-part shape-partright"></span>
+
+                <div>
+
+                    <div class="bran-items wow fadeInUp">
+
+                        <div class="f1_container">
+
+                            <div class="f1_card shadow">
+
+                                <div class="front face">
+
+                                    <img class="hidden-sm hidden-xs" src="/assets/img/jpg/hamrah.jpg"/>
+
+                                    <img class="hidden-lg hidden-md visible-sm visible-xs" src="/assets/img/jpg/hamrah2.jpg">
+
+                                </div>
+
+                                <div class="back face center">
+
+                                    <p>اپراتور همراه اول</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="bran-items wow fadeInUp">
+
+                        <div class="f1_container">
+
+                            <div class="f1_card shadow">
+
+                                <div class="front face">
+
+                                    <img class="hidden-sm hidden-xs" src="/assets/img/jpg/irancel.jpg"/>
+
+                                    <img class="hidden-lg hidden-md visible-sm visible-xs" src="/assets/img/jpg/irancel2.jpg">
+
+                                </div>
+
+                                <div class="back face center">
+
+                                    <p>اپراتور ایرانسل</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="bran-items wow fadeInUp">
+
+                        <div class="f1_container">
+
+                            <div class="f1_card shadow">
+
+                                <div class="front face">
+
+                                    <img class="hidden-sm hidden-xs" src="/assets/img/jpg/ritel.jpg"/>
+
+                                    <img class="hidden-lg hidden-md visible-sm visible-xs" src="/assets/img/jpg/ritel2.jpg">
+
+                                </div>
+
+                                <div class="back face center">
+
+                                    <p>اپراتور رایتل</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="bran-items wow fadeInUp">
+
+                        <div class="f1_container">
+
+                            <div class="f1_card shadow">
+
+                                <div class="front face">
+
+                                    <img class="hidden-sm hidden-xs" src="/assets/img/jpg/kish.jpg"/>
+
+                                    <img class="hidden-lg hidden-md visible-sm visible-xs" src="/assets/img/jpg/kish2.jpg">
+
+                                </div>
+
+                                <div class="back face center">
+
+                                    <p>اپراتور کیش</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="bran-items wow fadeInUp">
+
+                        <div class="f1_container">
+
+                            <div class="f1_card shadow">
+
+                                <div class="front face">
+
+                                    <img class="hidden-sm hidden-xs" src="/assets/img/jpg/talia.jpg"/>
+
+                                    <img class="hidden-lg hidden-md visible-sm visible-xs" src="/assets/img/jpg/talia2.jpg">
+
+                                </div>
+
+                                <div class="back face center">
+
+                                    <p>اپراتور تالیا</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="blank-st" class="shape-bt float-all"></section>
+
+    <section id="customers" class="float-all carosel-sec shape">
+
+        <h3 class="title-st">
+
+            <span>مشتریان ما</span>
+
+            <i></i>
+
+        </h3>
+
+        <div class="container">
+
+            <div class="demm5 owl-carousel owl-theme">
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>بانک انصار</span></span>
+
+                        <img class="trans" src="/assets/img/png/bankansar.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>بانک دی</span></span>
+
+                        <img class="trans" src="/assets/img/png/bankdey.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>بانک ایران زمین</span></span>
+
+                        <img class="trans" src="/assets/img/png/bankiranzamin.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>بانک مسکن</span></span>
+
+                        <img class="trans" src="/assets/img/png/bankmaskan.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>بانک رسالت</span></span>
+
+                        <img class="trans" src="/assets/img/png/bankresalat.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>بانک سینا</span></span>
+
+                        <img class="trans" src="/assets/img/png/banksina.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>بانک توسعه تعاون</span></span>
+
+                        <img class="trans" src="/assets/img/png/banktosetavon.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>قوه قضاییه</span></span>
+
+                        <img class="trans" src="/assets/img/png/ghoveghazaeie.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>شرکت مخابرات ایران</span></span>
+
+                        <img class="trans" src="/assets/img/png/mokhabrat.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>سازمان امور مالیاتی کشور</span></span>
+
+                        <img class="trans" src="/assets/img/png/omoormaliat.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>وزارت بهداشت،درمان و آموزش پزشکی</span></span>
+
+                        <img class="trans" src="/assets/img/png/vezaratbehdasht.png">
+
+                    </a>
+
+                </div>
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>وزارت نفت</span></span>
+
+                        <img class="trans" src="/assets/img/png/vezaratnaft.png">
+
+                    </a>
+
+                </div>
+
+
+
+
+
+                <div class="item">
+
+                    <a href="" class="shape-customers icon-hexagon1">
+
+                        <span class="hover-hexa icon-hexagon5 trans"><span>وزارت اقتصاد ودارایی</span></span>
+
+                        <img class="trans" src="/assets/img/png/vezaratomooreghtesadi.png">
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+	
+</main>
+
+﻿
+		
+
+<footer class="float-all">
+    <div class="top-foot">
+    <i class="cover-img"></i>
+        <div class="container">
+            <div class="row">
+                <div class="custom-col col-md-3 col-sm-6 col-xs-12">
+                    <h3>درباره ارمغان</h3>
+                    <ul>
+                        <li><a href="https://www.armaghan.net/about">معرفی شرکت</a></li>
+                        <li><a href="../مشتریان-ما">مشتریان ما</a></li>
+                        <li><a href="../شرکای-تجاری">شرکای تجاری</a></li>
+                        <li><a href="../gallery">حضور در نمایشگاه ها</a></li>
+						<li><div style="background-color:white; width: 140px; height: 150px; border-radius:20px; padding: 5px;"><center><img src="https://trustseal.enamad.ir/logo.aspx?id=18800&amp;p=vKGIfT6k67FA13mu" alt="" onclick="window.open(&quot;https://trustseal.enamad.ir/Verify.aspx?id=18800&amp;p=vKGIfT6k67FA13mu&quot;, &quot;Popup&quot;,&quot;toolbar=no, location=no, statusbar=no, menubar=no, scrollbars=1, resizable=0, width=580, height=600, top=30&quot;)" style="cursor:pointer" id="vKGIfT6k67FA13mu"></center></div></li>
+                    </ul>
+                </div>
+                <div class="custom-col col-md-3 col-sm-6 col-xs-12">
+                    <h3>محصولات و خدمات</h3>
+                    <ul>
+                        <li><a href="https://www.armaghan.net/sms">پیام کوتاه</a></li>
+                        <li><a href="https://www.armaghan.net/internet">شبکه و اینترنت</a></li>
+                        <li><a href="https://www.armaghan.net/dc-colocation">دیتاسنتر</a></li>
+                        <li><a href="https://art.armaghan.net/">محتوا</a></li>
+						<li><div style="background-color:white; width: 140px; height: 150px; border-radius:20px; padding: 5px;"><center><img src="/wp-content/uploads/2019/02/BPMLogo.png" width="120px" height="auto"/></center></div></li>
+                    </ul>
+                </div>
+                <div class="custom-col col-md-3 col-sm-6 col-xs-12">
+                    <h3>لینک های مفید</h3>
+                    <ul>
+                        <li><a href="https://osqr.ir">ورود به وب سایت تولید کد QR</a></li>
+			<li><a href="https://urlir.ir">ورود به وب سایت کوتاه کننده URL</a></li>
+                        <li><a href="https://art.armaghan.net">ورود به درگاه محتوایی ارمغان</a></li>
+                        <li><a href="http://vesal.armaghan.net/">ورود به درگاه پیامک وصال</a></li>
+                        <li><a href="https://negar.armaghan.net/">ورود به پیام رسان نگار</a></li>
+                        <li><a href="http://bulk.armaghan.net/MyLogin.aspx?ReturnUrl=%2f">ورود به پنل پیامک انبوه</a></li>
+			<li><a href="http://ibs.armaghan.ir/IBSng/user/">ورود به پرتال مدیریت حساب اینترنت</a></li>
+                    </ul>
+                </div>
+                <div class="custom-col col-md-3 col-sm-6 col-xs-12">
+                    <h3>اطلاعات تماس</h3>
+                    <ul>
+                        <li><h5 style="line-height: 1.5em;"><span class="icon-room"></span>میدان ونک خیابان ملاصدرا خیابان شیخ بهایی جنوبی کوچه مفتاح ، پلاک ۲۷</h5></li>
+                        <li><h5><span class="icon-mail-envelope-closed"></span>info@armaghan.net</h5></li>
+                        <li><h5><span class="icon-phone"></span>021-43431000 </h5></li>
+                        <!-- <li><h5><span class="icon-perm_phone_msg"></span>021-43431000 </h5></li> -->
+                        <li><h5><span class="icon-markunread_mailbox"></span>1435855961</h5></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bot-foot">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-8 col-xs-12">
+                    <h3>
+                        <i class="icon-copyright"></i>
+                        تمامی حقوق این وب سایت متعلق به <span class="color-st">شرکت ارمغان راه طلایی</span> می باشد .
+                    </h3>
+                </div>
+                <div class="col-md-6 col-sm-4 col-xs-12 socials">
+<!--                    <a class="hvr-radial-out" href=""><i class="icon-facebook"></i></a>-->
+                    <a class="hvr-radial-out" href=""><i class="icon-send"></i></a>
+                    <a class="hvr-radial-out" href=""><i class="icon-linkedin"></i></a>
+                </div>
+            </div>
+        </div>
+        
+       
+    </div>
+</footer>  
+<a id="gotop" ><i class="icon-chevron-up"></i></a>
+
+<!--<script type="text/javascript">-->
+<!--    var toggle  = document.getElementById("click-nav");-->
+<!--    var content = document.getElementById("navigation");-->
+<!---->
+<!--    toggle.addEventListener("click", function(){-->
+<!--      content.classList.toggle("appear");-->
+<!--    }, false);-->
+<!--    // hamburgers-->
+<!---->
+<!--      var forEach=function(t,o,r){if("[object Object]"===Object.prototype.toString.call(t))for(var c in t)Object.prototype.hasOwnProperty.call(t,c)&&o.call(r,t[c],c,t);else for(var e=0,l=t.length;l>e;e++)o.call(r,t[e],e,t)};-->
+<!---->
+<!--      var hamburgers = document.querySelectorAll(".hamburger");-->
+<!--      if (hamburgers.length > 0) {-->
+<!--        forEach(hamburgers, function(hamburger) {-->
+<!--          hamburger.addEventListener("click", function() {-->
+<!--            this.classList.toggle("is-active");-->
+<!--          }, false);-->
+<!--        });-->
+<!--      }-->
+<!--</script>-->
+<script type="text/javascript">
+    $(window).resize(function() {
+        if ($(window).width() > 991) {
+            $('#slider').height($(window).height() - 186);
+        }
+        else if ( $(window).width() < 991){
+            $('#slider').height($(window).height() - 186);
+        }
+        // else if ($(window).width() > 0 && $(window).width() < 768){
+        //     $('#slider').css("height","480px");
+        // }
+    });
+    $(window).trigger('resize');
+
+    $('#scrollToBottom').on("click", function () {
+        $('html, body').animate({ scrollTop: $(window).height()-100 }, 1200);
+
+    });
+</script>
+	
+
+<script type='text/javascript' src='https://www.armaghan.net/wp-includes/js/wp-embed.min.js?ver=5.2.5'></script>
+
+</body>
+</html>

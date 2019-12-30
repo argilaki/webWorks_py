@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+<head lang=fa-IR>
+    <meta charset=UTF-8>
+    <meta name=" theme-color" content="#ff3300">
+    <meta name=viewport content="width=device-width, initial-scale=1 , user-scalable=no">
+    <meta name="description" content="رسانه مهر">
+    <meta name="keywords" content="رسانه مهر"/>
+    <meta name=title content="دانلود کتاب، فیلم و موسیقی در رسانه مهر - ">
+    <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+    <meta name=language content=Fa>
+    <meta name=document-type content=Public>
+    <meta name=distribution content=global>
+    <meta name=document-rating content=General>
+    <meta name=classification content=Consumer>
+    <meta name=rating content="Safe For Kids">
+    <meta name=resource-type content=document>
+    <meta content=index name=googlebot>
+    <meta name=revisit-after content="7 Days">
+    <meta name=doc-class content="Living Document">
+    <meta name=google content=nositelinkssearchbox>
+    <meta name=twitter:image:src content=""/>
+    <meta name="twitter:domain" content="http://www.mehr.ir">
+    <meta name="twitter:title" content="دانلود کتاب، فیلم و موسیقی در رسانه مهر - "/>
+    <meta name="twitter:description" content="رسانه مهر، رسانه همراه مردم"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://www.mehr.ir"/>
+    <meta property="og:site_name" content="رسانه مهر"/>
+    <meta property="og:see_also" content="http://www.mehr.ir"/>
+    <meta property="og:image" content=""/>
+    <meta property="og:title" content="دانلود کتاب، فیلم و موسیقی در رسانه مهر - "/>
+    <meta property="og:description" content="رسانه مهر، رسانه همراه مردم"/>
+        <meta name="theme-static-url"
+          content="http://static.cdn.mehr.ir">
+    <meta name="api-url" content="http://www.mehr.ir">
+    <link rel="canonical" href="http://www.mehr.ir"/>
+    <link rel="shortcut icon"
+          href="http://static.cdn.mehr.ir/images/favicon.png"
+          type=image/x-icon>
+    <link rel=icon
+          href="http://static.cdn.mehr.ir/images/favicon.png"
+          type=image/x-icon>
+    <link rel=stylesheet
+          href="http://static.cdn.mehr.ir/css/styles.css?v=1.2.7.16">
+    <link rel="stylesheet"
+          href="http://static.cdn.mehr.ir/css/responsive.css?v=1.2.7.16"
+          type="text/css">
+    <link rel="stylesheet"
+          href="http://static.cdn.mehr.ir/scss/main.css?v=1.2.7.16"
+          type="text/css">
+
+    
+    <script defer
+            src="http://static.cdn.mehr.ir/js/vendor.js?v=1.2.7.16"
+    ></script>
+    <title>دانلود کتاب، فیلم و موسیقی در رسانه مهر</title>
+    </head>
+<body>
+
+<div id="mobile-header" class="hidden-lg hidden-md">
+    <div class="row top-line"></div>
+    <div class="top-bar">
+        <div class="right-side">
+            <a href="/" title="">
+                <img src="http://static.cdn.mehr.ir/images/logo.png"
+                     class="mobile-header-logo pull-right" alt="رسانه مهر">
+            </a>
+        </div>
+        <div class="left-side">
+            <ul class="list-inline">
+                <li>
+                    <a href=""   title="دانلود نرم افزار"
+                       class="btn-search-responsive btn-download ">
+                        <img src="http://static.cdn.mehr.ir/images/icons/search.svg" />
+                    </a>
+                </li>
+<!--                <li class="login-link" >-->
+<!--                    <a href="panel-link" class="btn-download">-->
+<!--                        <img src="--><!--/images/icons/menu.svg" />-->
+<!--                    </a>-->
+<!--                </li>-->
+                <li>
+                    <a href="#xs-subjects"  id="showSubjectsMobile" data-toggle="modal"
+                       class="btn-download ـbtn-ope-naven-user-sid">
+                        <img src="http://static.cdn.mehr.ir/images/icons/menu.svg" />
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div style="clear: both;"></div>
+            <nav class="main-menu">
+    <div>
+        <a href="/shop/tab/1" class="active"
+           title="ویترین">
+            <div class="icon">
+                <i class="ic ic-vitrine ic-x5">
+                    <span class="path1"></span>
+                    <span class="path2"></span>
+                    <span class="path3"></span>
+                    <span class="path4"></span>
+                </i>
+            </div>
+            <div class="title">ویترین</div>
+        </a>
+    </div>
+
+    <div>
+        <a href="/feed/index" class=""
+           title="چارسوق">
+            <div class="icon">
+                <i class="ic ic-feed ic-x6"></i>
+            </div>
+            <div class="title">چارسوق</div>
+        </a>
+    </div>
+
+    <div>
+        <a href="/panel" class=""
+           title="پروفایل">
+            <div class="icon">
+                <i class="ic ic-profile ic-x5"></i>
+            </div>
+            <div class="title">پروفایل</div>
+        </a>
+    </div>
+
+
+</nav>
+
+<script src="http://static.cdn.mehr.ir/js/application/widgets/main-menu.js?v=1.2.7.16"
+        defer></script>    </div>
+</div>
+
+<div id="user-sidenav" class="user-sidenav">
+<!--    <a href="javascript:void(0)" class="btn-close-user-side-menu">&times;</a>-->
+    <div class="logo">
+        <i class="ic ic-x7 ic-empty"></i>
+        <h2 class="title">رسانه مهر</h2>
+    </div>
+    
+<a href="/panel/post" class="btn btn-link">
+    <span class="ic ic-profile ic-x4"></span>
+    پست های من</a>
+
+<a href="/panel/content" class="btn btn-link">
+    <span class="ic ic-content ic-x4"></span>
+    آثار من</a>
+
+<a href="/panel/channel" class="btn btn-link">
+    <span class="ic ic-network ic-x4"></span>
+    شبکه های من</a>
+
+<a href="/panel/profile/update" class="btn btn-link">
+    <span class="ic ic-gear ic-x4"></span>
+    ویرایش  پروفایل</a>
+
+<a href="/auth/logout" class="btn btn-link">
+    <span class="ic ic-power-button ic-x4"></span>
+    خروج</a></div>
+
+<div id="responsive-search">
+    <div class="row">
+        <div class="col-md-12 no-padding" >
+            <div class="input-placeholder">
+                <input class="responsive-search-input js-search" type="search" placeholder="عبارت مورد نظر را تایپ کنید" id="example-search-input">
+                <span class="append ">بستن</span>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="main">
+    <header class="hidden-xs hidden-sm">
+    <div class="row top-line"></div>
+    <nav class="navbar">
+        <div class="row site-header ">
+            <div class="container">
+                <div class="col-lg-4 col-md-4 col-xs-4 ">
+                    <div id=logo>
+                        <a href="/" title="">
+                            <img src="http://static.cdn.mehr.ir/images/logo.png"
+                                 alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-5 col-xs-5 ">
+                    <div id=search>
+    <form action=/content method=get name=search role=form class=form-inline>
+        <div class="input-group"></div>
+        <div class="input-group input-group-search-btn">
+            <input id="search1" name=search type=search class="form-control js-search"
+                   placeholder="فیلم، موسیقی، کتاب، شخص یا کلمه مورد نظر خود را جستجو کنید..."/>
+        </div>
+    </form>
+</div>
+
+<script src="http://static.cdn.mehr.ir/js/application/widgets/search.js?v=1.2.7.16"
+        defer></script>
+
+
+
+
+                </div>
+                <div class="col-lg-3 col-md-3 col-xs-3 categories">
+                    <a href="#" id="showSubjectsDesktop">
+                        <i class="ic ic-x4 ic-more"></i>
+                        دسته بندی                    </a>
+                    <!--                    -->                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="menu-container">
+                <nav class="navbar" role=navigation>
+                    <nav class="main-menu">
+    <div>
+        <a href="/shop/tab/1" class="active"
+           title="ویترین">
+            <div class="icon">
+                <i class="ic ic-vitrine ic-x5">
+                    <span class="path1"></span>
+                    <span class="path2"></span>
+                    <span class="path3"></span>
+                    <span class="path4"></span>
+                </i>
+            </div>
+            <div class="title">ویترین</div>
+        </a>
+    </div>
+
+    <div>
+        <a href="/feed/index" class=""
+           title="چارسوق">
+            <div class="icon">
+                <i class="ic ic-feed ic-x6"></i>
+            </div>
+            <div class="title">چارسوق</div>
+        </a>
+    </div>
+
+    <div>
+        <a href="/panel" class=""
+           title="پروفایل">
+            <div class="icon">
+                <i class="ic ic-profile ic-x5"></i>
+            </div>
+            <div class="title">پروفایل</div>
+        </a>
+    </div>
+
+
+</nav>
+
+<script src="http://static.cdn.mehr.ir/js/application/widgets/main-menu.js?v=1.2.7.16"
+        defer></script>                </nav>
+                <div class="cart-basket">
+                    <a href="/cart">
+                        <i class="ic ic-x6 ic-shopping-bag"></i>
+                    </a>
+                    <div class="title">سبد خرید</div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>    
+<div class=clear></div>
+<div class="tab-content">
+            <div id="section_1"
+             class="tab-pane fade in active"
+            data-content-loaded=true>
+                                                
+<div class="container">
+    <div class="position-of-top banner-wrapper">
+                    <!-- desktop mode -->
+            <a href="http://mehr.ir/shop/tab/3/" title="">
+                <img class="desktop-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/images/film.png"
+                     title=""
+                     alt="">
+                <img class="mobile-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/ninepatch/film2.9.png"
+                     title=""
+                     alt="">
+            </a>
+            </div>
+</div>                                    
+<div class="container">
+    <div class="position-of-top banner-wrapper">
+                    <!-- desktop mode -->
+            <a href="http://mehr.ir/shop/tab/4" title="موسیقی">
+                <img class="desktop-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/images/music.png"
+                     title="موسیقی"
+                     alt="موسیقی">
+                <img class="mobile-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/ninepatch/music2.9.png"
+                     title="موسیقی"
+                     alt="موسیقی">
+            </a>
+            </div>
+</div>                                    
+<div class="container">
+    <div class="position-of-top banner-wrapper">
+                    <!-- desktop mode -->
+            <a href="http://mehr.ir/shop/tab/2/" title="">
+                <img class="desktop-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/images/ebook.png"
+                     title=""
+                     alt="">
+                <img class="mobile-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/ninepatch/ebook2.9.png"
+                     title=""
+                     alt="">
+            </a>
+            </div>
+</div>                                    
+<div class="container">
+    <div class="position-of-top banner-wrapper">
+                    <!-- desktop mode -->
+            <a href="http://www.mehr.ir/festival" title="جشنواره">
+                <img class="desktop-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/images/festival-banner.png"
+                     title="جشنواره"
+                     alt="جشنواره">
+                <img class="mobile-banner img-rounded" width="100%" src="https://static.faraketab.ir/banners/ninepatch/festival.9.png"
+                     title="جشنواره"
+                     alt="جشنواره">
+            </a>
+            </div>
+</div>                            
+        </div>
+            <div id="section_2"
+             class="tab-pane fade in "
+            >
+            
+        </div>
+            <div id="section_3"
+             class="tab-pane fade in "
+            >
+            
+        </div>
+            <div id="section_4"
+             class="tab-pane fade in "
+            >
+            
+        </div>
+    
+</div>
+<script src="http://static.cdn.mehr.ir/js/application/site/index.js?v=1.2.7.16"
+        defer></script>
+        <div id="modal-follow-list" class="modal fade" role="dialog" data-user-id="">
+        <div class="modal-dialog followlist">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body follower-list-items"></div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <footer>
+        <div class="container">
+            <div class="row footer-top">
+                <div class="col-md-8 col-xs-12">
+                    <nav class="navbar navbar-inverse navbar-static-top" role=navigation>
+                        <div class=" navbar-collapse">  
+                            <ul class="nav navbar-nav">
+                                <!--                        <li class="">-->
+                                <!--                            <a href="/">-->
+                                <!--                                -->                                <!--                            </a>-->
+                                <!--                        </li>-->
+
+                                <!--                        <li class="">-->
+                                <!--                            <a href="http://www.faraketab.ir">-->
+                                <!--                                فراکتاب-->
+                                <!--                            </a>-->
+                                <!--                        </li>-->
+
+                                <li class="">
+                                    <a href="http://news.mehr.ir" target="_blank">
+                                        اخبار                                    </a>
+                                </li>
+                                <!--                        <li class="">-->
+                                <!--                            <a href="/site/faq" title="">-->
+                                <!--                                -->                                <!--                            </a>-->
+                                <!--                        </li>-->
+                                <li class="">
+                                    <a href="/page/about">
+                                        درباره ما                                    </a>
+                                </li>
+                                <li class="">
+                                    <a href="/site/contact">
+                                        تماس با ما                                    </a>
+                                </li>
+
+                                <!--                    <li class="">-->
+                                <!--                        <a href="/site/tariff">-->
+                                <!--                            -->                                <!--                        </a>-->
+                                <!--                    </li>-->
+
+
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <div class="col-md-4 col-xs-12 text-left">
+                    <a href="http://static.mehr.ir/viewers/mehrmedia_980919.apk" class="btn-download-android">
+                        <i class="fa fa-android"></i>
+                        <div class="download-link-title">دانلود نرم افزار</div>
+                    </a>
+                    <div class="clear"></div>
+                </div>
+                <div class="col-md-12">
+                    <div class="line"></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-xs-12">
+                    <div class="row footer-box text-center">
+                        <img src="http://static.cdn.mehr.ir/images/samandehi-enamad.jpg"
+                             title="" alt="enamad">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row footer-box copyright">
+                <div class=container-fluid>تمامی کالا ها و خدمات این سایت، حسب مورد، دارای مجوز های لازم از مراجع مربوطه می باشند و فعالیت های این سایت تابع قوانین و مقررات جمهوری اسلامی ایران است.</div>
+            </div>
+        </div>
+    </footer>
+</div>
+<!-- check cookie if user closed dialog in mobile mode  -->
+    <div class="app-download-box col-xs-12 hidden-lg hidden-md">
+        <div class="dlclose">
+            <a href="" class="close-app-download-box">
+                <i class="ic ic-close text-white"></i>
+            </a>
+        </div>
+        <div class="dltitle">دانلود اپلیکیشن            <span class="ante">رسانه مهر</span>
+        </div>
+        <div class="dltools">
+            <button class="dlbutton dlbutton-success">
+                <a href="http://static.mehr.ir/viewers/mehrmedia_980919.apk">دانلود</a>
+            </button>
+        </div>
+    </div>
+<div id="add-to-card-modal-wrapper"></div>
+<div id="subject-modal-wrapper"></div>
+<a href="#" id="backtoTop" title="برو بالای صفحه">
+    <i class="ic ic-up ic-x3"></i>
+</a>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+
+        window.onload = function () {};
+/*]]>*/
+</script>
+</body>
+</html>

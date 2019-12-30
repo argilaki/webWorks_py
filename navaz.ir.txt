@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="Content-Language" content="fa"/>
+
+    <title>ورود</title>
+    <link rel="shortcut icon" type="image/png" href="https://www.navaz.ir/dist/image/icon/favicon-32x32.png"/>
+    <link rel="stylesheet" href="https://www.navaz.ir/dist/vendor/bootstrap/dist/css/bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="https://www.navaz.ir/dist/vendor/bootstrap/dist/css/bootstrap-theme.min.css"
+          type="text/css"/>
+    <link rel="stylesheet" href="https://www.navaz.ir/dist/css/bootstrap-rtl.min.css" type="text/css"/>
+    <link rel="stylesheet" href="https://www.navaz.ir/dist/vendor/animate.css/animate.min.css" type="text/css"/>
+
+
+    
+    <link rel="stylesheet" href="https://www.navaz.ir/dist/css/styles.min.css" type="text/css"/>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="https://www.navaz.ir/dist/vendor/owlCarousel/assets/owl.carousel.min.css" type="text/css"/>
+    <link rel="stylesheet" href="https://www.navaz.ir/dist/vendor/owlCarousel/assets/owl.theme.default.css" type="text/css"/>
+
+    <style type="text/css">
+        canvas {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122496217-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-122496217-1');
+    </script>
+</head>
+<body>
+
+
+
+<div class="main" style="display: flex;justify-content: center;align-items: center;transform: none; min-height: 420px; ">
+    <div id="start" class="text-center" style=" position: absolute;
+      top: 20%;
+      left: 50%;
+      transform: translate(-50%, -50%);z-index: 99 ;display: none">
+        <img src="https://www.navaz.ir/dist/image/navaz_logo2.png" width="100">
+        <h2>افتتاح سامانه موسیقی نواز</h2>
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="login-wrapper  padder-v padder"
+         style="background-image: url('https://www.navaz.ir/dist/image/navaz_background.png')">
+        <div class="beta-banner-login">نسخه آزمایشی</div>
+        <div class="text-center">
+            <img src="https://www.navaz.ir/dist/image/navaz_logo2.png" width="100">
+
+
+            <div class="padder padder-v">
+                <form action="" method="post" id="form">
+                    <div class="padder-v m-t-xl">
+                        <p>موبایل خود را وارد کنید.</p>
+                        <div class=" effect-wrapper">
+                            <input class="effect-2 text-center" type="text" name="mobile" value=""
+                                   placeholder="مثال: ۹۱۲۱۲۳۴۵۶۷" data-parsley-trigger="change"
+                                   required="true"
+                                   data-parsley-myvalidator="" autofocus>
+                            <span class="code">+98</span>
+                            <span class="focus-border"></span>
+                        </div>
+                        <div class="button-wrapper m-t-xl">
+                            <div class="before"></div>
+                            <div class="border-btn-wrapper">
+                                <button type="submit" class="btn-default border-btn">تایید</button>
+                            </div>
+                            <div class="after"></div>
+                        </div>
+                        
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade intro-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content" style="overflow: hidden">
+            <div class="owl-carousel owl-theme owl-intro">
+                <div class="item"><img src="https://www.navaz.ir/dist/image/splash1-web.jpg"></div>
+                <div class="item"><img src="https://www.navaz.ir/dist/image/guide1-web.jpg"></div>
+                <div class="item"><img src="https://www.navaz.ir/dist/image/guide2-web.jpg"></div>
+                <div class="item"><img src="https://www.navaz.ir/dist/image/guide3-web.jpg">
+                    <a href="javascript:void(0);" class="btn  end-intro">پایان</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<footer>
+    <div class="padder-v col-md-12">
+        <div class="col-md-6">
+            <ul class="menu m-t-xs">
+                <li class="col-md-3 col-xs-4 "><a href="https://www.navaz.ir/auth/privacy">حریم خصوصی</a> </li>
+                <li class="col-md-3 col-xs-4 "><a href="https://www.navaz.ir/auth/terms">شرایط استفاده</a> </li>
+                <li class="col-md-3 col-xs-4 "><a href="javascript:void(0)">درباره ما</a> </li>
+            </ul>
+        </div>
+        <div class="col-md-6 text-left">
+            <a href="https://www.navaz.ir/dist/file/navaz.apk">
+                <img src="https://www.navaz.ir/dist/image/icon/android-b-download.png" width="100" style="border: 1px solid white;border-radius: 6px;">
+            </a>
+            <a href="https://new.sibapp.com/applications/navaz">
+                <img src="https://www.navaz.ir/dist/image/icon/Sibapp.png" width="141">
+            </a>
+            
+            
+        </div>
+
+    </div>
+    <div class="bottom-footer text-center col-md-12">تمام حقوق مادی و معنوی متعلق به نواز می باشد</div>
+</footer>
+<script src="https://www.gstatic.com/firebasejs/4.11.0/firebase.js"></script>
+<script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyDMn7DpAs-0sp4YAgjrISoWFzbnbVC_N48",
+        authDomain: "navaz-e4f27.firebaseapp.com",
+        databaseURL: "https://navaz-e4f27.firebaseio.com",
+        projectId: "navaz-e4f27",
+        storageBucket: "navaz-e4f27.appspot.com",
+        messagingSenderId: "77896082531"
+    };
+    firebase.initializeApp(config);
+</script>
+<script>
+    var web_uri = "https://www.navaz.ir";
+</script>
+<script src="https://www.navaz.ir/dist/vendor/jquery/dist/jquery.min.js"></script>
+<script src="https://www.navaz.ir/dist/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="https://www.navaz.ir/dist/vendor/underscore/underscore-min.js"></script>
+<script src="https://www.navaz.ir/dist/js/main.min.js"></script>
+
+
+
+    <script src="https://www.navaz.ir/dist/vendor/parsleyjs/parsley.min.js"></script>
+    <script src="https://www.navaz.ir/dist/vendor/parsleyjs/i18n/fa.js"></script>
+    <script src="https://www.navaz.ir/dist/vendor/owlCarousel/owl.carousel.min.js"></script>
+
+
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            $('#form').parsley().on('field:validated', function () {
+                var ok = $('.parsley-error').length === 0;
+                $('.bs-callout-info').toggleClass('hidden', !ok);
+                $('.bs-callout-warning').toggleClass('hidden', ok);
+            }).on('form:submit', function () {
+//                    return false;
+            });
+            window.ParsleyValidator.addValidator('myvalidator',
+
+                function just_mobile(input) {
+                    var p = /^9(0(\d)|1(\d)|2(\d)|3(\d)|(9(\d)))\d{7}$/;
+                    if (!p.test(input)) {
+                        return false
+                    }
+                })
+                .addMessage('fa', 'myvalidator', 'این شماره معتبر نیست. ( مثال: ۹۱۲۹۸۷۶۵۴۳ )');
+        })
+    </script>
+
+
+</body>
+</html>

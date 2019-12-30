@@ -1,0 +1,1690 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fa" >
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="theme-color" content="#000"/>
+    <link rel="apple-touch-icon" sizes="57x57" href="https://hashure.com/public/user/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://hashure.com/public/user/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://hashure.com/public/user/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://hashure.com/public/user/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://hashure.com/public/user/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://hashure.com/public/user/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://hashure.com/public/user/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://hashure.com/public/user/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://hashure.com/public/user/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://hashure.com/public/user/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://hashure.com/public/user/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://hashure.com/public/user/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://hashure.com/public/user/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://hashure.com/public/user/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#000">
+    <meta name="msapplication-TileImage" content="https://hashure.com/public/user/img/favicon/ms-icon-144x144.png">
+    <meta name="twitter:image" content="https://hashure.com/public/user/img/favicon/ms-icon-144x144.png" />
+    <title>هاشور | مرجع مستند ایران و جهان</title>
+<meta name="description" content="هاشور ، مرجع مستندهای ایران و جهان با در اختیار داشتن بایگانی کاملی از برترین مستند ها یک مرجع کامل برای دوست داران فیلم های مستند میباشد ، مشاهده و دسترسی به بروزترین مستند ها و اطلاعات کامل آنها در وب سایت هاشور"/>
+<meta name="keywords" content="هاشور ، مرجع مستند ،ایران ، جهان ، دایرکتوری مستند ، مشاهده مستند ، مستند آنلاین ، برترین مستند ، مستندهای ایرانی ، مستند"/>
+<meta property="og:locale" content="fa_IR"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="هاشور | مرجع مستند ایران و جهان"/>
+<meta property="og:description" content="هاشور ، مرجع مستندهای ایران و جهان با در اختیار داشتن بایگانی کاملی از برترین مستند ها یک مرجع کامل برای دوست داران فیلم های مستند میباشد ، مشاهده و دسترسی به بروزترین مستند ها و اطلاعات کامل آنها در وب سایت هاشور"/>
+<meta property="og:url" content="https://hashure.com"/>
+<meta property="og:site_name" content="هاشور | مرجع مستندهای ایران"/>
+<meta property="article:publisher" content="https://hashure.com"/>
+<meta name="twitter:card" content="هاشور ، مرجع مستندهای ایران و جهان با در اختیار داشتن بایگانی کاملی از برترین مستند ها یک مرجع کامل برای دوست داران فیلم های مستند میباشد ، مشاهده و دسترسی به بروزترین مستند ها و اطلاعات کامل آنها در وب سایت هاشور"/>
+<meta name="twitter:description" content="هاشور ، مرجع مستندهای ایران و جهان با در اختیار داشتن بایگانی کاملی از برترین مستند ها یک مرجع کامل برای دوست داران فیلم های مستند میباشد ، مشاهده و دسترسی به بروزترین مستند ها و اطلاعات کامل آنها در وب سایت هاشور"/>
+<meta name="twitter:title" content="هاشور | مرجع مستند ایران و جهان"/>
+<meta name="twitter:site" content="https://twitter.com/HashureMostanad"/>
+<meta name="twitter:creator" content="https://twitter.com/HashureMostanad"/>
+<link rel="canonical" href="https://hashure.com"/>    <link rel="stylesheet" href="https://hashure.com/public/user/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="https://hashure.com/public/user/lib/photoswipe/photoswipe.css">
+    <link rel="stylesheet" href="https://hashure.com/public/user/lib/photoswipe/default-skin/default-skin.css">
+    <link rel="stylesheet" href="https://hashure.com/public/user/stylesheets/all.min.css">
+    <link rel="stylesheet" href="https://hashure.com/public/user/stylesheets/animate.css">
+    <link rel="stylesheet" href="https://hashure.com/public/user/stylesheets/sho.red.css">
+    <link rel="stylesheet" href="https://hashure.com/public/user/stylesheets/style.css?v=1.0.0">
+    <script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1414650,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</head>
+<body class="sho-home has-nav-exposed js-notification">
+<div class="site-container">
+
+    <nav class="global-navigation js-global-navigation" data-context="global navigation">
+        <div class="global-navigation__inner">
+
+            <h1>
+                <a class="global-navigation__logo" href="https://hashure.com" data-track data-label="home"></a>
+            </h1>
+
+            <div class="global-navigation__menu-toggle">
+                <div class="global-navigation__menu-icon" data-track data-label="menu open">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <ul class="global-navigation__breadcrumb">
+                </ul>
+            </div>
+            <div class="global-navigation__primary">
+                <ul class="global-navigation__primary-menu">
+
+
+                    <li class="global-navigation__primary-menu-item">
+        <a id="26" href="https://hashure.com/mostanads/category/مستندهای-هاشور" data-track data-label="گنجینه مستند">گنجینه مستند</a>
+    </li>
+    <li class="global-navigation__primary-menu-item">
+        <a id="15" href="https://hashure.com/night-ekran-list" data-track data-label="اکران شب های مستند">اکران شب های مستند</a>
+    </li>
+    <li class="global-navigation__primary-menu-item">
+        <a id="18" href="https://hashure.com/shop" data-track data-label="فروشگاه">فروشگاه</a>
+    </li>
+    <li class="global-navigation__primary-menu-item">
+        <a id="27" href="https://hashure.com/contact" data-track data-label="تماس با ما">تماس با ما</a>
+    </li>
+    <li class="global-navigation__primary-menu-item">
+        <a id="14" href="https://hashure.com/news/" data-track data-label="اخبار هاشور">اخبار هاشور</a>
+    </li>
+                </ul>
+            </div>
+            <div class="global-navigation__search-bar">
+                <form id="results-search-form" class="form--dark" action="https://hashure.com/search">
+                    <input class="global-navigation__search-field" id="searchField" name="q" value=""
+                           placeholder="جستجو" type="text" class="text">
+                </form>
+            </div>
+            <div class="global-navigation__right">
+                <ul class="global-navigation__right-menu">
+
+                    <li class="global-navigation__right-menu-item">
+    <a class="global-navigation__get-showtime button--solid-red" href="https://hashure.com/buy-package"
+       data-track data-label="order">خرید اشتراک</a>
+</li>                                            <li class="global-navigation__right-menu-item"><a href="https://hashure.com/login"
+                                                                          class="global-navigation__login"> وارد شوید
+                                <div class="global-navigation__login-icon"></div>
+                            </a></li>
+                                        
+                    
+                    
+                </ul>
+                <div class="global-navigation__search-icon">
+                    <span class="global-navigation__circle"></span>
+                    <span class="global-navigation__handle"></span>
+                </div>
+            </div>
+        </div>
+        <div class="global-navigation__breadcrumb-mobile">
+
+        </div>
+
+
+        <div class="global-navigation__primary-mobile">
+            <ul class="global-navigation__primary-mobile-menu">
+                <li class="global-navigation__primary-mobile-menu-item"><a id="home" href="https://hashure.com" data-track
+                                                           data-label="خانه">خانه</a></li>
+    <li class="global-navigation__primary-mobile-menu-item"><a id="26" href="https://hashure.com/mostanads/category/مستندهای-هاشور" data-track
+                                                               data-label="گنجینه مستند">گنجینه مستند</a></li>
+    <li class="global-navigation__primary-mobile-menu-item"><a id="15" href="https://hashure.com/night-ekran-list" data-track
+                                                               data-label="اکران شب های مستند">اکران شب های مستند</a></li>
+    <li class="global-navigation__primary-mobile-menu-item"><a id="18" href="https://hashure.com/shop" data-track
+                                                               data-label="فروشگاه">فروشگاه</a></li>
+    <li class="global-navigation__primary-mobile-menu-item"><a id="27" href="https://hashure.com/contact" data-track
+                                                               data-label="تماس با ما">تماس با ما</a></li>
+    <li class="global-navigation__primary-mobile-menu-item"><a id="14" href="https://hashure.com/news/" data-track
+                                                               data-label="اخبار هاشور">اخبار هاشور</a></li>
+    <li class="parent divided global-navigation__primary-mobile-menu-item"><a href="https://hashure.com/login"  class="logout-link">وارد شوید </a></li>
+
+
+    
+            </ul>
+            
+            
+            
+            <ul class="global-navigation__get-showtime-mobile-menu">
+                <li class="global-navigation__get-showtime-mobile-menu-item"><a href="" data-track data-label="order">مشاهده
+                        همگی </a></li>
+            </ul>
+        </div>
+        <div class="schedule-drawer" data-context="global navigation">
+            <div class="schedule-drawer__inner">
+                <i class="schedule-drawer__icon-close" data-track data-label="schedule close"></i>
+                <div class="schedule-drawer--header">
+                    برنامه ها امشب در <span class="showtime-logo">هاشور</span>
+                </div>
+                <ul class="schedule-drawer__list">
+                    <li class="schedule-drawer__list-item">
+                        <a href="#" data-track data-label="" data-location="">
+                            <img class="schedule-drawer__program-img"
+                                 src="img/small/0_0_3426051_prm-edgeofseventeen_300x300.jpg"></a>
+                        <div class="schedule-drawer__program-time">
+                            8 بعد از ظهر
+                        </div>
+                        <a class="schedule-drawer__program-title" href="#" data-track data-label="" data-location="">
+                            قله های دوقلو
+                        </a>
+                        <a class="schedule-drawer__program-episode-number" href="#" data-track data-label=""
+                           data-location="">قسمت 18، فصل اول</a>
+                    </li>
+                    <li class="schedule-drawer__list-item">
+                        <a href="#" data-track data-label="" data-location="">
+                            <img class="schedule-drawer__program-img"
+                                 src="img/small/0_0_3426051_prm-edgeofseventeen_300x300.jpg"></a>
+                        <div class="schedule-drawer__program-time">
+                            8 بعد از ظهر
+                        </div>
+                        <a class="schedule-drawer__program-title" href="#" data-track data-label="" data-location="">
+                            قله های دوقلو
+                        </a>
+                        <a class="schedule-drawer__program-episode-number" href="#" data-track data-label=""
+                           data-location="">قسمت 18، فصل اول</a>
+                    </li>
+                    <li class="schedule-drawer__list-item">
+                        <a href="#" data-track data-label="" data-location="">
+                            <img class="schedule-drawer__program-img"
+                                 src="img/small/0_0_3426051_prm-edgeofseventeen_300x300.jpg"></a>
+                        <div class="schedule-drawer__program-time">
+                            8 بعد از ظهر
+                        </div>
+                        <a class="schedule-drawer__program-title" href="#" data-track data-label="" data-location="">
+                            قله های دوقلو
+                        </a>
+                        <a class="schedule-drawer__program-episode-number" href="#" data-track data-label=""
+                           data-location="">قسمت 18، فصل اول</a>
+                    </li>
+                </ul>
+                <a class="schedule-drawer__link--view-more" href="schedule.php" data-track data-label="">مشاهده همه
+                    زمانبندی های تلویزبون<i class="icon icon--xsmall icon--next"></i></a>
+            </div>
+            <div class="schedule-drawer__footer">
+                <div class="schedule-drawer__footer__inner">
+                    <a class="schedule-drawer__link--view-more" href="schedule.php" data-track data-label="">مشاهده
+                        زمانبندی های در خواست شده <i class="icon icon--xsmall icon--next"></i></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+            
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+        
+        
+        
+        <div id="module_slider" class="module_slider-custom">
+    <div class="flexslider">
+        <ul class="slides">
+
+                            <li>
+                    <section class="hero hero--no-description hero--panel-link"
+                             data-context="hero:">
+
+                        <a target="_blank" class="hero__image lazyload"
+
+                           data-bgset="https://hashure.com/public/uploads/Slider/70637841561145377.jpg">
+                        </a>
+
+                        <div class="hero__inner">
+                            <div class="hero__body">
+                                <div class="hero__top-line">
+                                    <a href="#">
+                                        به هاشور خوش آمدید
+                                    </a>
+                                </div>
+                                <div class="hero__headline">
+                                    <a href="https://hashure.com/mostanads/all">
+                                        گنجینه مستند های ایران
+                                    </a>
+                                </div>
+                                <p class="hero__subtitle"></p>
+                                <a href="https://hashure.com/about"
+                                   class="hero__cta hero__title2">درباره هاشور </a>
+
+                            </div>
+
+                        </div>
+                                                    <section class="order-banner  ad-custom-for-slider" data-context="banner">
+                                <div class="order-banner__inner px-100px">
+                                    <div class="order-banner__body">
+                                        <h2 class="order-banner__headline">همین حالا در &quot;هاشور&quot; تماشا کنید</h2>
+                                        <p class="order-banner__copy">دسترسی آسان به مجموعه مستندهای منحصر به فرد، فیلم های شاخص و...</p>
+                                        <a class="order-banner__button"
+                                           href="https://hashure.com/buy-package" data-track
+                                           data-label="">
+                                            خرید اشتراک
+                                        </a>
+                                    </div>
+                                    <div class="order-banner__image lazyload"
+                                         data-bgset="https://hashure.com/public/uploads/Slider/39793741547631082.png"></div>
+                                </div>
+                            </section>
+                                            </section>
+                </li>
+                            <li>
+                    <section class="hero hero--no-description hero--panel-link"
+                             data-context="hero:">
+
+                        <a target="_blank" class="hero__image lazyload"
+
+                           data-bgset="https://hashure.com/public/uploads/Slider/40764281569678964.jpg">
+                        </a>
+
+                        <div class="hero__inner">
+                            <div class="hero__body">
+                                <div class="hero__top-line">
+                                    <a href="https://hashure.com/night-ekran/%D8%B2%D9%85%D9%86%D8%A7%DA%A9%D9%88?lang=fa">
+                                        به شبهای مستند هاشور خوش آمدید
+                                    </a>
+                                </div>
+                                <div class="hero__headline">
+                                    <a href="https://hashure.com/night-ekran/%D8%B2%D9%85%D9%86%D8%A7%DA%A9%D9%88?lang=fa">
+                                        زمناکو
+                                    </a>
+                                </div>
+                                <p class="hero__subtitle"></p>
+                                <a href=""
+                                   class="hero__cta hero__title2"> </a>
+
+                            </div>
+
+                        </div>
+                                                    <section class="order-banner  ad-custom-for-slider" data-context="banner">
+                                <div class="order-banner__inner px-100px">
+                                    <div class="order-banner__body">
+                                        <h2 class="order-banner__headline">همین حالا در &quot;هاشور&quot; تماشا کنید</h2>
+                                        <p class="order-banner__copy">دسترسی آسان به خرید بلیت شب های مستند هاشور، فیلم &quot;زمناکو&quot;</p>
+                                        <a class="order-banner__button"
+                                           href="https://hashure.com/night-buy/%D8%B2%D9%85%D9%86%D8%A7%DA%A9%D9%88?lang=fa" data-track
+                                           data-label="">
+                                            خریدبلیت
+                                        </a>
+                                    </div>
+                                    <div class="order-banner__image lazyload"
+                                         data-bgset="https://hashure.com/public/uploads/Slider/68359251573292980.png"></div>
+                                </div>
+                            </section>
+                                            </section>
+                </li>
+                            <li>
+                    <section class="hero hero--no-description hero--panel-link"
+                             data-context="hero:">
+
+                        <a target="_blank" class="hero__image lazyload"
+
+                           data-bgset="https://hashure.com/public/uploads/Slider/94778701566115381.jpg">
+                        </a>
+
+                        <div class="hero__inner">
+                            <div class="hero__body">
+                                <div class="hero__top-line">
+                                    <a href="https://hashure.com/night-ekran/%D8%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%81%D8%B1%DB%8C%D8%AF%D9%87?lang=fa">
+                                        به شبهای مستند هاشور خوش آمدید
+                                    </a>
+                                </div>
+                                <div class="hero__headline">
+                                    <a href="https://hashure.com/night-ekran/%D8%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%81%D8%B1%DB%8C%D8%AF%D9%87?lang=fa">
+                                        در جستجوی فریده
+                                    </a>
+                                </div>
+                                <p class="hero__subtitle"></p>
+                                <a href=""
+                                   class="hero__cta hero__title2"> </a>
+
+                            </div>
+
+                        </div>
+                                                    <section class="order-banner  ad-custom-for-slider" data-context="banner">
+                                <div class="order-banner__inner px-100px">
+                                    <div class="order-banner__body">
+                                        <h2 class="order-banner__headline">همین حالا در &quot;هاشور&quot; تماشا کنید</h2>
+                                        <p class="order-banner__copy">دسترسی آسان به خرید بلیت شب های مستند هاشور، فیلم &quot;در جستجوی فریده&quot;</p>
+                                        <a class="order-banner__button"
+                                           href="https://hashure.com/night-buy/%D8%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C-%D9%81%D8%B1%DB%8C%D8%AF%D9%87?lang=fa" data-track
+                                           data-label="">
+                                            خرید بلیت
+                                        </a>
+                                    </div>
+                                    <div class="order-banner__image lazyload"
+                                         data-bgset="https://hashure.com/public/uploads/Slider/35913421562512524.png"></div>
+                                </div>
+                            </section>
+                                            </section>
+                </li>
+                            <li>
+                    <section class="hero hero--no-description hero--panel-link"
+                             data-context="hero:">
+
+                        <a target="_blank" class="hero__image lazyload"
+
+                           data-bgset="https://hashure.com/public/uploads/Slider/29932551576520621.jpg">
+                        </a>
+
+                        <div class="hero__inner">
+                            <div class="hero__body">
+                                <div class="hero__top-line">
+                                    <a href="https://www.hashure.com/news/haqiqat/">
+                                        به هاشور خوش آمدید
+                                    </a>
+                                </div>
+                                <div class="hero__headline">
+                                    <a href="">
+                                        
+                                    </a>
+                                </div>
+                                <p class="hero__subtitle"></p>
+                                <a href=""
+                                   class="hero__cta hero__title2"> </a>
+
+                            </div>
+
+                        </div>
+                                                    <section class="order-banner  ad-custom-for-slider" data-context="banner">
+                                <div class="order-banner__inner px-100px">
+                                    <div class="order-banner__body">
+                                        <h2 class="order-banner__headline">هاشور در سینما حقیقت</h2>
+                                        <p class="order-banner__copy">سیزدهمین جشنواره سینما  حقیقت در پردیس سینمایی چارسو برگزار می شود. هاشور ایام جشنواره در چارسو حضور دارد، از تمامی علاقه مندان دعوت می کنیم از غرفه هاشور (شبکه تخصصی سینمای مستند) در طول جشنواره دیدن کنید.</p>
+                                        <a class="order-banner__button"
+                                           href="https://www.hashure.com/news/haqiqat/" data-track
+                                           data-label="">
+                                            مشاهده نشست های خبری و  تیزر فیلم ها
+                                        </a>
+                                    </div>
+                                    <div class="order-banner__image lazyload"
+                                         data-bgset="https://hashure.com/public/uploads/Slider/31711151559043377.png"></div>
+                                </div>
+                            </section>
+                                            </section>
+                </li>
+                    </ul>
+    </div>
+</div>
+    
+    
+    
+    
+    
+    
+    
+            <section class="hero hero--no-description hero--panel-link" data-context="hero:اورسن ولز صحبت می کند">
+                                 <section class="hero hero--no-description hero--panel-link" data-context="hero:مرا ببوس">
+                                    <a class="hero__image lazyload"
+               href="https://hashure.com/mostanads/category/%D9%85%D8%B1%D8%A7-%D8%A8%D8%A8%D9%88%D8%B3"
+               data-track data-label="" data-location=""
+               data-bgset="https://hashure.com/public/uploads/productCategories/78034501561972663.jpg [--small] | https://hashure.com/public/uploads/productCategories/78034501561972663.jpg">
+            </a>
+                                            <div class="hero__inner">
+                    <div class="hero__body">
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+
+                        
+                    </div>
+                    
+                </div>
+                                        <div class="section section--large">
+                    <a class="section-header section-header--more"
+                       href="https://hashure.com/mostanads/category/%D9%85%D8%B1%D8%A7-%D8%A8%D8%A8%D9%88%D8%B3"
+                       data-track data-label="view all">
+                        مرا ببوس
+                    </a>
+                    <div class="slider js-slider slider--square slider--grid" data-step="page" data-grid-at="767">
+                        <a href="#" class="slider__control slider__control--prev">
+                            <span class="slider__control__label">قبلی</span>
+                        </a>
+                        <div class="slider__container">
+                            <div class="slider__content">
+                                <ul class="slider__items promo-group promo-group--to-three-up">
+                                                                                                                    <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/624461561896728.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">مرا ببوس</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D9%85%D8%B1%D8%A7-%D8%A8%D8%A8%D9%88%D8%B3"
+                                               data-track data-label=""
+                                               data-location="">مرا ببوس </a>
+                                        </li>
+                                                                                                            </ul>
+
+                            </div>
+                        </div>
+                        <a href="#" class="slider__control slider__control--next">
+                            <span class="slider__control__label">بعدی</span>
+                        </a>
+                    </div>
+                </div>
+            
+        </section>
+        <div style="text-align: center; margin-bottom: 20px">
+                    </div>
+        <section class="hero hero--no-description hero--panel-link" data-context="hero:مستندهای هاشور">
+                                    <a class="hero__image lazyload"
+               href="https://hashure.com/mostanads/category/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D9%87%D8%A7%D8%B4%D9%88%D8%B1"
+               data-track data-label="" data-location=""
+               data-bgset="https://hashure.com/public/uploads/productCategories/14484551537778473.jpg [--small] | https://hashure.com/public/uploads/productCategories/14484551537778473.jpg">
+            </a>
+                                        <div class="section section--large">
+                    <a class="section-header section-header--more"
+                       href="https://hashure.com/mostanads/category/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D9%87%D8%A7%D8%B4%D9%88%D8%B1"
+                       data-track data-label="view all">
+                        مستندهای هاشور
+                    </a>
+                    <div class="slider js-slider slider--square slider--grid" data-step="page" data-grid-at="767">
+                        <a href="#" class="slider__control slider__control--prev">
+                            <span class="slider__control__label">قبلی</span>
+                        </a>
+                        <div class="slider__container">
+                            <div class="slider__content">
+                                <ul class="slider__items promo-group promo-group--to-three-up">
+                                                                                                                    <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/847391574848941.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">پسران سندباد</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D9%BE%D8%B3%D8%B1%D8%A7%D9%86-%D8%B3%D9%86%D8%AF%D8%A8%D8%A7%D8%AF"
+                                               data-track data-label=""
+                                               data-location="">پسران سندباد </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/343381576323983.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">فیلمی برای تو</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D9%81%DB%8C%D9%84%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88"
+                                               data-track data-label=""
+                                               data-location="">فیلمی برای تو </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/812101575978426.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">قطار مسیر 60</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D9%82%D8%B7%D8%A7%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-60"
+                                               data-track data-label=""
+                                               data-location="">قطار مسیر 60 </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/129631575878267.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">اعتراض خاموش</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%AE%D8%A7%D9%85%D9%88%D8%B4"
+                                               data-track data-label=""
+                                               data-location="">اعتراض خاموش </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/740871575461481.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">مرده پیچ</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D9%85%D8%B1%D8%AF%D9%87-%D9%BE%DB%8C%DA%86"
+                                               data-track data-label=""
+                                               data-location="">مرده پیچ </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/311651575459387.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">بن بست ها</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D8%A8%D9%86-%D8%A8%D8%B3%D8%AA-%D9%87%D8%A7"
+                                               data-track data-label=""
+                                               data-location="">بن بست ها </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/163271532254473.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">پرو آخر</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D9%BE%D8%B1%D9%88-%D8%A2%D8%AE%D8%B1"
+                                               data-track data-label=""
+                                               data-location="">پرو آخر </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/880391574684041.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">A157</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/A157"
+                                               data-track data-label=""
+                                               data-location="">A157 </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/960081573908628.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">بعد از کنکور</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%A9%D9%86%DA%A9%D9%88%D8%B1"
+                                               data-track data-label=""
+                                               data-location="">بعد از کنکور </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/950881572770549.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">همسفر</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D9%87%D9%85%D8%B3%D9%81%D8%B1"
+                                               data-track data-label=""
+                                               data-location="">همسفر </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/758291520069395.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">بعد از فراموشی</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%D9%81%D8%B1%D8%A7%D9%85%D9%88%D8%B4%DB%8C"
+                                               data-track data-label=""
+                                               data-location="">بعد از فراموشی </a>
+                                        </li>
+                                                                                                                                                            <li class="promo promo--docked promo--square promo--large slider__item ">
+                                            <div class="promo__image lazyload"
+                                                 data-bgset="https://hashure.com/public/uploads/products/thumbnail/509331520079685.jpg">
+                                            </div>
+                                            <div class="promo__body">
+                                                <h3 class="promo__headline">تاکسی تهران</h3>
+                                            </div>
+                                            <a class="promo__link"
+                                               href="https://hashure.com/mostanads/%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+                                               data-track data-label=""
+                                               data-location="">تاکسی تهران </a>
+                                        </li>
+                                                                                                                                                     </ul>
+
+                            </div>
+                        </div>
+                        <a href="#" class="slider__control slider__control--next">
+                            <span class="slider__control__label">بعدی</span>
+                        </a>
+                    </div>
+                </div>
+            
+        </section>
+        <div style="text-align: center; margin-bottom: 20px">
+                            <a class="btn-more-index"
+                   href="https://hashure.com/mostanads/category/%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D9%87%D8%A7%D8%B4%D9%88%D8%B1">نمایش
+                    بیشتر</a>
+                    </div>
+        <section class="hero hero--no-description hero--panel-link" data-context="hero:مجموعه ی کارستان">
+                         <!-- the last promo returned is expected to be an order promo -->
+
+
+
+    <footer class="footer" data-context="footer">
+        <div class="footer__schedule-section">
+            <div class="footer__inner">
+                <div class="footer__logo"></div>
+                <div class="footer-order-promo">
+                    <h5 class="footer-order-promo__header">هاشور دارید؟</h5>
+                    <a href="https://hashure.com/register" data-track data-label=""><h3 class="footer-order-promo__link">
+                            به راحتی عضو
+                            شوید </h3>
+                    </a>
+                    <p style="margin-top: 20px;">حجم اینترنت مصرفی در هاشور به صورت نیم بها محاسبه می شود.</p>
+
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="footer-namad">
+                    <img id='brgwgwmdrgvlgwmdbrgw' class="pull-left" style='cursor:pointer'
+                         onclick='window.open("https://trustseal.enamad.ir/Verify.aspx?id=69596&p=hwmbjzpgyncrjzpghwmb", "Popup","toolbar=no, location=no, statusbar=no, menubar=no, scrollbars=1, resizable=0, width=580, height=600, top=30")'
+                         alt='' src='https://trustseal.enamad.ir/logo.aspx?id=69596&p=kzoezpfvfujyzpfvkzoe'/>
+                         <img class="pull-left" id='jxlzesgtjxlzsizpesgtesgtoeuk' style='cursor:pointer' onclick='window.open("https://logo.samandehi.ir/Verify.aspx?id=1019008&p=rfthobpdrfthpfvlobpdobpdmcsi", "Popup","toolbar=no, scrollbars=no, location=no, statusbar=no, menubar=no, resizable=0, width=450, height=630, top=30")' alt='logo-samandehi' src='https://logo.samandehi.ir/logo.aspx?id=1019008&p=nbpdlymanbpdbsiylymalymaaqgw'/>
+                    <!-- <img class="pull-left" id='jxlzrgvjjxlzjzpenbqejxlz' style='cursor:pointer;width: 90px'
+                         onclick='window.open("https://logo.samandehi.ir/Verify.aspx?id=131721&p=rfthxlaorfthjyoeuiwkrfth", "Popup","toolbar=no, scrollbars=no, location=no, statusbar=no, menubar=no, resizable=0, width=450, height=630, top=30")'
+                         alt='logo-samandehi'
+                         src='https://logo.samandehi.ir/logo.aspx?id=131721&p=nbpdqftinbpdyndtodrfnbpd'/> -->
+                    <div id="sapra" class="pull-left"></div>
+                        <script src="https://offers.sapra.ir/js/client.js"></script>
+                        <script>
+                            window.onload = sapraSetNamad('MfbmXUBaWgp6I0pw', 2);
+                        </script>
+
+                </div>
+
+
+                <div class="footer-schedule footer-schedule2">
+
+                    <a class="app-btn" href="itms-services://?action=download-manifest&url=https://appakdl.com/apps/hashure/manifest.plist"><img
+                                src="https://hashure.com/public/user/img/dl-eng2.png" alt=""></a>
+                    <a class="app-btn" href="https://hashure.com/android.apk"><img
+                                src="https://hashure.com/public/user/img/dl-eng.png" alt=""></a>
+
+                    <div class="app-btn">
+                        <a href="itms-services://?action=download-manifest&url=https://appakdl.com/apps/hashure/manifest.plist">
+                            <img
+                                    src="https://hashure.com/public/user/img/ios.png" alt="">
+                        </a>
+
+                    </div>
+
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="footer__nav-section">
+            <div class="footer__inner row">
+                <div class="footer-nav ">
+                    <ul class="footer-nav__links--sho">
+                        
+                        
+                        <li><a href="https://hashure.com/about" data-label="about">درباره ما</a></li>
+                        <li><a href="https://hashure.com/contact" data-label="contact">تماس با ما</a></li>
+                        <li><a href="https://hashure.com/login" data-label=""> ورود به هاشور </a></li>
+                        <li><a href="https://hashure.com/installation_help/ios/">راهنمای نصب ios</a></li>
+                    </ul>
+                    <ul class="footer-nav__links--social">
+                        <li><a class="icon--vimeo" onclick='window.open("http://vimeo.com/hashure");return false;'
+                            >vimeo</a>
+                        </li>
+                        <li><a class="icon--telegram"
+                               onclick='window.open("https://t.me/hashuremostanad");return false;'
+                            >تلگرام</a></li>
+                        <li><a class="icon--instagram"
+                               onclick='window.open("https://www.instagram.com/hashuremostanad/");return false;'
+                               data-label="instagram">اینستاگرام</a></li>
+                        <li><a class="icon--twitter"
+                               onclick='window.open("https://twitter.com/HashureMostanad");return false;'
+                               data-label="twitter">توییتر</a></li>
+                        <li><a class="icon--facebook"
+                               onclick='window.open("https://www.facebook.com/hashure.mostanad");return false;'
+                               data-label="facebook">فیس بوک</a></li>
+                        <li><a class="icon--youtube"
+                               onclick='window.open("https://www.youtube.com/channel/UCZQ-Gx9E6TjZl8R9VRBsfbA");return false;'
+                               data-label="youtube">یوتیوب</a></li>
+                        <li><a class="icon--linkdin"
+                               onclick='window.open("https://www.linkedin.com/in/hashure-mostand-49b9b615b/");return false;'
+                               data-label="lindin">لینکدین</a></li>
+                        <li><a class="icon-ga"
+                               onclick='window.open("https://gap.im/hashure");return false;'
+                               data-label="lindin">گپ</a></li>
+                        <li><a class="icon-so"
+                               onclick='window.open("https://sapp.ir/hashure");return false;'
+                               data-label="lindin">سروش</a></li>
+                    </ul>
+                </div>
+                <div class="footer__disclaimer">
+                    <p>تمامی كالاها و خدمات اين سایت، حسب مورد، دارای مجوزهای لازم از مراجع مربوطه می باشند و
+                        فعاليت‌های اين سايت تابع قوانين و مقررات جمهوری اسلامی ايران است. </p>
+                    <p><a href="https://hashure.com/rule">قوانین سایت </a></p>
+                    <p>&#169; 2017 تمام حقوق این سایت متعلق به هاشور است.</p>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+<div class="modal" tabindex="-1" id="modal_app">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">دریافت نسخه موبایل </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    کاربر گرامی شما می توانید مستندهای مورد نظر خود را از طریق اپلیکیشن های هاشور براحتی تماشا کنید.
+                    <br>
+                    <strong style="color: white;clear: both;font-size: 17px;font-weight: lighter;">
+                        لطفا نسخه <span style="color:red">IOS</span> را از طریق لینک مجدد دریافت و نصب نمایید.
+                    </strong>
+                </p>
+
+                <div class="text-center">
+                    <a class="app-btn btn-modal" href="itms-services://?action=download-manifest&url=https://appakdl.com/apps/hashure/manifest.plist"><img
+                                src="https://hashure.com/public/user/img/dl-eng2.png" alt=""></a>
+                    <a class="app-btn btn-modal" href="https://hashure.com/android.apk"><img
+                                src="https://hashure.com/public/user/img/dl-eng.png" alt=""></a>
+
+                </div>
+                <div class="clearfix"></div>
+                <br>
+                <p>کاربرانی که خارج از ایران هستند از اپلیکیشن های زیر استفاده کنند.</p>
+                <p class="text-left">
+                    Use the following applications for the users who route from out of Iran.
+                </p>
+                <div class="text-center">
+                    <a class="app-btn btn-modal" href="https://hashure.com/android.apk"><img
+                                src="https://hashure.com/public/user/img/dl-eng.png" alt=""></a>
+                    <a class="app-btn btn-modal"
+                       href="itms-services://?action=download-manifest&url=https://appakdl.com/apps/hashure/manifest.plist"><img
+                                src="https://hashure.com/public/user/img/ios.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="login">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div id="loginBox">
+                    <h4 class="text-center">ورود</h4>
+                    <labe1 class="label">شماره موبایل یا ایمیل
+                    <span class="mr-2  h5" data-toggle="tooltip" data-placement="top" title="لطفا شماره موبایل یا آدرس ایمیل خود را وارد کنید">
+                        <i class="fa fa-question-circle"></i>
+                    </span>
+                    </labe1>
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="modal_email">
+                    </div>
+                    <labe1 class="label"> رمز عبور
+                    <span class="mr-2  h5" data-toggle="tooltip" data-placement="top" title="لطفا 4 رقم رمز انتخابی خود را وارد نمایید">
+                        <i class="fa fa-question-circle"></i>
+                    </span>
+                    </labe1>
+                    <span class="label pull-left" onclick="forgetpass()" style="cursor: pointer">فراموشی رمز عبور</span>
+                    <div class="form-group">
+                        <input maxlength="4" type="password" class="form-control" id="modal_password" placeholder="__ __ __ __">
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-9">
+                            <p class="notic">حساب کاربری ندارید</p>
+                            <a class="btn btn-warning" onclick="showregister()">ایجاد حساب کاربری</a>
+
+                        </div>
+                        <div class="col-lg-3">
+                            <button onclick="modal_login()" class="btn btn-danger btn-block">ورود</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="forgetBox" style="display: none">
+                    <h4 class="text-center">فراموشی رمز عبور</h4>
+                    <labe1 class="label">شماره موبایل یا ایمیل</labe1>
+                    <div class="form-group">
+                        <input type="text" id="modal_new_pass" class="form-control">
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <p class="notic">حساب کاربری ندارید</p>
+                            <a class="btn btn-warning" onclick="showregister()">ایجاد حساب کاربری</a>
+
+                        </div>
+                        <div class="col-lg-4">
+                            <button onclick="modalChangePassword()" class="btn btn-danger btn-block">ارسال رمز جدید
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div id="registerBox" style="display: none">
+                    <h4 class="text-center">ثبت نام</h4>
+                    <labe1 class="label ">نام
+                    <span class="mr-2  h5" data-toggle="tooltip" data-placement="top" title="لطفا نام خودرا واردکنید">
+                        <i class="fa fa-question-circle"></i>
+                    </span>
+                    </labe1>
+                    <div class="form-group">
+                        <input type="text" id="modal_fname" class="form-control">
+                    </div>
+                    <labe1 class="label ">نام خانوادگی
+                    <span class="mr-2  h5" data-toggle="tooltip" data-placement="top" title="لطفا نام خانوادگی خود را وارد کنید">
+                        <i class="fa fa-question-circle"></i>
+                    </span>
+                    </labe1>
+                    <div class="form-group">
+                        <input type="text" id="modal_lname" class="form-control">
+                    </div>
+                    <labe1 class="label "> شماره موبایل یا ایمیل
+                    <span class="mr-2  h5" data-toggle="tooltip" data-placement="top" title="لطفا شماره موبایل یا آدرس ایمیل خود را وارد کنید">
+                        <i class="fa fa-question-circle"></i>
+                    </span>
+                    </labe1>
+                    <div class="form-group">
+                        <input type="text" id="modal_mobile" class="form-control">
+                    </div>
+                    <labe1 class="label">کلمه عبور انتخابی 
+                    <span class="mr-2  h5" data-toggle="tooltip" data-placement="top" title="لطفا 4 رقم رمز انتخابی خود را وارد نمایید">
+                        <i class="fa fa-question-circle"></i>
+                    </span>
+                    </labe1>
+                    <div class="form-group">
+                        <input maxlength="4" type="tel" id="modal_reg_password" class="form-control" placeholder="__ __ __ __">
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-9">
+                            <p class="notic">حساب کاربری دارید</p>
+                            <a class="btn btn-warning" onclick="showlogin()"> از اینجا وارد شوید</a>
+                        </div>
+                        <div class="col-lg-3">
+                            <button onclick="modal_register()" class="btn btn-danger btn-block">ثبت نام</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="alert alert-warning fade mt-4" id="alert_msg" role="alert">
+                    <strong>خطا</strong><span id="error_msg"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function modal_login() {
+        $('.register_return_message').html('');
+        var verifyCode = $('#modal_password').val();
+        var email_login = $('#modal_email').val();
+        if ($.trim(verifyCode) == '') {
+            $('.register_return_message').show();
+            $('.register_return_message').text('لطفا کد را وارد کنید.');
+            return false;
+        }
+        if ($.trim(email_login) == '') {
+            $('.register_return_message').show();
+            $('.register_return_message').text('لطفا شماره موبایل یا ایمیل را وارد کنید.');
+            return false;
+        }
+        $.ajax({
+            url: 'https://hashure.com/verifyCode',
+            data: {'email': email_login, 'verifyCode': verifyCode, '_token': '659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8'},
+            method: 'POST',
+            success: function (data) {
+                $('.loader').hide();
+                if (data['status'] == 1) {
+                    $('#alert_msg').removeClass('show');
+                    location.reload();
+                }
+                else if (data['status'] == 0) {
+                    $('#error_msg').text('ورود ناموفق');
+                    $('#alert_msg').addClass('show');
+                }
+            },
+            error: function (data) {
+                $('#error_msg').text('مشکلی پیش آمده است');
+                $('#alert_msg').addClass('show');
+            },
+        });
+    }
+
+    function modal_register() {
+        var fname = $('#modal_fname').val();
+        var lname = $('#modal_lname').val();
+        var email = $('#modal_mobile').val();
+        var password = $('#modal_reg_password').val();
+        if ($.trim(fname) == '') {
+            $('#error_msg').text('لطفا نام را وارد کنید');
+            $('#alert_msg').addClass('show');
+            return false;
+        }
+        if ($.trim(lname) == '') {
+            $('#error_msg').text('لطفا نام خانوادگی را وارد کنید.');
+            $('#alert_msg').addClass('show');
+            return false;
+        }
+        if ($.trim(email) == '') {
+            $('#error_msg').text('لطفا شماره موبایل یا ایمیل را وارد کنید.');
+            $('#alert_msg').addClass('show');
+            return false;
+        }
+        if ($.trim(password) == '') {
+            $('#error_msg').text('لطفا رمز عبور را وارد کنید.');
+            $('#alert_msg').addClass('show');
+            return false;
+        }
+        var regex_pass = new RegExp("(^[0-9]{4})$");
+        if (regex_pass.test(password) == '') {
+            $('#error_msg').text('رمز عبور باید ۴ رقم و عددی باشد.');
+            $('#alert_msg').addClass('show');
+            return false;
+        }
+        $.ajax({
+            url: 'https://hashure.com/register',
+            data: {'fname': fname, 'lname': lname, 'email': email, 'password': password, '_token': '659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8'},
+            method: 'POST',
+            success: function (data) {
+                if (data['status'] == 1) {
+                    location.reload();
+                }
+                else if (data['status'] == 0) {
+                    $('#error_msg').text(data['message']);
+                    $('#alert_msg').addClass('show');
+                }
+            },
+            error: function (data) {
+                $('#error_msg').text('مشکلی پیش آمده است');
+                $('#alert_msg').addClass('show');
+            },
+        });
+    }
+
+    function modalChangePassword() {
+        var email_login = $('#modal_new_pass').val();
+        if ($.trim(email_login) == '') {
+            $('#error_msg').text('لطفا شماره موبایل یا ایمیل را وارد کنید.');
+            $('#alert_msg').addClass('show');
+            return false;
+        }
+        $.ajax({
+            url: 'https://hashure.com/changePassword',
+            data: {'email': email_login, '_token': '659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8'},
+            method: 'POST',
+            success: function (data) {
+                if (data['status'] == 1) {
+                    showlogin();
+                    $('#error_msg').text(data['message']);
+                    $('#alert_msg').addClass('show');
+                }
+                else if (data['status'] == 0) {
+                    $('#error_msg').text(data['message']);
+                    $('#alert_msg').addClass('show');
+                }
+            },
+            error: function (data) {
+                $('#error_msg').text('مشکلی پیش آمده مجدد تلاش نمایید');
+                $('#alert_msg').addClass('show');
+                return false;
+            },
+        });
+    }
+</script><div class="modal fade" id="purchase">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="text-center my-2 " id="modal_product_title"></h4>
+                <div class="row">
+                    <div class="col-md-12 px-0" id="coupon_box1">
+    <div class="col-md-12" style="margin-top: 10px;">
+        <div class="form-group">
+        <label for="checkHasCouponCode"> <input type="checkbox" class="checkHasCouponCode" id="checkHasCouponCode"> کد تخفیف/کارت هدیه دارم</label>
+        </div>
+    </div>
+
+
+    <div class="col-lg-6 boxCouponCode2 mb-2" style=" display: none">
+        <div class="form-group">
+        <input placeholder="کد تخفیف / کارت هدیه" type="text" dir="ltr" class="form-control coupon_code" id="coupon_code" >
+         <button style="font-size: 13px !important;" class="btn btn-default btn-xs" onclick="checkCouponCode1()" type="button">بررسی کد</button>
+        </div>
+        <span id="couponErrors" class="text-danger couponErrors" style="display: none"></span>
+        <span id="couponSuccess" class="text-success couponSuccess" style="display: none"></span>
+        <span id="couponInfo" class="text-info couponInfo" style="display: none"></span>
+    </div>
+</div>
+
+                </div>
+
+                <p class="commnet">روش پرداخت</p>
+                                                            <label for="pasargad" class="item_check">
+                            <input type="radio" name="modal_bank_type" value="Pasargad"
+                                                                      id="pasargad"/>
+                            <img src="https://hashure.com/public/user/img/Bank_Pasargad_logo.png" width="50"/>
+                        </label>
+                                                                                                                                            <label for="mellat" class="item_check">
+                            <input type="radio" name="modal_bank_type" value="Mellat"
+                                    checked                                    id="mellat"/>
+                            <img src="https://hashure.com/public/user/img/mellat-Logo.png" width="45"/>
+                        </label>
+                                                                                                        <label for="virtual" class="item_check">
+                            <input type="radio" name="modal_bank_type" value="Virtual"
+                                                                      id="virtual"/>
+                            <img src="https://hashure.com/public/user/img/wallet.png" width="45"/>
+                        </label>
+                         موجودی: 0 تومان                                                     <div class="text-center">
+                    <p class="btn-pay_new" id="modal_price"></p>
+                    <button onclick="SendModal1();" class="btn btn-main" >پرداخت</button>
+                </div>
+                <div class="alert alert-warning fade mt-4" id="alert_msg" role="alert">
+                    <strong>خطا</strong><span id="error_msg2"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<form action="https://hashure.com/user/ConnectToBank" method="post" id="modal_purchase_bank_form" style="display: none;">
+    <input type="hidden" name="_token" value="659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8">
+    <input type="hidden" name="movie_id" id="modal_movie_id"/>
+    <input type="hidden" name="episode_id" id="modal_episode_id"/>
+    <input type="hidden" name="movie_type" id="modal_movie_type"/>
+    <input type="hidden" name="bank_type" id="modal_bank_type"/>
+</form>
+
+<script>
+    function SendModal1() {
+        $('#modal_bank_type').val($("input:radio[name ='modal_bank_type']:checked").val());
+        $('#modal_purchase_bank_form').submit();
+    }
+</script><div class="modal fade" id="purchase_subscription">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div id="subscription">
+                    <h4 class="text-center my-2"> اشتراک</h4>
+                    <!-- <p class="commnet">شما مي توانيد در اين مدت به تمام فيلم ها دسترسي نامحدود داشته باشيد</p> -->
+                    <fieldset class="plan-options ">
+                                                                            <div class="plan-option">
+                                <div class="radio with-checkmark">
+                                    <input type="radio" name="modal_package_type2" id="1"
+                                           value="1"   >
+                                    <label for="1"
+                                           class="flag-container">اشتراک یک ماهه</label>
+                                    <span class="secondary-text">15,000 تومان</span>
+                                    <span class="tertiary-text">معادل 30
+                                        روز </span>
+                                </div>
+                            </div>
+                                                                                <div class="plan-option">
+                                <div class="radio with-checkmark">
+                                    <input type="radio" name="modal_package_type2" id="2"
+                                           value="2"  checked   >
+                                    <label for="2"
+                                           class="flag-container">اشتراک سه ماهه</label>
+                                    <span class="secondary-text">32,000 تومان</span>
+                                    <span class="tertiary-text">معادل 90
+                                        روز </span>
+                                </div>
+                            </div>
+                                                                                <div class="plan-option">
+                                <div class="radio with-checkmark">
+                                    <input type="radio" name="modal_package_type2" id="3"
+                                           value="3"   >
+                                    <label for="3"
+                                           class="flag-container">اشتراک شش ماهه</label>
+                                    <span class="secondary-text">50,000 تومان</span>
+                                    <span class="tertiary-text">معادل 180
+                                        روز </span>
+                                </div>
+                            </div>
+                                                                                <div class="plan-option">
+                                <div class="radio with-checkmark">
+                                    <input type="radio" name="modal_package_type2" id="4"
+                                           value="4"   >
+                                    <label for="4"
+                                           class="flag-container">اشتراک دوازده ماهه</label>
+                                    <span class="secondary-text">90,000 تومان</span>
+                                    <span class="tertiary-text">معادل 365
+                                        روز </span>
+                                </div>
+                            </div>
+                                                                        </fieldset>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 px-0" id="coupon_box2">
+    <div class="col-md-12" style="margin-top: 10px;">
+        <div class="form-group">
+        <label for="checkHasCouponCode"> <input type="checkbox" class="checkHasCouponCode" id="checkHasCouponCode"> کد تخفیف/کارت هدیه دارم</label>
+        </div>
+    </div>
+
+
+    <div class="col-lg-6 boxCouponCode2 mb-2" style=" display: none">
+        <div class="form-group">
+        <input placeholder="کد تخفیف / کارت هدیه" type="text" dir="ltr" class="form-control coupon_code" id="coupon_code" >
+         <button style="font-size: 13px !important;" class="btn btn-default btn-xs" onclick="checkCouponCode2()" type="button">بررسی کد</button>
+        </div>
+        <span id="couponErrors" class="text-danger couponErrors" style="display: none"></span>
+        <span id="couponSuccess" class="text-success couponSuccess" style="display: none"></span>
+        <span id="couponInfo" class="text-info couponInfo" style="display: none"></span>
+    </div>
+</div>
+
+                </div>
+                <div id="payment">
+                    <p class="commnet">روش پرداخت</p>
+                                                                        <label for="pasargad" class="item_check wallet_virtual">
+                                <input type="radio" name="modal_bank_type2" value="Pasargad"
+                                                                              id="pasargad"/>
+                                <img src="https://hashure.com/public/user/img/Bank_Pasargad_logo.png" width="50"/>
+                                <span>
+                                                    پاسارگاد
+                                                        
+                                                </span>
+                            </label>
+                                                                                                                                            <label for="mellat" class="item_check wallet_virtual">
+                                <input type="radio" name="modal_bank_type2" value="Mellat"
+                                        checked                                        id="mellat"/>
+                                <img src="https://hashure.com/public/user/img/mellat-Logo.png" width="45"/>
+                                <span>
+                                                    ملت
+
+                                                        
+                                                </span>
+                            </label>
+                                                                                                <label for="virtual" class="item_check wallet_virtual">
+                                <input type="radio" name="modal_bank_type2" value="Virtual"
+                                                                              id="virtual"/>
+                                <img src="https://hashure.com/public/user/img/wallet.png" width="45"/>
+                                <span>
+                                                                                                           کیف پول
+                                                    
+                                                </span>
+                            </label>
+                                                                <div class="text-center">
+                        <button onclick="SendModal2()" class="btn btn-main">تایید</button>
+                    </div>
+                </div>
+                <div class="alert alert-warning fade mt-4" id="alert_msg" role="alert">
+                    <strong>خطا</strong><span id="error_msg3"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<form action="https://hashure.com/user/ConnectToBank" class="form" method="post" id="modal_purchase_subscription_form"
+      style="display: none;">
+    <input type="hidden" name="_token" value="659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8">
+    <input type="hidden" name="movie_id" id="modal_movie_id2"/>
+    <input type="hidden" name="movie_type" id="modal_movie_type2"/>
+    <input type="hidden" name="bank_type" id="modal_bank_type2"/>
+    <input type="hidden" name="package" id="modal_package_type2"/>
+</form>
+
+<script>
+    function SendModal2() {
+        if ($("input:radio[name ='modal_package_type2']:checked").val() != 'undefined') {
+            $('#modal_bank_type2').val($("input:radio[name ='modal_bank_type2']:checked").val());
+            $('#modal_package_type2').val($("input:radio[name ='modal_package_type2']:checked").val());
+            $('#modal_purchase_subscription_form').submit();
+        } else {
+            alert('لطفا پکیج خود را انتخاب نمایید');
+        }
+    }
+</script>
+<script type="text/javascript" src="https://hashure.com/public/user/lib/omniture/s_code.js"></script>
+<script>
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.customMedia = {
+        '--small': '(max-width: 767px)',
+        '--medium': '(max-width: 991px)',
+        '--from-medium': '(min-width: 768px)'
+    };
+</script>
+<script src="https://hashure.com/public/user/javascripts/sho.min.js"></script>
+
+<script src="https://hashure.com/public/user/javascripts/jquery-1.11.3.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/popper.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/bootstrap.min.js"></script>
+
+<script src="https://hashure.com/public/user/javascripts/scrollReveal.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/wow.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/persian-date.min.js"></script>
+<script src="https://hashure.com/public/user/lib/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+<script src="https://hashure.com/public/user/lib/bootstrap-datepicker/locales/bootstrap-datepicker.fa.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/validate.js"></script>
+<script src="https://hashure.com/public/user/javascripts/masonry.pkgd.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/lightbox.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/photoswipe.min.js"></script>
+<script src="https://hashure.com/public/user/lib/flex/js/jquery.flexslider.js"></script>
+<script src="https://hashure.com/public/user/javascripts/photoswipe.min.js"></script>
+<script src="https://hashure.com/public/user/javascripts/select2.min.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133646312-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-133646312-1');
+</script>
+<script>
+    $(window).load(function () {
+        $('#night-ekran .flexslider').flexslider({
+            animation: "slide",
+            prevText: "",
+            nextText: "",
+            start: function (slider) {
+                slider.removeClass('loading');
+            }
+
+        });
+    });
+
+    $(window).load(function () {
+        $('#module_slider .flexslider').flexslider({
+            animation: "slide",
+            prevText: "",
+            nextText: "",
+            start: function (slider) {
+                slider.removeClass('loading');
+            }
+
+        });
+    });
+
+    function showregister() {
+        $('#loginBox').hide();
+        $('#forgetBox').hide();
+        $('#registerBox').fadeIn();
+    }
+
+    function showlogin() {
+        $('#loginBox').fadeIn();
+        $('#registerBox').hide();
+        $('#forgetBox').hide();
+        $('#alert_msg').removeClass('show');
+    }
+
+    function forgetpass() {
+        $('#forgetBox').fadeIn();
+        $('#registerBox').hide();
+        $('#loginBox').hide();
+        $('#alert_msg').removeClass('show');
+    }
+
+    function showpayment() {
+        $('#payment').fadeIn();
+        $('#subscription').hide();
+        $('#alert_msg').removeClass('show');
+
+    }
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-115053824-1');
+
+    function persianToEnglish(input) {
+        var inputstring = input;
+        var persian = ["۰", "۱", "۲", "۳", "۴", "۵", "۶", "۷", "۸", "۹"];
+        var english = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
+        for (var i = 0; i < 10; i++) {
+            var regex = new RegExp(persian[i], 'g');
+            inputstring = inputstring.toString().replace(regex, english[i]);
+        }
+        return inputstring;
+    }
+
+        // if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+    //     || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) {
+    //     $(function () {
+    //         $('#modal_app').modal('show');
+    //     });
+    // }
+    $(function () {
+        $('#modal_app').modal('show');
+    });
+    
+    $(function () {
+        $("input").keyup(function (e) {
+            var ctrlKey = 67, vKey = 86;
+            if (e.keyCode != ctrlKey && e.keyCode != vKey) {
+                $(this).val(persianToEnglish($(this).val()));
+            }
+        });
+    });
+    $(document).ready(function () {
+        window.sr = new scrollReveal();
+    });
+
+    wow = new WOW(
+        {
+            animateClass: 'animated',
+
+            callback: function (box) {
+                console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+            }
+        }
+    );
+    wow.init();
+
+    if ($(window).width() < 514) {
+        $('.slider__item').removeClass('promo');
+        $('.slider__item').css('position', 'relative');
+    }
+
+    $('#account-menu').hover(
+        function () {
+            $(this).addClass("hovered");
+        },
+        function () {
+            $(this).removeClass("hovered");
+        }
+    );
+
+    $(function () {
+        $('#newsletter_accept_rules').on('change', function () {
+            if ($(this).is(':checked')) $('#newsletter_button').prop('disabled', false);
+            else $('#newsletter_button').prop('disabled', true);
+        });
+    });
+
+    function addNewsletter() {
+        var email = $('#newsletter_email');
+        var newsletter_birth_year = $('#newsletter_birth_year');
+        var newsletter_birth_month = $('#newsletter_birth_month');
+        var newsletter_birth_day = $('#newsletter_birth_day');
+
+        $('#return_newsletter_message').html('');
+
+        if ($.trim(email.val()) == '') {
+            $('#return_newsletter_message').html('<span class="text-danger">لطفا ایمیل را وارد کنید.</span>');
+            return false;
+        }
+
+        $.post('https://hashure.com/addNewsLetter', {
+            'email': email.val(),
+            'birth_year': newsletter_birth_year.val(),
+            'birth_month': newsletter_birth_month.val(),
+            'birth_day': newsletter_birth_day.val(),
+            '_token': '659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8'
+        }, function (data) {
+            $('#return_newsletter_message').html('<span class="text-success">' + data['message'] + '</span>');
+            $('#newsletter_form').hide();
+        }).fail(function (data) {
+            var all_errors = data.responseJSON;
+            if (data.responseJSON && all_errors['errors']) {
+                $.each(all_errors['errors'], function (i, row) {
+                    $('#return_newsletter_message').append('<div class="alert alert-danger">' + row[0] + '</div>');
+                });
+            }
+        });
+    }
+
+    
+    $('#global-navigation__profile').mouseover(
+        function () {
+            $(this).addClass("hovered");
+        }
+    );
+    $('#global-navigation__profile').mouseleave(
+        function () {
+            $(this).removeClass("hovered");
+        }
+    );
+    
+    
+    function ModalDesideToOpen1(episode_id, product_id, type, title, product_price, episode_price) {
+                $('#login').modal('show');
+        $('body').removeClass('modal-openn');
+            }
+
+    function ModalDesideToOpen2(product_id, type) {
+                $('#login').modal('show');
+        $('body').removeClass('modal-openn');
+            }
+
+    function redirectToLogin() {
+                location.href = 'https://hashure.com/login';
+    }
+    $(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+    <script>
+        $(function(){
+            $('#coupon_box1 .checkHasCouponCode').on('change', function(e){
+                var boxCouponCode1 = '#coupon_box1 .boxCouponCode1';
+                var boxCouponCode2 = '#coupon_box1 .boxCouponCode2';
+
+                if($(this).is(':checked')) $(boxCouponCode1 + ', ' + boxCouponCode2).slideDown();
+                else $(boxCouponCode1 + ', ' + boxCouponCode2).slideUp();
+
+                var hidden_input = '<input type="hidden" id="coupon_code_type" name="coupon_code_type" value="1">';
+                $('#modal_purchase_bank_form').append(hidden_input);
+            });
+
+            $('#coupon_box1 .coupon_code').on('keyup', function(e){
+                $('.coupon_code_input').remove();
+                var hidden_input = '<input type="hidden" id="coupon_code_input" class="coupon_code_input" name="coupon_code_input" value="'+$(this).val()+'">';
+                $('#modal_purchase_bank_form').append(hidden_input);
+            });
+        });
+
+        function checkCouponCode1()
+        {
+            var couponErrorsEl = '#coupon_box1 .couponErrors';
+            var couponSuccessEl = '#coupon_box1 .couponSuccess';
+            var couponInfoEl = '#coupon_box1 .couponInfo';
+
+            $(couponErrorsEl +', '+ couponSuccessEl).hide();
+
+            var coupon_code = $('#modal_purchase_bank_form .coupon_code_input').val();
+            if($.trim(coupon_code) == '')
+            {
+                $(couponErrorsEl).show().text('کد را وارد کنید.');
+                return false;
+            }
+
+            $(couponInfoEl).show().text('در حال بررسی کد...');
+            $.post('https://hashure.com/coupon/check-code', {
+                'coupon_code':coupon_code,
+                'item_id':'',
+                'type':'1',
+                '_token':'659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8'
+            }, function(response){
+                $(couponInfoEl).hide();
+                if(response['status'] == 1)
+                {
+                    $(couponSuccessEl).show().text(response['message']);
+                } else {
+                    $(couponErrorsEl).show().text(response['message']);
+                }
+            })
+            .fail(function(error){
+                $(couponInfoEl).hide();
+                $(couponErrorsEl).show().text(error['message']);
+            });
+        }
+    </script>
+    <script>
+        $(function(){
+            $('#coupon_box2 .checkHasCouponCode').on('change', function(e){
+                var boxCouponCode1 = '#coupon_box2 .boxCouponCode1';
+                var boxCouponCode2 = '#coupon_box2 .boxCouponCode2';
+
+                if($(this).is(':checked')) $(boxCouponCode1 + ', ' + boxCouponCode2).slideDown();
+                else $(boxCouponCode1 + ', ' + boxCouponCode2).slideUp();
+
+                var hidden_input = '<input type="hidden" id="coupon_code_type" name="coupon_code_type" value="3">';
+                $('#modal_purchase_subscription_form').append(hidden_input);
+            });
+
+            $('#coupon_box2 .coupon_code').on('keyup', function(e){
+                $('.coupon_code_input').remove();
+                var hidden_input = '<input type="hidden" id="coupon_code_input" class="coupon_code_input" name="coupon_code_input" value="'+$(this).val()+'">';
+                $('#modal_purchase_subscription_form').append(hidden_input);
+            });
+        });
+
+        function checkCouponCode2()
+        {
+            var couponErrorsEl = '#coupon_box2 .couponErrors';
+            var couponSuccessEl = '#coupon_box2 .couponSuccess';
+            var couponInfoEl = '#coupon_box2 .couponInfo';
+
+            $(couponErrorsEl +', '+ couponSuccessEl).hide();
+
+            var coupon_code = $('#modal_purchase_subscription_form .coupon_code_input').val();
+            if($.trim(coupon_code) == '')
+            {
+                $(couponErrorsEl).show().text('کد را وارد کنید.');
+                return false;
+            }
+
+            $(couponInfoEl).show().text('در حال بررسی کد...');
+            $.post('https://hashure.com/coupon/check-code', {
+                'coupon_code':coupon_code,
+                'item_id':'',
+                'type':'3',
+                '_token':'659Xkuc65nBKxYeZWChew7mjDMkpwXbOFVJk7hp8'
+            }, function(response){
+                $(couponInfoEl).hide();
+                if(response['status'] == 1)
+                {
+                    $(couponSuccessEl).show().text(response['message']);
+                } else {
+                    $(couponErrorsEl).show().text(response['message']);
+                }
+            })
+            .fail(function(error){
+                $(couponInfoEl).hide();
+                $(couponErrorsEl).show().text(error['message']);
+            });
+        }
+    </script>
+<div class="modal__show" style="display:block">
+    <div class="modal__inner">
+        <a class="modal__close" data-context="streaming modal" onclick="closeModal()" data-track=""
+           data-label="close"></a>
+        <div class="modal__content">
+            <div class="streaming-modal modal-openn streaming-modal--logos-hide streaming-modal--red-order-promo streaming-modal--with-image-only"
+                 data-context="streaming modal">
+                <div class="streaming-modal__image">
+                    <div class="streaming-modal__image-container">
+                        <div class="streaming-modal__image-container__shim"></div>
+                        <img id="modal_picture" src="" alt="">
+                    </div>
+                </div>
+                <h2 class="streaming-modal__headline"> پرداخت کنید</h2>
+                <div class="streaming-modal__option streaming-modal__option--showtime">
+
+                    <p class="streaming-modal__copy">خرید اشتراک</p>
+                    <p class="streaming-modal__copy">با خرید اشتراک، شما میتوانید در مدت اشتراک به تمام فیلم های گنجینه هاشور دسترسی داشته باشید.
+اما تماشای فیلم های اکران اینترنتی و شب های مستند، فقط با خرید بلیت امکانپذیر است.</p>
+                    <a class="streaming-modal__button" id="buy_Subscribe" style="background: #b10000;"
+                       data-label="standalone">اشتراک
+                        بخرید </a>
+                </div>
+                <div class="streaming-modal__option streaming-modal__option--showtime-anytime">
+
+                    <p class="streaming-modal__copy">خرید این فیلم</p>
+                    <p class="streaming-modal__copy">فقط تماشای اين فيلم به دفعات نامحدود</p>
+                    <a class="streaming-modal__button" id="buy_film"
+                       data-label="anytime">خرید
+                        فیلم </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+</body>
+</html>

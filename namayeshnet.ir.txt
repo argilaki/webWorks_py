@@ -1,0 +1,1409 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa-IR">
+<head>
+<meta name="samandehi" content="617945005"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>نمایش نت | مشاهده آنلاین فیلم تئاتر</title>
+
+
+<meta name="description" content="نمایش نت اولین رسانه فیلم تئاتر ایرانی و خارجی با هدف انتشار تئاتر در بستر وب فعالیت خود را آغاز نموده . نمایش نت آرشیوی از بهترین نمایش های ایران و جهان"/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://namayeshnet.com/" />
+<meta property="og:locale" content="fa_IR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="نمایش نت | مشاهده آنلاین فیلم تئاتر" />
+<meta property="og:description" content="نمایش نت اولین رسانه فیلم تئاتر ایرانی و خارجی با هدف انتشار تئاتر در بستر وب فعالیت خود را آغاز نموده . نمایش نت آرشیوی از بهترین نمایش های ایران و جهان" />
+<meta property="og:url" content="http://namayeshnet.com/" />
+<meta property="og:site_name" content="نمایش نت" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="نمایش نت اولین رسانه فیلم تئاتر ایرانی و خارجی با هدف انتشار تئاتر در بستر وب فعالیت خود را آغاز نموده . نمایش نت آرشیوی از بهترین نمایش های ایران و جهان" />
+<meta name="twitter:title" content="نمایش نت | مشاهده آنلاین فیلم تئاتر" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://namayeshnet.com/#website","url":"http://namayeshnet.com/","name":"\u0646\u0645\u0627\u06cc\u0634 \u0646\u062a","potentialAction":{"@type":"SearchAction","target":"http://namayeshnet.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://namayeshnet.com/#webpage","url":"http://namayeshnet.com/","inLanguage":"fa-IR","name":"\u0646\u0645\u0627\u06cc\u0634 \u0646\u062a | \u0645\u0634\u0627\u0647\u062f\u0647 \u0622\u0646\u0644\u0627\u06cc\u0646 \u0641\u06cc\u0644\u0645 \u062a\u0626\u0627\u062a\u0631","isPartOf":{"@id":"http://namayeshnet.com/#website"},"datePublished":"2016-02-17T13:38:32+03:30","dateModified":"2019-12-25T14:17:27+03:30","description":"\u0646\u0645\u0627\u06cc\u0634 \u0646\u062a \u0627\u0648\u0644\u06cc\u0646 \u0631\u0633\u0627\u0646\u0647 \u0641\u06cc\u0644\u0645 \u062a\u0626\u0627\u062a\u0631 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0648 \u062e\u0627\u0631\u062c\u06cc \u0628\u0627 \u0647\u062f\u0641 \u0627\u0646\u062a\u0634\u0627\u0631 \u062a\u0626\u0627\u062a\u0631 \u062f\u0631 \u0628\u0633\u062a\u0631 \u0648\u0628 \u0641\u0639\u0627\u0644\u06cc\u062a \u062e\u0648\u062f \u0631\u0627 \u0622\u063a\u0627\u0632 \u0646\u0645\u0648\u062f\u0647 . \u0646\u0645\u0627\u06cc\u0634 \u0646\u062a \u0622\u0631\u0634\u06cc\u0648\u06cc \u0627\u0632 \u0628\u0647\u062a\u0631\u06cc\u0646 \u0646\u0645\u0627\u06cc\u0634 \u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0648 \u062c\u0647\u0627\u0646"}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="نمایش نت &raquo; خوراک" href="http://namayeshnet.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="نمایش نت &raquo; خوراک دیدگاه‌ها" href="http://namayeshnet.com/comments/feed/" />
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='astra-theme-css-rtl-css'  href='http://namayeshnet.com/wp-content/themes/astra/assets/css/minified/style.min-rtl.css?ver=2.1.3' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:93.75%;}a,.page-title{color:#d33030;}a:hover,a:focus{color:#3a3a3a;}body,button,input,select,textarea{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:inherit;font-size:15px;font-size:1rem;}blockquote{color:#222222;}.site-title{font-size:35px;font-size:2.3333333333333rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.6666666666667rem;}.site-header .site-description{font-size:15px;font-size:1rem;}.entry-title{font-size:30px;font-size:2rem;}.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:1rem;}h1,.entry-content h1{font-size:20px;font-size:1.3333333333333rem;}h2,.entry-content h2{font-size:18px;font-size:1.2rem;}h3,.entry-content h3{font-size:16px;font-size:1.0666666666667rem;}h4,.entry-content h4{font-size:14px;font-size:0.93333333333333rem;}h5,.entry-content h5{font-size:12px;font-size:0.8rem;}h6,.entry-content h6{font-size:10px;font-size:0.66666666666667rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:15px;font-size:1rem;}::selection{background-color:#dd3333;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#6d6d6d;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#d33030;background-color:#d33030;}.main-header-menu a,.ast-header-custom-item a{color:#6d6d6d;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#d33030;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#d33030;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#d33030;background-color:#d33030;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#d33030;border-color:#d33030;}.ast-small-footer{color:#ffffff;}.ast-small-footer > .ast-footer-overlay{background-color:#000000;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.footer-adv .widget-title,.footer-adv .widget-title a{color:#e5e5e5;}.footer-adv{color:#e5e5e5;}.footer-adv a{color:#e5e5e5;}.footer-adv .tagcloud a:hover,.footer-adv .tagcloud a.current-item{border-color:#e5e5e5;background-color:#e5e5e5;}.footer-adv .calendar_wrap #today,.footer-adv a:hover + .post-count{background-color:#e5e5e5;}.footer-adv-overlay{background-color:#000000;}.ast-comment-meta{line-height:1.666666667;font-size:12px;font-size:0.8rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#d33030;}.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-radius:2px;padding:5px 19px;color:#ffffff;border-color:#474747;background-color:#474747;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#000000;border-color:#ffffff;background-color:#ffffff;}.entry-meta,.entry-meta *{line-height:1.45;color:#d33030;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#3a3a3a;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:13.333333333333rem;}.widget-title{font-size:21px;font-size:1.4rem;color:#6d6d6d;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#d33030;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#d33030;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#d33030;border-color:#d33030;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#d33030;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#3a3a3a;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#474747;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #474747;color:#474747;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#474747;color:#ffffff;}.ast-header-break-point .main-header-bar .ast-button-wrap .menu-toggle{border-radius:29px;}.footer-adv .tagcloud a:hover,.footer-adv .tagcloud a.current-item{color:#000000;}.footer-adv .calendar_wrap #today{color:#000000;}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}body,.ast-separate-container{background-color:#00000a;}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:768px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url( http://namayeshnet.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url( http://namayeshnet.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url( http://namayeshnet.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#dd3333;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children .children{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu a,.ast-desktop .main-header-menu.submenu-with-border .children a{border-bottom-width:0px;border-style:solid;border-color:#000000;}@media (min-width:769px){.main-header-menu .sub-menu li.ast-left-align-sub-menu:hover > ul,.main-header-menu .sub-menu li.ast-left-align-sub-menu.focus > ul{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:3px;border-top-color:#3f3f3f;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.6666666666667rem;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo .astra-logo-svg{width:347px;}.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo img{ max-width:347px;}@media (min-width:769px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead,.fl-builder-edit .ast-theme-transparent-header #masthead,body.vc_editor.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}@media (min-width:769px){.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar-wrap .main-header-menu,.ast-theme-transparent-header.ast-header-break-point .main-header-bar-wrap .main-header-bar{background-color:#000000;}.ast-theme-transparent-header .main-header-bar .ast-search-menu-icon form{background-color:#000000;}.ast-theme-transparent-header .ast-above-header,.ast-theme-transparent-header .ast-below-header,.ast-header-break-point.ast-theme-transparent-header .ast-above-header,.ast-header-break-point.ast-theme-transparent-header .ast-below-header{background-color:#000000;}.ast-theme-transparent-header .main-header-menu,.ast-theme-transparent-header.ast-header-break-point .main-header-bar-wrap .main-header-menu,.ast-flyout-menu-enable.ast-header-break-point.ast-theme-transparent-header .main-header-bar-navigation #site-navigation,.ast-fullscreen-menu-enable.ast-header-break-point.ast-theme-transparent-header .main-header-bar-navigation #site-navigation,.ast-flyout-above-menu-enable.ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation-wrap .ast-above-header-navigation,.ast-flyout-below-menu-enable.ast-header-break-point.ast-theme-transparent-header .ast-below-header-navigation-wrap .ast-below-header-actual-nav,.ast-fullscreen-above-menu-enable.ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation-wrap,.ast-fullscreen-below-menu-enable.ast-header-break-point.ast-theme-transparent-header .ast-below-header-navigation-wrap{background-color:#000000;}.ast-theme-transparent-header .main-header-menu ul.sub-menu,.ast-header-break-point.ast-flyout-menu-enable.ast-header-break-point .main-header-bar-navigation .main-header-menu ul.sub-menu{background-color:#000000;}.ast-theme-transparent-header .main-header-menu ul.sub-menu li a,.ast-theme-transparent-header .main-header-menu ul.sub-menu li > .ast-menu-toggle{color:#dddddd;}.ast-theme-transparent-header .main-header-menu ul.sub-menu a:hover,.ast-theme-transparent-header .main-header-menu ul.sub-menu li:hover > a,.ast-theme-transparent-header .main-header-menu ul.sub-menu li.focus > a,.ast-theme-transparent-header .main-header-menu ul.sub-menu li.current-menu-item > a,.ast-theme-transparent-header .main-header-menu ul.sub-menu li.current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu ul.sub-menu li:hover > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu ul.sub-menu li.focus > .ast-menu-toggle{color:#dd3333;}.ast-theme-transparent-header .main-header-menu,.ast-theme-transparent-header .main-header-menu a,.ast-theme-transparent-header .ast-masthead-custom-menu-items,.ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle{color:#d6d6d6;}.ast-theme-transparent-header .main-header-menu li:hover > a,.ast-theme-transparent-header .main-header-menu li:hover > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items a:hover,.ast-theme-transparent-header .main-header-menu .focus > a,.ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-item > a,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > a,.ast-theme-transparent-header .main-header-menu .current_page_item > a,.ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current_page_item > .ast-menu-toggle{color:#dd3333;}}@media (max-width:768px){.transparent-custom-logo{display:none;}}@media (min-width:768px){.ast-transparent-mobile-logo{display:none;}}@media (max-width:768px){.ast-transparent-mobile-logo{display:block;}}@media (min-width:768px){.ast-theme-transparent-header .main-header-bar{border-bottom-width:3px;border-bottom-color:#dd3333;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"»";}.trail-items li:last-of-type::after{display:none;}.ast-header-break-point .site-header{border-bottom-width:2px;border-bottom-color:#dd3333;}@media (min-width:769px){.main-header-bar{border-bottom-width:2px;border-bottom-color:#dd3333;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > a{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}.header-main-layout-1 .ast-flex.main-header-container, .header-main-layout-3 .ast-flex.main-header-container{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}
+</style>
+<link rel='stylesheet' id='astra-menu-animation-css'  href='http://namayeshnet.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.1.3' media='all' />
+<link rel='stylesheet' id='wp-block-library-rtl-css'  href='http://namayeshnet.com/wp-includes/css/dist/block-library/style-rtl.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='digits-login-style-css'  href='http://namayeshnet.com/wp-content/plugins/digits/assets/css/login.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='digits-style-css'  href='http://namayeshnet.com/wp-content/plugins/digits/assets/css/main.css?ver=7.0' media='all' />
+<style id='digits-style-inline-css'>
+
+                #woocommerce-order-data .address p:nth-child(3) a,.woocommerce-customer-details--phone{
+                    text-align:right;
+                    }
+</style>
+<link rel='stylesheet' id='digits-login-style-rtl-css'  href='http://namayeshnet.com/wp-content/plugins/digits/assets/css/login-rtl.css?ver=7.0' media='all' />
+<link rel='stylesheet' id='ihc_font_style-css'  href='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/css/font-awesome.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='ihc_front_end_style-css'  href='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/css/style.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='ihc_templates_style-css'  href='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/css/templates.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='ihc_select2_style-css'  href='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/css/select2.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='ihc_iziModal-css'  href='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/css/iziModal.min.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='ihc_templates_rtl_style-css'  href='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/css/templates-rtl.css?ver=5.3.2' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://namayeshnet.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.2' media='all' />
+<style id='rs-plugin-settings-inline-css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='http://namayeshnet.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.4.0' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://namayeshnet.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://namayeshnet.com/wp-content/plugins/elementor/assets/css/frontend-rtl.min.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='http://namayeshnet.com/wp-content/plugins/elementor-pro/assets/css/frontend-rtl.min.css?ver=2.7.2' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://namayeshnet.com/wp-content/uploads/elementor/css/global.css?ver=1576065692' media='all' />
+<link rel='stylesheet' id='elementor-post-371-css'  href='http://namayeshnet.com/wp-content/uploads/elementor/css/post-371.css?ver=1577283459' media='all' />
+<link rel='stylesheet' id='nice-select-css'  href='http://namayeshnet.com/wp-content/plugins/digits/assets/css/nice-select.css' media='all' />
+<style id='rocket-lazyload-inline-css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(http://namayeshnet.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://namayeshnet.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.9.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://namayeshnet.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.9.0' media='all' />
+<!--[if IE]>
+<script src='http://namayeshnet.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.1.3'></script>
+<script>
+flexibility(document.documentElement);</script>
+<![endif]-->
+<script src='http://namayeshnet.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script src='http://namayeshnet.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/select2.min.js'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/jquery-ui.min.js'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/jquery.form.js'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/jquery.uploadfile.min.js'></script>
+<script>
+var ihc_site_url = "http:\/\/namayeshnet.com";
+var ihc_ajax_url = "http:\/\/namayeshnet.com\/wp-admin\/admin-ajax.php";
+var ihc_translated_labels = "{\"delete_level\":\"\\u0645\\u06cc \\u062e\\u0648\\u0627\\u0647\\u06cc\\u062f \\u0627\\u06cc\\u0646 \\u0633\\u0637\\u062d \\u062d\\u0630\\u0641 \\u0634\\u0648\\u062f\\u061f\",\"cancel_level\":\"\\u0645\\u06cc \\u062e\\u0648\\u0627\\u0647\\u06cc\\u062f \\u0627\\u06cc\\u0646 \\u0633\\u0637\\u062d \\u0644\\u063a\\u0648 \\u0634\\u0648\\u062f\\u061f\"}";
+</script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/functions.js'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/printThis.js'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/iziModal.min.js'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/digits/assets/js/jquery.nice-select.min.js'></script>
+<script>
+var _zxcvbnSettings = {"src":"http:\/\/namayeshnet.com\/wp-includes\/js\/zxcvbn.min.js"};
+</script>
+<script src='http://namayeshnet.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='http://namayeshnet.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://namayeshnet.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://namayeshnet.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='http://namayeshnet.com/' />
+<meta name="generator" content="Powered by Slider Revolution 6.1.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://dl.namayeshnet.com/oldsite/2019/10/logo2-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="http://dl.namayeshnet.com/oldsite/2019/10/logo2-1.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://dl.namayeshnet.com/oldsite/2019/10/logo2-1.png" />
+<meta name="msapplication-TileImage" content="http://dl.namayeshnet.com/oldsite/2019/10/logo2-1.png" />
+<script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="rtl home page-template-default page page-id-371 wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-2.1.3 ast-header-custom-item-inside group-blog ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-page elementor-page-371">
+
+<div 
+	class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">پرش به محتوا</a>
+
+	
+	
+		<header 
+			class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-has-mobile-header-logo ast-logo-title-inline ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" role="banner" itemtype="https://schema.org/WPHeader" itemscope="itemscope"		>
+
+			
+			
+<div class="main-header-bar-wrap">
+	<div class="main-header-bar">
+				<div class="ast-container">
+
+			<div class="ast-flex main-header-container">
+				
+		<div class="site-branding">
+			<div
+			class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"			>
+				<span class="site-logo-img"><a href="http://namayeshnet.com/" class="custom-logo-link" rel="home"><img width="184" height="34" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20184%2034'%3E%3C/svg%3E" class="custom-logo" alt="نمایش نت" data-lazy-srcset="http://dl.namayeshnet.com/oldsite/2019/10/logo-1.png 1x, http://dl.namayeshnet.com/oldsite/2019/10/logo-1.png 2x" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/logo-1.png" /><noscript><img width="184" height="34" src="http://dl.namayeshnet.com/oldsite/2019/10/logo-1.png" class="custom-logo" alt="نمایش نت" srcset="http://dl.namayeshnet.com/oldsite/2019/10/logo-1.png 1x, http://dl.namayeshnet.com/oldsite/2019/10/logo-1.png 2x" /></noscript></a><a href="http://namayeshnet.com/" class="custom-mobile-logo-link" rel="home" itemprop="url"></a></span>			</div>
+		</div>
+
+		<!-- .site-branding -->
+				<div class="ast-mobile-menu-buttons">
+
+			
+					<div class="ast-button-wrap">
+			<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-outline "  aria-controls='primary-menu' aria-expanded='false'>
+				<span class="screen-reader-text">فهرست اصلی</span>
+				<span class="menu-toggle-icon"></span>
+							</button>
+		</div>
+			
+			
+		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation" id="site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" class="ast-flex-grow-1 navigation-accessibility" aria-label="Site Navigation"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade "><li id="menu-item-1922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-371 current_page_item menu-item-1922"><a href="http://namayeshnet.com/" aria-current="page">نمایش نت</a></li>
+<li id="menu-item-3487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3487"><a href="#">تئاترها</a><button class="ast-menu-toggle" role="button" aria-expanded="false"><span class="screen-reader-text">تغییر وضعیت فهرست</span></button>
+<ul class="sub-menu">
+	<li id="menu-item-2112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2112"><a href="http://namayeshnet.com/iran-theatre/">فیلم تئاتر ایرانی</a></li>
+	<li id="menu-item-2088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2088"><a href="http://namayeshnet.com/namayeshnetgifts/">هدیه نمایش نت</a></li>
+</ul>
+</li>
+<li id="menu-item-1924" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1924"><a href="http://namayeshnet.com/festival/">جشنواره ها</a></li>
+<li id="menu-item-2494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2494"><a href="#"><span href="?login=true" onclick="jQuery('this').digits_login_modal(jQuery(this));return false;" attr-disclick="1" class="digits-login-modal"  type="1"><span>ورود / عضویت</span></span></a></li>
+			<li class="ast-masthead-custom-menu-items search-custom-menu-item">
+						<div class="ast-search-menu-icon slide-search" id="ast-search-form" role="search" tabindex="-1">
+			<div class="ast-search-icon">
+				<a class="slide-search astra-search-icon" aria-label="Search icon link" href="#">
+					<span class="screen-reader-text">جستجو</span>
+				</a>
+			</div>
+			<form role="search" method="get" class="search-form" action="http://namayeshnet.com/">
+			<label>
+				<span class="screen-reader-text">جستجوی</span>
+				<input type="search" class="search-field"  placeholder="جستجو…" value="" name="s" role="search" tabindex="-1"/>
+			</label>
+			<button type="submit" class="search-submit" value="جستجو"><i class="astra-search-icon"></i></button>
+		</form>		</div>
+					</li>
+			</ul></div></nav></div></div>			</div><!-- Main Header Container -->
+		</div><!-- ast-row -->
+			</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+
+			
+		</header><!-- #masthead -->
+
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+
+				
+					
+					
+
+<article 
+	class="post-371 page type-page status-publish ast-article-single" id="post-371" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<header class="entry-header ast-header-without-markup">
+
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" 
+		itemprop="text"	>
+
+		
+				<div data-elementor-type="wp-page" data-elementor-id="371" class="elementor elementor-371" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-81ec57c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="81ec57c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-ee66bd6 elementor-column elementor-col-100 elementor-top-column" data-id="ee66bd6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-88cc175 elementor-widget elementor-widget-shortcode" data-id="88cc175" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-2af4f4d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2af4f4d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-98132ab elementor-column elementor-col-100 elementor-top-column" data-id="98132ab" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0e75c16 elementor-widget elementor-widget-slider_revolution" data-id="0e75c16" data-element_type="widget" data-widget_type="slider_revolution.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">
+			<!-- START Slider 1 REVOLUTION SLIDER 6.1.2 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_29_1_wrapper" data-source="gallery" style="background:transparent;padding:0;">
+				<rs-module id="rev_slider_29_1" style="display:none;" data-version="6.1.2">
+					<rs-slides>
+						<rs-slide data-key="rs-44" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20520'%3E%3C/svg%3E" title="ninoochka" width="1000" height="520" data-parallax="off" class="rev-slidebg" data-no-retina data-lazy-src="//namayeshnet.ir/wp-content/uploads/2019/12/ninoochka.jpg"><noscript><img src="//namayeshnet.ir/wp-content/uploads/2019/12/ninoochka.jpg" title="ninoochka" width="1000" height="520" data-parallax="off" class="rev-slidebg" data-no-retina></noscript>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-45" data-title="Slide" data-anim="ei:d;eo:d;r:0;t:fade;sl:7;">
+							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="نمایش نت" data-parallax="off" class="rev-slidebg" data-no-retina data-lazy-src="//namayeshnet.com/wp-content/plugins/revslider/public/assets/assets/transparent.png"><noscript><img src="//namayeshnet.com/wp-content/plugins/revslider/public/assets/assets/transparent.png" title="نمایش نت" data-parallax="off" class="rev-slidebg" data-no-retina></noscript>
+<!---->						</rs-slide>
+					</rs-slides>
+					<rs-static-layers><!--
+					--></rs-static-layers>
+					<rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
+				</rs-module>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-52e8a3c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="52e8a3c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-651be56 elementor-column elementor-col-50 elementor-top-column" data-id="651be56" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d9629b6 elementor-view-default elementor-widget elementor-widget-icon" data-id="d9629b6" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-theater-masks"></i>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bb9667d elementor-column elementor-col-50 elementor-top-column" data-id="bb9667d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a5c6b89 elementor-widget elementor-widget-heading" data-id="a5c6b89" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">فیلم تئاتر های جدید</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b68339b elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b68339b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6721703 elementor-column elementor-col-100 elementor-top-column" data-id="6721703" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8eaeaa5 elementor-grid-6 elementor-grid-tablet-5 elementor-grid-mobile-3 elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-portfolio" data-id="8eaeaa5" data-element_type="widget" data-settings="{&quot;columns&quot;:&quot;6&quot;,&quot;columns_tablet&quot;:&quot;5&quot;,&quot;columns_mobile&quot;:&quot;3&quot;,&quot;item_ratio&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.3200000000000001,&quot;sizes&quot;:[]},&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:17,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;item_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="portfolio.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-portfolio elementor-grid elementor-posts-container">
+				<article class="elementor-portfolio-item elementor-post  post-2949 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%a8%d8%a7%d8%ba-%d8%a2%d9%84%d8%a8%d8%a7%d9%84%d9%88/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/10/0-9.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/0-9-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/0-9.jpg" /><noscript><img width="300" height="420" src="http://dl.namayeshnet.com/oldsite/2019/10/0-9.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/10/0-9.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/0-9-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		باغ آلبالو		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3039 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%a8%d8%af%d9%86-%d9%85%d9%82%d8%af%d8%b3/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/11/0.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		بدن مقدس		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2898 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%aa%d8%a7%d8%a8%d9%88%d8%aa-%d8%b9%d9%87%d8%af/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/10/0-5.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/0-5-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/0-5.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/10/0-5.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/10/0-5.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/0-5-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		تابوت عهد		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2348 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%88%db%8c%d8%aa%d8%b3%da%a9/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/10/2e67d31d5d.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/2e67d31d5d-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/2e67d31d5d.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/10/2e67d31d5d.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/10/2e67d31d5d.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/2e67d31d5d-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		ویتسک		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-1624 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/%d8%b1%d9%88%d8%b2%db%8c-%d8%b1%d9%88%d8%b2%da%af%d8%a7%d8%b1%db%8c-%d8%a8%d9%86%d8%af%d8%b1/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="213" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20213%20300'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/09/69296_ff9b5be0-1fae-11e9-abec-3d5709dd7a11.babd5f.jpg" /><noscript><img width="213" height="300" src="http://namayeshnet.com/wp-content/uploads/2019/09/69296_ff9b5be0-1fae-11e9-abec-3d5709dd7a11.babd5f.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		روزی روزگاری بندر		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3080 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%a2%d9%88%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86-%d8%b7%d8%a7%d8%b3/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-4.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-4-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-4.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/11/0-4.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-4.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-4-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		آوازخوان طاس		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3056 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%ac%d8%a7%d9%88%da%af%d8%b1-%d8%af%d8%b1%d8%ae%d8%aa-%d8%a7%d9%86%d8%ac%db%8c%d8%b1-%d9%87%d9%86%d8%af%db%8c/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="429" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20429'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-1.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-1-280x400.jpg 280w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-1.jpg" /><noscript><img width="300" height="429" src="http://dl.namayeshnet.com/oldsite/2019/11/0-1.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-1.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-1-280x400.jpg 280w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		جاوگر درخت انجیر هندی		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2431 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%85%d8%b1%d8%af%db%8c-%d8%a8%d9%87-%d9%86%d8%a7%d9%85-%d8%af%d8%a7%db%8c%da%a9/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/10/23747_photo_2018-12-12_17-14-02.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/23747_photo_2018-12-12_17-14-02-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/23747_photo_2018-12-12_17-14-02.jpg" /><noscript><img width="300" height="420" src="http://dl.namayeshnet.com/oldsite/2019/10/23747_photo_2018-12-12_17-14-02.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/10/23747_photo_2018-12-12_17-14-02.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/23747_photo_2018-12-12_17-14-02-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		مردی به نام دایک		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3064 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%a8%d8%a7%d9%84%d8%a7%d8%a8%d8%b1-%d8%ba%d8%b0%d8%a7/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-2.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-2-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-2.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/11/0-2.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-2.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-2-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		بالابر غذا		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2916 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%b1%d8%a7%d8%b2-%d9%be%d8%b1%d9%88%d8%a7%d9%86%d9%87-%d9%87%d8%a7/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/10/0-6.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/0-6-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/0-6.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/10/0-6.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/10/0-6.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/0-6-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		راز پروانه ها		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-1631 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d9%82%d8%a7%d8%b4%db%8c-%d8%a7%d9%90%d8%b4%d9%90%d8%b1/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/Poster-Net.babd5f.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/Poster-Net.babd5f-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/09/Poster-Net.babd5f.jpg" /><noscript><img width="300" height="420" src="http://namayeshnet.com/wp-content/uploads/2019/09/Poster-Net.babd5f.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/Poster-Net.babd5f.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/Poster-Net.babd5f-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نقاشی اِشِر		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2511 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%ae%d8%a7%da%a9-%d8%b4%db%8c%d8%b1%db%8c%d9%86/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/10/photo_2018-12-01_08-34-02.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/photo_2018-12-01_08-34-02-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/photo_2018-12-01_08-34-02.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/10/photo_2018-12-01_08-34-02.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/10/photo_2018-12-01_08-34-02.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/10/photo_2018-12-01_08-34-02-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		خاک شیرین		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3047 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%da%86%d8%b4%d9%85-%d9%87%d8%a7/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="436" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20436'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0.png 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-275x400.png 275w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0.png" /><noscript><img width="300" height="436" src="http://dl.namayeshnet.com/oldsite/2019/11/0.png" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0.png 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-275x400.png 275w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		چشم ها		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2694 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%82%d8%ad%d8%b7-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="213" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20213%20300'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/0-2.jpg" /><noscript><img width="213" height="300" src="http://dl.namayeshnet.com/oldsite/2019/10/0-2.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		قحط الرجال		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3072 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%ac%d8%b1%db%8c%d8%a7%d9%86-%d9%85%d8%a8%d9%87%d9%85-%d8%ae%d8%a7%d9%86%d9%87-%d9%88%db%8c%d9%84%d8%a7%db%8c%db%8c/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20424'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-3-283x400.jpg 283w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-3.jpg" /><noscript><img width="300" height="424" src="http://dl.namayeshnet.com/oldsite/2019/11/0-3.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/0-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/11/0-3-283x400.jpg 283w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		جریان مبهم خانه ویلایی		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2519 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%ac%d9%86%da%af-%d8%aa%d9%85%d8%a7%d9%85-%d8%b4%d8%af/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="230" height="325" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%20325'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/Event5ba787b205bc3.jpeg" /><noscript><img width="230" height="325" src="http://dl.namayeshnet.com/oldsite/2019/10/Event5ba787b205bc3.jpeg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		جنگ تمام شد		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2600 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%b9%d9%86%d8%af-%d8%a7%d8%b2-%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d9%87/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="395" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20395'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/11-3.jpg" /><noscript><img width="300" height="395" src="http://dl.namayeshnet.com/oldsite/2019/10/11-3.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		عند از مطالبه		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-1627 page type-page status-publish has-post-thumbnail category-249">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%a8%db%8c%d8%b3%d8%aa-%d9%88-%d9%be%d9%86%d8%ac-%d8%af%d8%b1%d8%b5%d8%af/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpg" /><noscript><img width="300" height="420" src="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		بیست و پنج درصد		</h4>
+				</div>
+				</a>
+		</article>
+				</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-087e4de elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="087e4de" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4bdb94b elementor-column elementor-col-100 elementor-top-column" data-id="4bdb94b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c9c3b81 elementor-cta--layout-image-right elementor-cta--valign-middle elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="c9c3b81" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div  class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div data-bg="url(http://dl.namayeshnet.com/oldsite/2019/11/497a68c875.jpg)" class="elementor-cta__bg elementor-bg rocket-lazyload" style=""></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item">
+						خرید بلیط تئاتر فاصله					</h2>
+				
+				
+									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item ">
+					<a class="elementor-cta__button elementor-button elementor-size-sm" href="https://www.tiwall.com/theater/faseleh">
+						خرید بلیط					</a>
+					</div>
+							</div>
+						</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-31b6866 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="31b6866" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4f7343f elementor-column elementor-col-50 elementor-top-column" data-id="4f7343f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-cf0ffe6 elementor-view-default elementor-widget elementor-widget-icon" data-id="cf0ffe6" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-gift"></i>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-8443474 elementor-column elementor-col-50 elementor-top-column" data-id="8443474" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7902e77 elementor-widget elementor-widget-heading" data-id="7902e77" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">هدیه نمایش نت</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-42ceb58 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="42ceb58" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e5f3e1d elementor-column elementor-col-100 elementor-top-column" data-id="e5f3e1d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e900dff elementor-grid-6 elementor-grid-tablet-5 elementor-grid-mobile-3 elementor-widget__width-inherit elementor-widget elementor-widget-portfolio" data-id="e900dff" data-element_type="widget" data-settings="{&quot;columns&quot;:&quot;6&quot;,&quot;columns_tablet&quot;:&quot;5&quot;,&quot;columns_mobile&quot;:&quot;3&quot;,&quot;item_ratio&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.3200000000000001,&quot;sizes&quot;:[]},&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:17,&quot;sizes&quot;:[]},&quot;item_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="portfolio.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-portfolio elementor-grid elementor-posts-container">
+				<article class="elementor-portfolio-item elementor-post  post-2684 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%87%d9%81%d8%aa%d9%87-%d8%a8%d8%b2%d8%b1%da%af%d8%af%d8%a7%d8%b4%d8%aa-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="213" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20213%20300'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/10/00.jpg" /><noscript><img width="213" height="300" src="http://dl.namayeshnet.com/oldsite/2019/10/00.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		هفته بزرگداشت تئاتر		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3566 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/%d9%85%d8%b1%d8%a7%d8%b3%d9%85-%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad%db%8c%d9%87-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d8%b4%d9%87%d8%b1/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="640" height="433" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20433'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/95ec986b75.jpg 640w, http://namayeshnet.com/wp-content/uploads/2019/11/95ec986b75-591x400.jpg 591w" data-lazy-sizes="(max-width: 640px) 100vw, 640px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/95ec986b75.jpg" /><noscript><img width="640" height="433" src="http://dl.namayeshnet.com/oldsite/2019/11/95ec986b75.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/95ec986b75.jpg 640w, http://namayeshnet.com/wp-content/uploads/2019/11/95ec986b75-591x400.jpg 591w" sizes="(max-width: 640px) 100vw, 640px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		مراسم افتتاحیه تئاتر شهر		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-1461 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/namayeshnetgifts/%d9%85%d9%88%d9%86%d9%88%d9%84%d9%88%da%af-%d9%87%d8%a7%db%8c-%d9%85%d8%a7%d9%86%d8%af%da%af%d8%a7%d8%b1/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="286" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20286%20400'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/09/1.jpg" /><noscript><img width="286" height="400" src="http://namayeshnet.com/wp-content/uploads/2019/09/1.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		مونولوگ های ماندگار		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2019 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d8%b1%d9%be%d8%b1%d8%aa%d9%88%d8%a7%d8%b1-%d8%b9%d8%b5%d8%b1-%d8%aa%d8%ac%d8%b1%d8%a8%d9%87/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-1.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-1-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-1.jpg" /><noscript><img width="300" height="420" src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-1.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-1.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-1-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		رپرتوار عصر تجربه		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-1589 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/namayeshnetgifts/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%85%d9%88%d8%b2%db%8c%da%a9%d8%a7%d9%84-%da%af%d8%b1%d8%a8%d9%87-%d9%87%d8%a7-2019/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpeg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص-286x400.jpeg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpeg" /><noscript><img width="300" height="420" src="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpeg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص.jpeg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/تصویر-شاخص-286x400.jpeg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نمایش موزیکال گربه ها ۲۰۱۹		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3734 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/%d8%ac%d8%b4%d9%86%d9%88%d8%a7%d8%b1%d9%87-%d8%a7%d8%ac%d8%b1%d8%a7%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%af%d8%b1-%d9%85%d9%87%d8%b1%da%af%d8%a7%d9%86/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="640" height="426" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20426'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/12/25813515.jpg 640w, http://namayeshnet.com/wp-content/uploads/2019/12/25813515-601x400.jpg 601w" data-lazy-sizes="(max-width: 640px) 100vw, 640px" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/12/25813515.jpg" /><noscript><img width="640" height="426" src="http://namayeshnet.com/wp-content/uploads/2019/12/25813515.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/12/25813515.jpg 640w, http://namayeshnet.com/wp-content/uploads/2019/12/25813515-601x400.jpg 601w" sizes="(max-width: 640px) 100vw, 640px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		اختتامیه جشنواره اجراخوانی در تماشاخانه مهرگان		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-1434 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/namayeshnetgifts/%d9%be%d8%b4%d8%aa-%d8%b5%d8%ad%d9%86%d9%87-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%87%d9%85%d9%84%d8%aa-benedict-cumberbatch-hamlet-interview/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="572" height="800" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20572%20800'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/WhatsApp-Image-2018-08-20-at-11.15.07.2d42c6-1.jpg 572w, http://namayeshnet.com/wp-content/uploads/2019/09/WhatsApp-Image-2018-08-20-at-11.15.07.2d42c6-1-286x400.jpg 286w" data-lazy-sizes="(max-width: 572px) 100vw, 572px" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/09/WhatsApp-Image-2018-08-20-at-11.15.07.2d42c6-1.jpg" /><noscript><img width="572" height="800" src="http://namayeshnet.com/wp-content/uploads/2019/09/WhatsApp-Image-2018-08-20-at-11.15.07.2d42c6-1.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/WhatsApp-Image-2018-08-20-at-11.15.07.2d42c6-1.jpg 572w, http://namayeshnet.com/wp-content/uploads/2019/09/WhatsApp-Image-2018-08-20-at-11.15.07.2d42c6-1-286x400.jpg 286w" sizes="(max-width: 572px) 100vw, 572px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		پشت صحنه تئاتر هملت		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3162 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%85%d9%88%d9%86%d9%88%d9%84%d9%88%da%af-%d9%87%d8%a7%db%8c-%d9%85%d8%a7%d9%86%d8%af%da%af%d8%a7%d8%b1/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="286" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20286%20400'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/1-1-1.jpg" /><noscript><img width="286" height="400" src="http://dl.namayeshnet.com/oldsite/2019/11/1-1-1.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		مونولوگ های ماندگار		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-1516 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/namayeshnetgifts/%d8%b3%d9%85%db%8c%d9%86%d8%a7%d8%b1-%d9%85%d8%b7%d8%a7%d9%84%d8%b9%d8%a7%d8%aa-%d8%a7%d8%ac%d8%b1%d8%a7/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5.jpg" /><noscript><img width="300" height="420" src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		مستند نمایش سقراط		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3730 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/%d9%be%d9%86%d8%ac%d8%b1%d9%87-%d8%b1%d9%88-%d8%a8%d9%87-%d8%a2%d8%b3%d9%85%d8%a7%d9%86/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="571" height="800" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20571%20800'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/12/99697_img_20191110_211421_001.jpg 571w, http://namayeshnet.com/wp-content/uploads/2019/12/99697_img_20191110_211421_001-286x400.jpg 286w" data-lazy-sizes="(max-width: 571px) 100vw, 571px" data-lazy-src="http://namayeshnet.com/wp-content/uploads/2019/12/99697_img_20191110_211421_001.jpg" /><noscript><img width="571" height="800" src="http://namayeshnet.com/wp-content/uploads/2019/12/99697_img_20191110_211421_001.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/12/99697_img_20191110_211421_001.jpg 571w, http://namayeshnet.com/wp-content/uploads/2019/12/99697_img_20191110_211421_001-286x400.jpg 286w" sizes="(max-width: 571px) 100vw, 571px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		پنجره رو به آسمان		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3607 page type-page status-publish has-post-thumbnail category-250">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d8%b4%d8%a7%d8%af-%d9%88-%d9%85%d9%88%d8%b2%db%8c%da%a9%d8%a7%d9%84-%d9%85%d8%b1%db%8c-%d9%be%d8%a7%d9%be%db%8c%d9%86/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="1080" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%201080'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1.jpg 1080w, http://namayeshnet.com/wp-content/uploads/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1-400x400.jpg 400w, http://namayeshnet.com/wp-content/uploads/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1-800x800.jpg 800w" data-lazy-sizes="(max-width: 1080px) 100vw, 1080px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1.jpg" /><noscript><img width="1080" height="1080" src="http://dl.namayeshnet.com/oldsite/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1.jpg 1080w, http://namayeshnet.com/wp-content/uploads/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1-400x400.jpg 400w, http://namayeshnet.com/wp-content/uploads/2019/11/Behnoosh-Tabatabaie-Poppins-www-OverDoz-IR-1-800x800.jpg 800w" sizes="(max-width: 1080px) 100vw, 1080px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		گزارشی از نمایش شاد و موزیکال مری پاپینز		</h4>
+				</div>
+				</a>
+		</article>
+				</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<aside class="elementor-element elementor-element-52644d7 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="52644d7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-99aafce elementor-column elementor-col-100 elementor-top-column" data-id="99aafce" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-358ad58 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="358ad58" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="rtl" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+					<div class="elementor-repeater-item-a881d75 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading"> کافکا با من سخن بگو</div><div class="elementor-slide-description">فرانتس کافکا به تن خویش، همراه با چهار زن که نماد خواهران و عشق های ناکام اویند، از صفحات کتابی گام در صحنه می گذارند . </div><div  class="elementor-button elementor-slide-button elementor-size-sm">مشاهده فیلم تئاتر</div></div></div></div><div class="elementor-repeater-item-5b0d494 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">
+
+
+</div><div  class="elementor-button elementor-slide-button elementor-size-sm">مشاهده فیلم تئاتر</div></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</aside>
+				<section class="elementor-element elementor-element-6bcadf0 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6bcadf0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6eb9ae0 elementor-column elementor-col-50 elementor-top-column" data-id="6eb9ae0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7a0b6ed elementor-view-default elementor-widget elementor-widget-icon" data-id="7a0b6ed" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-award"></i>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-08c0ec0 elementor-column elementor-col-50 elementor-top-column" data-id="08c0ec0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0150671 elementor-widget elementor-widget-heading" data-id="0150671" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">جشنواره ها</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-29193a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="29193a1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c1554fd elementor-column elementor-col-100 elementor-top-column" data-id="c1554fd" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0ee7307 elementor-grid-6 elementor-grid-tablet-5 elementor-grid-mobile-3 elementor-widget__width-inherit elementor-widget elementor-widget-portfolio" data-id="0ee7307" data-element_type="widget" data-settings="{&quot;columns&quot;:&quot;6&quot;,&quot;columns_tablet&quot;:&quot;5&quot;,&quot;columns_mobile&quot;:&quot;3&quot;,&quot;item_ratio&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.3200000000000001,&quot;sizes&quot;:[]},&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:17,&quot;sizes&quot;:[]},&quot;item_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="portfolio.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-portfolio elementor-grid elementor-posts-container">
+				<article class="elementor-portfolio-item elementor-post  post-3097 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/%d9%85%d8%b1%d8%a7%d8%b3%d9%85-%d8%a7%d8%ae%d8%aa%d8%aa%d8%a7%d9%85%db%8c%d9%87-%d8%a8%db%8c%d8%b3%d8%aa-%d9%88-%d8%af%d9%88%d9%85%db%8c%d9%86-%d8%ac%d8%b4%d9%86%d9%88%d8%a7%d8%b1%d9%87-%d8%aa%d8%a6/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-6.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-6.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		مراسم اختتامیه بیست و دومین جشنواره تئاتر دانشگاهی ایران-۹۸		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3118 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d8%b4%d8%b3%d8%aa-%d8%a2%d8%b3%db%8c%d8%a8-%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%81%d8%ac%d8%b1-%d8%b1%d9%88%d8%b2-%d8%a7%d9%88%d9%84-%d8%a8%d8%ae%d8%b4-%d8%a7/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست آسیب شناسی تئاتر فجر (روز اول-بخش اول)		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3122 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d8%b4%d8%b3%d8%aa-%d8%a2%d8%b3%db%8c%d8%a8-%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%81%d8%ac%d8%b1-%d8%b1%d9%88%d8%b2-%d8%a7%d9%88%d9%84-%d8%a8%d8%ae%d8%b4-%d8%af/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست آسیب شناسی تئاتر فجر (روز اول-بخش دوم)		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3124 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d8%b4%d8%b3%d8%aa-%d8%a2%d8%b3%db%8c%d8%a8-%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%81%d8%ac%d8%b1-%d8%b1%d9%88%d8%b2-%d8%a7%d9%88%d9%84-%d8%a8%d8%ae%d8%b4-%d8%b3/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست آسیب شناسی تئاتر فجر (روز اول-بخش سوم)		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3127 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d8%b4%d8%b3%d8%aa-%d8%a2%d8%b3%db%8c%d8%a8-%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%81%d8%ac%d8%b1-%d8%b1%d9%88%d8%b2-%d8%af%d9%88%d9%85-%d8%a8%d8%ae%d8%b4-%d8%a7/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست آسیب شناسی تئاتر فجر (روز دوم-بخش اول)		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3130 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d8%b4%d8%b3%d8%aa-%d8%a2%d8%b3%db%8c%d8%a8-%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%81%d8%ac%d8%b1-%d8%b1%d9%88%d8%b2-%d8%af%d9%88%d9%85-%d8%a8%d8%ae%d8%b4-%d8%af/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست آسیب شناسی تئاتر فجر (روز دوم-بخش دوم)		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3132 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d8%b4%d8%b3%d8%aa-%d8%a2%d8%b3%db%8c%d8%a8-%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%81%d8%ac%d8%b1-%d8%b1%d9%88%d8%b2-%d8%af%d9%88%d9%85-%d8%a8%d8%ae%d8%b4-%d8%b3/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست آسیب شناسی تئاتر فجر (روز دوم-بخش سوم)		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-3134 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/theatre/%d9%86%d8%b4%d8%b3%d8%aa-%d8%a2%d8%b3%db%8c%d8%a8-%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%aa%d8%a6%d8%a7%d8%aa%d8%b1-%d9%81%d8%ac%d8%b1-%d8%b1%d9%88%d8%b2-%d8%b3%d9%88%d9%85/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="190" height="266" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20266'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" /><noscript><img width="190" height="266" src="http://dl.namayeshnet.com/oldsite/2019/11/0-7.jpg" class="attachment-full size-full" alt="" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست آسیب شناسی تئاتر فجر (روز سوم)		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2030 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/namayeshnetgifts/%d9%86%d8%b4%d8%b3%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%82%d8%b3%d9%85%d8%aa-%d8%b3%d9%88%d9%85/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-3.jpg" /><noscript><img width="300" height="420" src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-3.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست تخصصی نمایشنامه نویسی قسمت سوم		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2027 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/namayeshnetgifts/2027-2/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-3.jpg" /><noscript><img width="300" height="420" src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-3.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست تخصصی نمایشنامه نویسی قسمت دوم		</h4>
+				</div>
+				</a>
+		</article>
+				<article class="elementor-portfolio-item elementor-post  post-2024 page type-page status-publish has-post-thumbnail category-321">
+			<a class="elementor-post__thumbnail__link" href="http://namayeshnet.com/namayeshnetgifts/%d9%86%d8%b4%d8%b3%d8%aa-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%82%d8%b3%d9%85%d8%aa-%d8%a7%d9%88%d9%84/">
+				<div class="elementor-portfolio-item__img elementor-post__thumbnail">
+			<img width="300" height="420" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20420'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3-286x400.jpg 286w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-3.jpg" /><noscript><img width="300" height="420" src="http://dl.namayeshnet.com/oldsite/2019/09/3390bfb5e5-3.jpg" class="attachment-full size-full" alt="" srcset="http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3.jpg 300w, http://namayeshnet.com/wp-content/uploads/2019/09/3390bfb5e5-3-286x400.jpg 286w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		</div>
+				<div class="elementor-portfolio-item__overlay">
+				<h4 class="elementor-portfolio-item__title">
+		نشست تخصصی نمایشنامه نویسی قسمت اول		</h4>
+				</div>
+				</a>
+		</article>
+				</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4f12c3a elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4f12c3a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5b95616 elementor-column elementor-col-100 elementor-top-column" data-id="5b95616" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5c2a129 elementor-widget elementor-widget-heading" data-id="5c2a129" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">کارگردانان</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f51346b elementor-skin-carousel elementor-arrows-yes elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-media-carousel" data-id="f51346b" data-element_type="widget" data-settings="{&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:19,&quot;sizes&quot;:[]},&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div data-bg="url(http://dl.namayeshnet.com/oldsite/2019/11/masoodtayebi.jpg)" class="elementor-carousel-image rocket-lazyload" style="">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div data-bg="url(http://namayeshnet.ir/wp-content/plugins/elementor/assets/images/placeholder.png)" class="elementor-carousel-image rocket-lazyload" style="">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div data-bg="url(http://namayeshnet.ir/wp-content/plugins/elementor/assets/images/placeholder.png)" class="elementor-carousel-image rocket-lazyload" style="">
+					</div>
+								</div>
+											<div class="swiper-slide">
+									<div data-bg="url(http://namayeshnet.ir/wp-content/plugins/elementor/assets/images/placeholder.png)" class="elementor-carousel-image rocket-lazyload" style="">
+					</div>
+								</div>
+									</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+
+					
+					
+				
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+		
+		<footer
+			class="site-footer" id="colophon" role="contentinfo" itemtype="https://schema.org/WPFooter" itemscope="itemscope"		>
+
+			
+			
+<div class="footer-adv footer-adv-layout-4">
+	<div class="footer-adv-overlay">
+		<div class="ast-container">
+			<div class="ast-row">
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-1" >
+					<div id="text-7" class="widget widget_text">			<div class="textwidget"><p> <img id = 'jxlzfukzwlaoesgtnbqeoeuk' style = 'cursor:pointer' onclick = 'window.open("https://logo.samandehi.ir/Verify.aspx?id=164028&#038;p=rfthgvkaaodsobpduiwkmcsi", "Popup","toolbar=no, scrollbars=no, location=no, statusbar=no, menubar=no, resizable=0, width=450, height=630, top=30")' alt = 'logo-samandehi' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://logo.samandehi.ir/logo.aspx?id=164028&#038;p=nbpdwlbqshwllymaodrfaqgw" /><noscript><img id = 'jxlzfukzwlaoesgtnbqeoeuk' style = 'cursor:pointer' onclick = 'window.open("https://logo.samandehi.ir/Verify.aspx?id=164028&#038;p=rfthgvkaaodsobpduiwkmcsi", "Popup","toolbar=no, scrollbars=no, location=no, statusbar=no, menubar=no, resizable=0, width=450, height=630, top=30")' alt = 'logo-samandehi' src = 'https://logo.samandehi.ir/logo.aspx?id=164028&#038;p=nbpdwlbqshwllymaodrfaqgw' /></noscript> </p>
+</div>
+		</div>				</div>
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-2" >
+					<div id="text-8" class="widget widget_text">			<div class="textwidget"></div>
+		</div>				</div>
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-3" >
+					<div id="text-10" class="widget widget_text">			<div class="textwidget"></div>
+		</div>				</div>
+				<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-4" >
+					<div id="text-6" class="widget widget_text">			<div class="textwidget"></div>
+		</div>				</div>
+			</div><!-- .ast-row -->
+		</div><!-- .ast-container -->
+	</div><!-- .footer-adv-overlay-->
+</div><!-- .ast-theme-footer .footer-adv-layout-4 -->
+
+<div class="ast-small-footer footer-sml-layout-1">
+	<div class="ast-footer-overlay">
+		<div class="ast-container">
+			<div class="ast-small-footer-wrap" >
+									<div class="ast-small-footer-section ast-small-footer-section-1" >
+						خدمات ارایه شده در نمایش نت ، دارای مجوز های لازم از مراجع مربوطه می باشد و هر گونه بهره برداری و سوء استفاده از محتوای نمایش نت ، پیگرد قانونی دارد.
+
+					</div>
+				
+				
+			</div><!-- .ast-row .ast-small-footer-wrap -->
+		</div><!-- .ast-container -->
+	</div><!-- .ast-footer-overlay -->
+</div><!-- .ast-small-footer-->
+
+			
+		</footer><!-- #colophon -->
+		
+		
+	</div><!-- #page -->
+
+	
+	
+    <style>
+                .dig-box {
+            background-color: rgba(6,6,6,0.8);
+        }
+
+                .dig_login_rembe label:before,
+        .dig-custom-field-type-radio .dig_opt_mult_con .selected:before,
+        .dig-custom-field-type-radio .dig_opt_mult_con label:before,
+        .dig-custom-field-type-tac .dig_opt_mult_con .selected:before,
+        .dig-custom-field-type-checkbox .dig_opt_mult_con .selected:before,
+        .dig-custom-field-type-tac .dig_opt_mult_con label:before,
+        .dig-custom-field-type-checkbox .dig_opt_mult_con label:before {
+            background-color: #141414;
+        }
+
+        .dig-modal-con {
+            border-radius: 0px;
+            box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);
+            background: linear-gradient(#ffffff,#ffffff);
+            background-size: cover;
+
+        }
+
+        
+        .dig_ma-box .dark .nice-select span, .dig_ma-box .dark a, .dig_ma-box .dark .dig-cont-close, .dig_ma-box .dark, .dig_ma-box .dark .minput label, .dig_ma-box .dark .minput input, .dig_ma-box .darke {
+            color: #141414 !important;
+        }
+
+
+        .dig_sbtncolor {
+            color: #ffffff;
+            background-color: #141414;
+        }
+
+        .dig_ma-box .dark input[type="submit"], .dig_ma-box .lighte {
+            color: #ffffff !important;
+        }
+
+        .dig_ma-box .bglight {
+            background-color: #141414;
+        }
+
+        .dig_ma-box .bgtransborderlight {
+            border: 1px solid#141414;
+            background: transparent;
+        }
+
+        .dig_ma-box .bgdark, .dig_ma-box .bgdark[type="submit"] {
+            background-color: #141414;
+        }
+
+        .dig-custom-field .nice-select {
+            border-bottom: 1px solid#141414;
+        }
+
+        .dig_ma-box .bgtransborderdark {
+            border: 1px solid#141414;
+            background: transparent;
+        }
+
+        .dig_ma-box .countrycodecontainer .dark {
+            border-right: 1px solid #141414 !important;
+        }
+
+        #dig-ucr-container .minput input[type="date"]:focus,
+        #dig-ucr-container .minput input[type="email"]:focus,
+        #dig-ucr-container .minput input[type="number"]:focus,
+        #dig-ucr-container .minput input[type="password"]:focus,
+        #dig-ucr-container .minput input[type="search"]:focus,
+        #dig-ucr-container .minput input[type="text"]:focus {
+            background-color: transparent !important;
+            background: transparent !important;;
+
+        }
+
+                .minput label {
+            right: 0 !important;
+            left: auto !important;
+        }
+
+        .dig_ma-box .minput input[type="checkbox"], .dig_ma-box .minput input[type="radio"] {
+            margin-left: 4px;
+        }
+
+        
+    </style>
+    <div class="dig_load_overlay">
+        <div class="dig_load_content">
+            <div class="dig_spinner">
+                <div class="dig_double-bounce1"></div>
+                <div class="dig_double-bounce2"></div>
+            </div>
+			        </div>
+    </div>
+	
+
+        <div id="dig-ucr-container" class="dig_rtl dig_lrf_box dig_ma-box dig-box  dig-modal-con-renodig_pgmdl_1" style="display:none;">
+
+
+            <div class="dig-content dig-modal-con  dark">
+				
+
+                <div class="digits_bx_cred_frm_container">
+                    <span class="dig-box-login-title">ورود</span>
+                    <span class="dig-cont-close"><span>&times;</span></span>
+
+                    <div class="digits_bx_cred_frm">
+                        <div class="dig_bx_cnt_mdl">
+
+
+							<div class="dig-log-par">    <div
+            class="digloginpage" >
+        <form accept-charset="utf-8" method="post" class="digits_login" action="//namayeshnet.com/?login=true">
+            <div class="minput">
+                <input type="text" class="mobile_field mobile_format dig-mobmail" name="mobmail"
+                       value="" required/>
+
+                <div class="countrycodecontainer logincountrycodecontainer">
+                    <input type="text" name="countrycode"
+                           class="input-text countrycode logincountrycode dark"
+                           value="+98"
+                           maxlength="6" size="3" placeholder="+98"/>
+                </div>
+
+                <label>ایمیل</label>
+                <span class="bgdark"></span></div>
+
+
+            <div class="minput dig_login_otp" style="display: none;">
+                <input type="text" name="dig_otp" id="dig-login-otp"/>
+                <label>کد تایید</label>
+                <span class="bgdark"></span>
+            </div>
+			                <div class="minput">
+                    <input type="password" name="password" required/>
+                    <label>رمزعبور</label>
+                    <span class="bgdark"></span>
+                </div>
+				
+
+            <input type="hidden" name="dig_nounce" class="dig_nounce"
+                   value="019df606c8">
+	        
+			    <div class="dig_login_rembe" >
+        <label class="" for="digits_login_remember_me242992547">
+            <input data-all="digits_login_remember_me" name="digits_login_remember_me"
+                   class="not-empty digits_login_remember_me" id="digits_login_remember_me242992547"
+                   type="checkbox" value="1" >
+			مرا به خاطر بسپار        </label>
+    </div>
+	                <div class="logforb">
+                    <input type="submit" class="lighte bgdark button"
+                           value="ورود"/>
+					                        <div class="forgotpasswordaContainer"><a
+                                    class="forgotpassworda">فراموشی رمز عبور؟</a>
+                        </div>
+					                </div>
+				                <div class="signdesc">آیا حساب کاربری ندارید؟</div>
+                <div class="signupbutton transupbutton bgtransborderdark">عضویت</div>
+			
+        </form>
+    </div>
+
+	        <div class="register">
+
+            <form accept-charset="utf-8" method="post" class="digits_register" action="//namayeshnet.com/?login=true">
+
+                <div class="dig_reg_inputs">
+
+					
+                        <div id="dig_cs_username" class="minput">
+                            <input type="text" name="digits_reg_username" id="digits_reg_username"
+                                   value="" required/>
+                            <label>نام کاربری</label>
+                            <span class="bgdark"></span>
+                        </div>
+					                        <div id="dig_cs_mobilenumber" class="minput">
+                            <input type="text" class="mobile_field mobile_format digits_reg_email" name="digits_reg_mail"
+                                   value="" required/>
+                            <div class="countrycodecontainer registercountrycodecontainer">
+                                <input type="text" name="digregcode"
+                                       class="input-text countrycode registercountrycode  dark"
+                                       value="+98" maxlength="6" size="3"
+                                       placeholder="+98" required/>
+                            </div>
+                            <label>ایمیل</label>
+                            <span class="bgdark"></span>
+                        </div>
+
+						
+
+                        <div id="dig_cs_password" class="minput" >
+                            <input type="password" name="digits_reg_password"
+                                   id="digits_reg_password" required/>
+                            <label>رمزعبور</label>
+                            <span class="bgdark"></span>
+                        </div>
+					</div>                    <div>
+		                <div class="dig_wp_bp_fields">
+    <input type="hidden" name="dig_nounce" class="dig_nounce" value="019df606c8">
+    <p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide"
+       id="reg_billing_otp_container" style="display: none;">
+        <label for="reg_billing_otp">کد تایید <span class="required">*</span></label>
+        <input type="text" class="input-text" name="reg_billing_otp" id="reg_billing_otp"/>
+    </p>
+
+	<input type="hidden" name="username" id="dig_reg_wp_elem" value="" />    <input type="hidden" name="code" class="register_code"/>
+    <input type="hidden" name="csrf" class="register_csrf"/>
+    </div>                    </div>
+
+                    <div class="minput dig_register_otp" style="display: none;">
+                        <input type="text" name="dig_otp" id="dig-register-otp"
+                               value=""/>
+                        <label>کد تایید</label>
+                        <span class="bgdark"></span>
+                    </div>
+
+
+                    <input type="hidden" name="code" class="register_code"/>
+                    <input type="hidden" name="csrf" class="register_csrf"/>
+                    <input type="hidden" name="dig_reg_mail" class="dig_reg_mail">
+                    <input type="hidden" name="dig_nounce" class="dig_nounce"
+                           value="019df606c8">
+
+					
+                        <button class="lighte bgdark button dig-signup-otp registerbutton"
+                                value="ثبت نام" type="submit">ثبت نام</button>
+						<div  class="dig_resendotp dig_logof_reg_resend" id="dig_lo_resend_otp_btn" dis='1'>ارسال مجدد کد یکبار مصرف <span>(00:<span>30</span>)</span></div>					
+					
+                    <div class="backtoLoginContainer"><a
+                                class="backtoLogin">برگشت به ورود</a>
+                    </div>
+
+
+            </form>
+        </div>
+
+
+		        <div class="forgot" style="display:none">
+            <form accept-charset="utf-8" method="post" action="//namayeshnet.com/?login=true" class="digits_forgot_pass">
+                <div class="minput forgotpasscontainer">
+                    <input class="mobile_field mobile_format forgotpass" type="text" name="forgotmail"
+                           required/>
+                    <div class="countrycodecontainer forgotcountrycodecontainer">
+                        <input type="text" name="countrycode"
+                               class="input-text countrycode forgotcountrycode  dark"
+                               value="+98"
+                               maxlength="6" size="3" placeholder="+98"/>
+                    </div>
+                    <label>ایمیل/شماره موبایل</label>
+                    <span class="bgdark"></span>
+                </div>
+
+
+                <div class="minput dig_forgot_otp" style="display: none;">
+                    <input type="text" name="dig_otp" id="dig-forgot-otp"/>
+                    <label>کد تایید</label>
+                    <span class="bgdark"></span>
+                </div>
+
+                <input type="hidden" name="code" class="digits_code"/>
+                <input type="hidden" name="csrf" class="digits_csrf"/>
+                <input type="hidden" name="dig_nounce" class="dig_nounce"
+                       value="019df606c8">
+                <div class="changepassword">
+                    <div class="minput">
+                        <input type="password" class="digits_password" name="digits_password" required/>
+                        <label>رمزعبور</label>
+                        <span class="bgdark"></span>
+                    </div>
+
+                    <div class="minput">
+                        <input type="password" class="digits_cpassword" name="digits_cpassword" required/>
+                        <label>تایید رمز عبور</label>
+                        <span class="bgdark"></span>
+                    </div>
+                </div>
+                <button type="submit"
+                        class="lighte bgdark button forgotpassword"
+                        value="بازنشانی رمزعبور">بازنشانی رمزعبور</button>
+				<div  class="dig_resendotp dig_logof_forg_resend" id="dig_lo_resend_otp_btn" dis='1'>ارسال مجدد کد یکبار مصرف<span>(00:<span>30</span>)</span></div>				                    <div class="backtoLoginContainer"><a
+                                class="backtoLogin">برگشت به ورود</a>
+                    </div>
+					            </form>
+        </div>
+
+		
+	</div>                        </div>
+                    </div>
+                </div>
+				            </div>
+        </div>
+
+		<ul class="digit_cs-list" style="display: none;"><li class="dig - cc - visible " value="93" country="afghanistan">(+93) Afghanistan</li><li class="dig - cc - visible " value="355" country="albania">(+355) Albania</li><li class="dig - cc - visible " value="213" country="algeria">(+213) Algeria</li><li class="dig - cc - visible " value="1" country="american samo">(+1) American Samoa</li><li class="dig - cc - visible " value="376" country="andorra">(+376) Andorra</li><li class="dig - cc - visible " value="244" country="angola">(+244) Angola</li><li class="dig - cc - visible " value="1" country="anguilla">(+1) Anguilla</li><li class="dig - cc - visible " value="1" country="antigua">(+1) Antigua</li><li class="dig - cc - visible " value="54" country="argentina">(+54) Argentina</li><li class="dig - cc - visible " value="374" country="armenia">(+374) Armenia</li><li class="dig - cc - visible " value="297" country="aruba">(+297) Aruba</li><li class="dig - cc - visible " value="61" country="australia">(+61) Australia</li><li class="dig - cc - visible " value="43" country="austria">(+43) Austria</li><li class="dig - cc - visible " value="994" country="azerbaijan">(+994) Azerbaijan</li><li class="dig - cc - visible " value="973" country="bahrain">(+973) Bahrain</li><li class="dig - cc - visible " value="880" country="bangladesh">(+880) Bangladesh</li><li class="dig - cc - visible " value="1" country="barbados">(+1) Barbados</li><li class="dig - cc - visible " value="375" country="belarus">(+375) Belarus</li><li class="dig - cc - visible " value="32" country="belgium">(+32) Belgium</li><li class="dig - cc - visible " value="501" country="belize">(+501) Belize</li><li class="dig - cc - visible " value="229" country="benin">(+229) Benin</li><li class="dig - cc - visible " value="1" country="bermuda">(+1) Bermuda</li><li class="dig - cc - visible " value="975" country="bhutan">(+975) Bhutan</li><li class="dig - cc - visible " value="591" country="bolivia">(+591) Bolivia</li><li class="dig - cc - visible " value="599" country="bonaire, sint eustatius and saba">(+599) Bonaire, Sint Eustatius and Saba</li><li class="dig - cc - visible " value="387" country="bosnia and herzegovina">(+387) Bosnia and Herzegovina</li><li class="dig - cc - visible " value="267" country="botswana">(+267) Botswana</li><li class="dig - cc - visible " value="55" country="brazil">(+55) Brazil</li><li class="dig - cc - visible " value="246" country="british indian ocean territory">(+246) British Indian Ocean Territory</li><li class="dig - cc - visible " value="1" country="british virgin islands">(+1) British Virgin Islands</li><li class="dig - cc - visible " value="673" country="brunei">(+673) Brunei</li><li class="dig - cc - visible " value="359" country="bulgaria">(+359) Bulgaria</li><li class="dig - cc - visible " value="226" country="burkina faso">(+226) Burkina Faso</li><li class="dig - cc - visible " value="257" country="burundi">(+257) Burundi</li><li class="dig - cc - visible " value="855" country="cambodia">(+855) Cambodia</li><li class="dig - cc - visible " value="237" country="cameroon">(+237) Cameroon</li><li class="dig - cc - visible " value="1" country="canada">(+1) Canada</li><li class="dig - cc - visible " value="238" country="cape verde">(+238) Cape Verde</li><li class="dig - cc - visible " value="1" country="cayman islands">(+1) Cayman Islands</li><li class="dig - cc - visible " value="236" country="central african republic">(+236) Central African Republic</li><li class="dig - cc - visible " value="235" country="chad">(+235) Chad</li><li class="dig - cc - visible " value="56" country="chile">(+56) Chile</li><li class="dig - cc - visible " value="86" country="china">(+86) China</li><li class="dig - cc - visible " value="57" country="colombia">(+57) Colombia</li><li class="dig - cc - visible " value="269" country="comoros">(+269) Comoros</li><li class="dig - cc - visible " value="682" country="cook islands">(+682) Cook Islands</li><li class="dig - cc - visible " value="506" country="costa rica">(+506) Costa Rica</li><li class="dig - cc - visible " value="225" country="côte d'ivoire">(+225) Côte d'Ivoire</li><li class="dig - cc - visible " value="385" country="croatia">(+385) Croatia</li><li class="dig - cc - visible " value="53" country="cuba">(+53) Cuba</li><li class="dig - cc - visible " value="599" country="curaçao">(+599) Curaçao</li><li class="dig - cc - visible " value="357" country="cyprus">(+357) Cyprus</li><li class="dig - cc - visible " value="420" country="czech republic">(+420) Czech Republic</li><li class="dig - cc - visible " value="243" country="democratic republic of the congo">(+243) Democratic Republic of the Congo</li><li class="dig - cc - visible " value="45" country="denmark">(+45) Denmark</li><li class="dig - cc - visible " value="253" country="djibouti">(+253) Djibouti</li><li class="dig - cc - visible " value="1" country="dominica">(+1) Dominica</li><li class="dig - cc - visible " value="1" country="dominican republic">(+1) Dominican Republic</li><li class="dig - cc - visible " value="593" country="ecuador">(+593) Ecuador</li><li class="dig - cc - visible " value="20" country="egypt">(+20) Egypt</li><li class="dig - cc - visible " value="503" country="el salvador">(+503) El Salvador</li><li class="dig - cc - visible " value="240" country="equatorial guinea">(+240) Equatorial Guinea</li><li class="dig - cc - visible " value="291" country="eritrea">(+291) Eritrea</li><li class="dig - cc - visible " value="372" country="estonia">(+372) Estonia</li><li class="dig - cc - visible " value="251" country="ethiopia">(+251) Ethiopia</li><li class="dig - cc - visible " value="500" country="falkland islands">(+500) Falkland Islands</li><li class="dig - cc - visible " value="298" country="faroe islands">(+298) Faroe Islands</li><li class="dig - cc - visible " value="691" country="federated states of micronesia">(+691) Federated States of Micronesia</li><li class="dig - cc - visible " value="679" country="fiji">(+679) Fiji</li><li class="dig - cc - visible " value="358" country="finland">(+358) Finland</li><li class="dig - cc - visible " value="33" country="france">(+33) France</li><li class="dig - cc - visible " value="594" country="french guiana">(+594) French Guiana</li><li class="dig - cc - visible " value="689" country="french polynesia">(+689) French Polynesia</li><li class="dig - cc - visible " value="241" country="gabon">(+241) Gabon</li><li class="dig - cc - visible " value="995" country="georgia">(+995) Georgia</li><li class="dig - cc - visible " value="49" country="germany">(+49) Germany</li><li class="dig - cc - visible " value="233" country="ghana">(+233) Ghana</li><li class="dig - cc - visible " value="350" country="gibraltar">(+350) Gibraltar</li><li class="dig - cc - visible " value="30" country="greece">(+30) Greece</li><li class="dig - cc - visible " value="299" country="greenland">(+299) Greenland</li><li class="dig - cc - visible " value="1" country="grenada">(+1) Grenada</li><li class="dig - cc - visible " value="590" country="guadeloupe">(+590) Guadeloupe</li><li class="dig - cc - visible " value="1" country="guam">(+1) Guam</li><li class="dig - cc - visible " value="502" country="guatemala">(+502) Guatemala</li><li class="dig - cc - visible " value="44" country="guernsey">(+44) Guernsey</li><li class="dig - cc - visible " value="224" country="guinea">(+224) Guinea</li><li class="dig - cc - visible " value="245" country="guinea-bissau">(+245) Guinea-Bissau</li><li class="dig - cc - visible " value="592" country="guyana">(+592) Guyana</li><li class="dig - cc - visible " value="509" country="haiti">(+509) Haiti</li><li class="dig - cc - visible " value="504" country="honduras">(+504) Honduras</li><li class="dig - cc - visible " value="852" country="hong kong">(+852) Hong Kong</li><li class="dig - cc - visible " value="36" country="hungary">(+36) Hungary</li><li class="dig - cc - visible " value="354" country="iceland">(+354) Iceland</li><li class="dig - cc - visible " value="91" country="india">(+91) India</li><li class="dig - cc - visible " value="62" country="indonesia">(+62) Indonesia</li><li class="dig - cc - visible selected" value="98" country="iran">(+98) Iran</li><li class="dig - cc - visible " value="964" country="iraq">(+964) Iraq</li><li class="dig - cc - visible " value="353" country="ireland">(+353) Ireland</li><li class="dig - cc - visible " value="44" country="isle of man">(+44) Isle Of Man</li><li class="dig - cc - visible " value="972" country="israel">(+972) Israel</li><li class="dig - cc - visible " value="39" country="italy">(+39) Italy</li><li class="dig - cc - visible " value="1" country="jamaica">(+1) Jamaica</li><li class="dig - cc - visible " value="81" country="japan">(+81) Japan</li><li class="dig - cc - visible " value="44" country="jersey">(+44) Jersey</li><li class="dig - cc - visible " value="962" country="jordan">(+962) Jordan</li><li class="dig - cc - visible " value="7" country="kazakhstan">(+7) Kazakhstan</li><li class="dig - cc - visible " value="254" country="kenya">(+254) Kenya</li><li class="dig - cc - visible " value="686" country="kiribati">(+686) Kiribati</li><li class="dig - cc - visible " value="965" country="kuwait">(+965) Kuwait</li><li class="dig - cc - visible " value="996" country="kyrgyzstan">(+996) Kyrgyzstan</li><li class="dig - cc - visible " value="856" country="laos">(+856) Laos</li><li class="dig - cc - visible " value="371" country="latvia">(+371) Latvia</li><li class="dig - cc - visible " value="961" country="lebanon">(+961) Lebanon</li><li class="dig - cc - visible " value="266" country="lesotho">(+266) Lesotho</li><li class="dig - cc - visible " value="231" country="liberia">(+231) Liberia</li><li class="dig - cc - visible " value="218" country="libya">(+218) Libya</li><li class="dig - cc - visible " value="423" country="liechtenstein">(+423) Liechtenstein</li><li class="dig - cc - visible " value="370" country="lithuania">(+370) Lithuania</li><li class="dig - cc - visible " value="352" country="luxembourg">(+352) Luxembourg</li><li class="dig - cc - visible " value="853" country="macau">(+853) Macau</li><li class="dig - cc - visible " value="389" country="macedonia">(+389) Macedonia</li><li class="dig - cc - visible " value="261" country="madagascar">(+261) Madagascar</li><li class="dig - cc - visible " value="265" country="malawi">(+265) Malawi</li><li class="dig - cc - visible " value="60" country="malaysia">(+60) Malaysia</li><li class="dig - cc - visible " value="960" country="maldives">(+960) Maldives</li><li class="dig - cc - visible " value="223" country="mali">(+223) Mali</li><li class="dig - cc - visible " value="356" country="malta">(+356) Malta</li><li class="dig - cc - visible " value="692" country="marshall islands">(+692) Marshall Islands</li><li class="dig - cc - visible " value="596" country="martinique">(+596) Martinique</li><li class="dig - cc - visible " value="222" country="mauritania">(+222) Mauritania</li><li class="dig - cc - visible " value="230" country="mauritius">(+230) Mauritius</li><li class="dig - cc - visible " value="262" country="mayotte">(+262) Mayotte</li><li class="dig - cc - visible " value="52" country="mexico">(+52) Mexico</li><li class="dig - cc - visible " value="373" country="moldova">(+373) Moldova</li><li class="dig - cc - visible " value="377" country="monaco">(+377) Monaco</li><li class="dig - cc - visible " value="976" country="mongolia">(+976) Mongolia</li><li class="dig - cc - visible " value="382" country="montenegro">(+382) Montenegro</li><li class="dig - cc - visible " value="1" country="montserrat">(+1) Montserrat</li><li class="dig - cc - visible " value="212" country="morocco">(+212) Morocco</li><li class="dig - cc - visible " value="258" country="mozambique">(+258) Mozambique</li><li class="dig - cc - visible " value="95" country="myanmar">(+95) Myanmar</li><li class="dig - cc - visible " value="264" country="namibia">(+264) Namibia</li><li class="dig - cc - visible " value="674" country="nauru">(+674) Nauru</li><li class="dig - cc - visible " value="977" country="nepal">(+977) Nepal</li><li class="dig - cc - visible " value="31" country="netherlands">(+31) Netherlands</li><li class="dig - cc - visible " value="687" country="new caledonia">(+687) New Caledonia</li><li class="dig - cc - visible " value="64" country="new zealand">(+64) New Zealand</li><li class="dig - cc - visible " value="505" country="nicaragua">(+505) Nicaragua</li><li class="dig - cc - visible " value="227" country="niger">(+227) Niger</li><li class="dig - cc - visible " value="234" country="nigeria">(+234) Nigeria</li><li class="dig - cc - visible " value="683" country="niue">(+683) Niue</li><li class="dig - cc - visible " value="672" country="norfolk island">(+672) Norfolk Island</li><li class="dig - cc - visible " value="850" country="north korea">(+850) North Korea</li><li class="dig - cc - visible " value="1" country="northern mariana islands">(+1) Northern Mariana Islands</li><li class="dig - cc - visible " value="47" country="norway">(+47) Norway</li><li class="dig - cc - visible " value="968" country="oman">(+968) Oman</li><li class="dig - cc - visible " value="92" country="pakistan">(+92) Pakistan</li><li class="dig - cc - visible " value="680" country="palau">(+680) Palau</li><li class="dig - cc - visible " value="970" country="palestine">(+970) Palestine</li><li class="dig - cc - visible " value="507" country="panama">(+507) Panama</li><li class="dig - cc - visible " value="675" country="papua new guinea">(+675) Papua New Guinea</li><li class="dig - cc - visible " value="595" country="paraguay">(+595) Paraguay</li><li class="dig - cc - visible " value="51" country="peru">(+51) Peru</li><li class="dig - cc - visible " value="63" country="philippines">(+63) Philippines</li><li class="dig - cc - visible " value="48" country="poland">(+48) Poland</li><li class="dig - cc - visible " value="351" country="portugal">(+351) Portugal</li><li class="dig - cc - visible " value="1" country="puerto rico">(+1) Puerto Rico</li><li class="dig - cc - visible " value="974" country="qatar">(+974) Qatar</li><li class="dig - cc - visible " value="242" country="republic of the congo">(+242) Republic of the Congo</li><li class="dig - cc - visible " value="40" country="romania">(+40) Romania</li><li class="dig - cc - visible " value="262" country="runion">(+262) Runion</li><li class="dig - cc - visible " value="7" country="russia">(+7) Russia</li><li class="dig - cc - visible " value="250" country="rwanda">(+250) Rwanda</li><li class="dig - cc - visible " value="290" country="saint helena">(+290) Saint Helena</li><li class="dig - cc - visible " value="1" country="saint kitts and nevis">(+1) Saint Kitts and Nevis</li><li class="dig - cc - visible " value="508" country="saint pierre and miquelon">(+508) Saint Pierre and Miquelon</li><li class="dig - cc - visible " value="1" country="saint vincent and the grenadines">(+1) Saint Vincent and the Grenadines</li><li class="dig - cc - visible " value="685" country="samoa">(+685) Samoa</li><li class="dig - cc - visible " value="378" country="san marino">(+378) San Marino</li><li class="dig - cc - visible " value="239" country="sao tome and principe">(+239) Sao Tome and Principe</li><li class="dig - cc - visible " value="966" country="saudi arabia">(+966) Saudi Arabia</li><li class="dig - cc - visible " value="221" country="senegal">(+221) Senegal</li><li class="dig - cc - visible " value="381" country="serbia">(+381) Serbia</li><li class="dig - cc - visible " value="248" country="seychelles">(+248) Seychelles</li><li class="dig - cc - visible " value="232" country="sierra leone">(+232) Sierra Leone</li><li class="dig - cc - visible " value="65" country="singapore">(+65) Singapore</li><li class="dig - cc - visible " value="1" country="sint maarten">(+1) Sint Maarten</li><li class="dig - cc - visible " value="421" country="slovakia">(+421) Slovakia</li><li class="dig - cc - visible " value="386" country="slovenia">(+386) Slovenia</li><li class="dig - cc - visible " value="677" country="solomon islands">(+677) Solomon Islands</li><li class="dig - cc - visible " value="252" country="somalia">(+252) Somalia</li><li class="dig - cc - visible " value="27" country="south africa">(+27) South Africa</li><li class="dig - cc - visible " value="82" country="south korea">(+82) South Korea</li><li class="dig - cc - visible " value="211" country="south sudan">(+211) South Sudan</li><li class="dig - cc - visible " value="34" country="spain">(+34) Spain</li><li class="dig - cc - visible " value="94" country="sri lanka">(+94) Sri Lanka</li><li class="dig - cc - visible " value="1" country="st. lucia">(+1) St. Lucia</li><li class="dig - cc - visible " value="249" country="sudan">(+249) Sudan</li><li class="dig - cc - visible " value="597" country="suriname">(+597) Suriname</li><li class="dig - cc - visible " value="268" country="swaziland">(+268) Swaziland</li><li class="dig - cc - visible " value="46" country="sweden">(+46) Sweden</li><li class="dig - cc - visible " value="41" country="switzerland">(+41) Switzerland</li><li class="dig - cc - visible " value="963" country="syria">(+963) Syria</li><li class="dig - cc - visible " value="886" country="taiwan">(+886) Taiwan</li><li class="dig - cc - visible " value="992" country="tajikistan">(+992) Tajikistan</li><li class="dig - cc - visible " value="255" country="tanzania">(+255) Tanzania</li><li class="dig - cc - visible " value="66" country="thailand">(+66) Thailand</li><li class="dig - cc - visible " value="1" country="the bahamas">(+1) The Bahamas</li><li class="dig - cc - visible " value="220" country="the gambia">(+220) The Gambia</li><li class="dig - cc - visible " value="670" country="timor-leste">(+670) Timor-Leste</li><li class="dig - cc - visible " value="228" country="togo">(+228) Togo</li><li class="dig - cc - visible " value="690" country="tokelau">(+690) Tokelau</li><li class="dig - cc - visible " value="676" country="tonga">(+676) Tonga</li><li class="dig - cc - visible " value="1" country="trinidad and tobago">(+1) Trinidad and Tobago</li><li class="dig - cc - visible " value="216" country="tunisia">(+216) Tunisia</li><li class="dig - cc - visible " value="90" country="turkey">(+90) Turkey</li><li class="dig - cc - visible " value="993" country="turkmenistan">(+993) Turkmenistan</li><li class="dig - cc - visible " value="1" country="turks and caicos islands">(+1) Turks and Caicos Islands</li><li class="dig - cc - visible " value="688" country="tuvalu">(+688) Tuvalu</li><li class="dig - cc - visible " value="1" country="u.s. virgin islands">(+1) U.S. Virgin Islands</li><li class="dig - cc - visible " value="256" country="uganda">(+256) Uganda</li><li class="dig - cc - visible " value="380" country="ukraine">(+380) Ukraine</li><li class="dig - cc - visible " value="971" country="united arab emirates">(+971) United Arab Emirates</li><li class="dig - cc - visible " value="44" country="united kingdom">(+44) United Kingdom</li><li class="dig - cc - visible " value="1" country="united states">(+1) United States</li><li class="dig - cc - visible " value="598" country="uruguay">(+598) Uruguay</li><li class="dig - cc - visible " value="998" country="uzbekistan">(+998) Uzbekistan</li><li class="dig - cc - visible " value="678" country="vanuatu">(+678) Vanuatu</li><li class="dig - cc - visible " value="58" country="venezuela">(+58) Venezuela</li><li class="dig - cc - visible " value="84" country="vietnam">(+84) Vietnam</li><li class="dig - cc - visible " value="681" country="wallis and futuna">(+681) Wallis and Futuna</li><li class="dig - cc - visible " value="212" country="western sahara">(+212) Western Sahara</li><li class="dig - cc - visible " value="967" country="yemen">(+967) Yemen</li><li class="dig - cc - visible " value="260" country="zambia">(+260) Zambia</li><li class="dig - cc - visible " value="263" country="zimbabw">(+263) Zimbabwe</li></ul>		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' ->  'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}		</script>
+<script>
+var astra = {"break_point":"921","isRtl":"1"};
+</script>
+<script src='http://namayeshnet.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.1.3'></script>
+<script src='http://namayeshnet.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script src='http://namayeshnet.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"\u0628\u0633\u062a\u0646.","currentText":"\u0627\u0645\u0631\u0648\u0632","monthNames":["\u0698\u0627\u0646\u0648\u06cc\u0647","\u0641\u0648\u0631\u06cc\u0647","\u0645\u0627\u0631\u0633","\u0622\u0648\u0631\u06cc\u0644","\u0645\u06cc","\u0698\u0648\u0626\u0646","\u062c\u0648\u0644\u0627\u06cc","\u0622\u06af\u0648\u0633\u062a","\u0633\u067e\u062a\u0627\u0645\u0628\u0631","\u0627\u06a9\u062a\u0628\u0631","\u0646\u0648\u0627\u0645\u0628\u0631","\u062f\u0633\u0627\u0645\u0628\u0631"],"monthNamesShort":["\u0698\u0627\u0646\u0648\u06cc\u0647","\u0641\u0648\u0631\u06cc\u0647","\u0645\u0627\u0631\u0633","\u0622\u0648\u0631\u06cc\u0644","\u0645\u0647","\u0698\u0648\u0626\u0646","\u062c\u0648\u0644\u0627\u06cc","\u0622\u06af\u0648\u0633\u062a","\u0633\u067e\u062a\u0627\u0645\u0628\u0631","\u0627\u06a9\u062a\u0628\u0631","\u0646\u0648\u0627\u0645\u0628\u0631","\u062f\u0633\u0627\u0645\u0628\u0631"],"nextText":"\u0628\u0639\u062f","prevText":"\u0642\u0628\u0644\u06cc","dayNames":["\u06cc\u06a9\u0634\u0646\u0628\u0647","\u062f\u0648\u0634\u0646\u0628\u0647","\u0633\u0647\u200c\u0634\u0646\u0628\u0647","\u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647","\u067e\u0646\u062c\u200c\u0634\u0646\u0628\u0647","\u062c\u0645\u0639\u0647","\u0634\u0646\u0628\u0647"],"dayNamesShort":["\u06cc","\u062f","\u0633","\u0686","\u067e","\u062c","\u0634"],"dayNamesMin":["\u06cc","\u062f","\u0633","\u0686","\u067e","\u062c","\u0634"],"dateFormat":"MM d, yy","firstDay":6,"isRTL":true});});
+</script>
+<script src='http://namayeshnet.com/wp-content/plugins/indeed-membership-pro/assets/js/jquery.uploadfile.min.js'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.2'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/digits/assets/js/scrollTo.js?ver=7.0'></script>
+<script>
+var pwsL10n = {"unknown":"\u0642\u062f\u0631\u062a \u0631\u0645\u0632 \u0646\u0627\u0645\u0634\u062e\u0635","short":"\u0628\u0633\u06cc\u0627\u0631 \u0633\u0633\u062a","bad":"\u0633\u0633\u062a","good":"\u0645\u06cc\u0627\u0646\u0647","strong":"\u0646\u06cc\u0631\u0648\u0645\u0646\u062f","mismatch":"\u0646\u0627\u0647\u0645\u0633\u0627\u0646"};
+</script>
+<script src='http://namayeshnet.com/wp-admin/js/password-strength-meter.min.js?ver=5.3.2'></script>
+<script>
+var dig_mdet = {"dig_hide_ccode":"0","loginwithotp":"\u0648\u0631\u0648\u062f \u0628\u0627 \u06a9\u062f \u06cc\u06a9\u0628\u0627\u0631\u0645\u0635\u0631\u0641","dig_sortorder":"","dig_dsb":"-1","Passwordsdonotmatch":"\u0631\u0645\u0632 \u0639\u0628\u0648\u0631\u0647\u0627 \u0647\u0645\u0633\u0627\u0646 \u0646\u06cc\u0633\u062a\u0646\u062f!","fillAllDetails":"\u0644\u0637\u0641\u0627 \u062a\u0645\u0627\u0645 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0645\u0648\u0631\u062f \u0646\u06cc\u0627\u0632 \u0631\u0627 \u067e\u0631 \u06a9\u0646\u06cc\u062f.","accepttac":"\u0644\u0637\u0641\u0627 \u0634\u0631\u0627\u06cc\u0637 \u0648 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0631\u0627 \u0628\u067e\u0630\u06cc\u0631\u06cc\u062f.","resendOtpTime":"30","useStrongPasswordString":"\u0644\u0637\u0641\u0627 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0633\u062e\u062a \u062a\u0631\u06cc \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f.","strong_pass":"0","firebase":"0","forgot_pass":"1","mail_accept":"2","pass_accept":"2","mobile_accept":"0","login_mobile_accept":"0","login_mail_accept":"1","login_otp_accept":"0","loginor":"\u06cc\u0627","or":"\u06cc\u0627","captcha_accept":"0","ajax_url":"http:\/\/namayeshnet.com\/wp-admin\/admin-ajax.php","appId":"","uri":"\/\/namayeshnet.com\/","state":"338228c56c","uccode":"+98","nonce":"019df606c8","pleasesignupbeforelogginin":"\u0644\u0637\u0641\u0627 \u0642\u0628\u0644 \u0627\u0632 \u0648\u0631\u0648\u062f\u060c \u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f.","invalidapicredentials":"\u0627\u0639\u062a\u0628\u0627\u0631 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 API!","invalidlogindetails":"\u0648\u0631\u0648\u062f \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a!","emailormobile":"\u0627\u06cc\u0645\u06cc\u0644\/\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644","RegisterWithPassword":"\u062b\u0628\u062a \u0646\u0627\u0645 \u0628\u0627 \u0631\u0645\u0632\u0639\u0628\u0648\u0631","Invaliddetails":"\u062c\u0632\u0626\u06cc\u0627\u062a \u0646\u0627\u0645\u0639\u062a\u0628\u0631!","invalidpassword":"\u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a","InvalidMobileNumber":"\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644 \u0646\u0627\u0645\u0639\u062a\u0628\u0631!","InvalidEmail":"\u0627\u06cc\u0645\u06cc\u0644 \u0646\u0627\u0645\u0639\u062a\u0628\u0631!","invalidcountrycode":"\u06a9\u062f \u06a9\u0634\u0648\u0631 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a!","Mobilenumbernotfound":"\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644 \u067e\u06cc\u062f\u0627 \u0646\u0634\u062f!","MobileNumberalreadyinuse":"\u0627\u06cc\u0646 \u0634\u0645\u0627\u0631\u0647 \u062f\u0631 \u062d\u0627\u0644 \u062d\u0627\u0636\u0631 \u062f\u0631 \u062d\u0627\u0644 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0633\u062a (\u0642\u0628\u0644\u0627 \u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a)!","MobileNumber":"\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644","InvalidOTP":"\u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f \u0646\u0627\u0645\u0639\u0628\u0631 \u0627\u0633\u062a!","Pleasetryagain":"\u0644\u0637\u0641\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u0633\u0639\u06cc \u06a9\u0646\u06cc\u062f","ErrorPleasetryagainlater":"\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f","UsernameMobileno":"\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc\/\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644","OTP":"\u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f","resendOTP":"\u0627\u0631\u0633\u0627\u0644 \u0645\u062c\u062f\u062f \u06a9\u062f \u06cc\u06a9\u0628\u0627\u0631 \u0645\u0635\u0631\u0641","verify_mobile":"1","Password":"\u0631\u0645\u0632\u0639\u0628\u0648\u0631","ConfirmPassword":"\u062a\u0627\u06cc\u06cc\u062f \u0631\u0645\u0632 \u0639\u0628\u0648\u0631","pleaseentermobormail":"\u0644\u0637\u0641\u0627 \u0627\u06cc\u0645\u06cc\u0644\/\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644 \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f","eitherentermoborusepass":"\u0634\u0645\u0627\u0631\u0647 \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f \u06cc\u0627 \u0627\u0632 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f!","submit":"\u0627\u0631\u0633\u0627\u0644","overwriteWcBillShipMob":"0","signupwithpassword":"\u0639\u0636\u0648\u06cc\u062a \u0628\u0627 \u0631\u0645\u0632\u0639\u0628\u0648\u0631","signupwithotp":"\u0639\u0636\u0648\u06cc\u062a \u0628\u0627 \u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f","signup":"\u062b\u0628\u062a \u0646\u0627\u0645","email":"\u0627\u06cc\u0645\u06cc\u0644","optional":"\u0627\u062e\u062a\u06cc\u0627\u0631\u06cc","error":"\u062e\u0637\u0627","mob_verify_checkout":"1","SubmitOTP":"\u062b\u0628\u062a \u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f","Registrationisdisabled":"\u062b\u0628\u062a \u0646\u0627\u0645 \u063a\u06cc\u0631\u0641\u0639\u0627\u0644 \u0627\u0633\u062a","forgotPasswordisdisabled":"\u0641\u0631\u0627\u0645\u0648\u0634\u06cc \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u063a\u06cc\u0631\u0641\u0639\u0627\u0644 \u0627\u0633\u062a","Thisfeaturesonlyworkswithmobilenumber":"\u0627\u06cc\u0646 \u0648\u06cc\u0698\u06af\u06cc \u0641\u0642\u0637 \u0628\u0627 \u0634\u0645\u0627\u0631\u0647 \u062a\u0644\u0641\u0646 \u0645\u0648\u0628\u0627\u06cc\u0644 \u06a9\u0627\u0631 \u0645\u06cc \u06a9\u0646\u062f"};
+</script>
+<script src='http://namayeshnet.com/wp-content/plugins/digits/assets/js/main.js?ver=7.0'></script>
+<script>
+var dig_log_obj = {"dig_mobile_no_formatting":"2","dig_hide_ccode":"0","dig_sortorder":"","dig_dsb":"-1","show_asterisk":"1","login_mobile_accept":"0","login_mail_accept":"1","login_otp_accept":"0","loginwithotp":"\u0648\u0631\u0648\u062f \u0628\u0627 \u06a9\u062f \u06cc\u06a9\u0628\u0627\u0631\u0645\u0635\u0631\u0641","or":"\u06cc\u0627","captcha_accept":"0","Passwordsdonotmatch":"\u0631\u0645\u0632 \u0639\u0628\u0648\u0631\u0647\u0627 \u0647\u0645\u0633\u0627\u0646 \u0646\u06cc\u0633\u062a\u0646\u062f!","fillAllDetails":"\u0644\u0637\u0641\u0627 \u062a\u0645\u0627\u0645 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0645\u0648\u0631\u062f \u0646\u06cc\u0627\u0632 \u0631\u0627 \u067e\u0631 \u06a9\u0646\u06cc\u062f.","accepttac":"\u0644\u0637\u0641\u0627 \u0634\u0631\u0627\u06cc\u0637 \u0648 \u0642\u0648\u0627\u0646\u06cc\u0646 \u0631\u0627 \u0628\u067e\u0630\u06cc\u0631\u06cc\u062f.","resendOtpTime":"30","useStrongPasswordString":"\u0644\u0637\u0641\u0627 \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u0633\u062e\u062a \u062a\u0631\u06cc \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f.","strong_pass":"0","firebase":"0","mail_accept":"2","pass_accept":"2","mobile_accept":"0","username_accept":"2","ajax_url":"http:\/\/namayeshnet.com\/wp-admin\/admin-ajax.php","appId":"","uri":"\/\/namayeshnet.com\/","state":"338228c56c","left":"0","verify_mobile":"0","Registrationisdisabled":"\u062b\u0628\u062a \u0646\u0627\u0645 \u063a\u06cc\u0631\u0641\u0639\u0627\u0644 \u0627\u0633\u062a","forgotPasswordisdisabled":"\u0641\u0631\u0627\u0645\u0648\u0634\u06cc \u0631\u0645\u0632\u0639\u0628\u0648\u0631 \u063a\u06cc\u0631\u0641\u0639\u0627\u0644 \u0627\u0633\u062a","invalidlogindetails":"\u0648\u0631\u0648\u062f \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a!","invalidapicredentials":"\u0627\u0639\u062a\u0628\u0627\u0631 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 API!","pleasesignupbeforelogginin":"\u0644\u0637\u0641\u0627 \u0642\u0628\u0644 \u0627\u0632 \u0648\u0631\u0648\u062f\u060c \u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f.","pleasetryagain":"\u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f!","invalidcountrycode":"\u06a9\u062f \u06a9\u0634\u0648\u0631 \u0646\u0627\u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a!","Mobilenumbernotfound":"\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644 \u067e\u06cc\u062f\u0627 \u0646\u0634\u062f!","MobileNumberalreadyinuse":"\u0627\u06cc\u0646 \u0634\u0645\u0627\u0631\u0647 \u062f\u0631 \u062d\u0627\u0644 \u062d\u0627\u0636\u0631 \u062f\u0631 \u062d\u0627\u0644 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0633\u062a (\u0642\u0628\u0644\u0627 \u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a)!","Error":"\u062e\u0637\u0627","Thisfeaturesonlyworkswithmobilenumber":"\u0627\u06cc\u0646 \u0648\u06cc\u0698\u06af\u06cc \u0641\u0642\u0637 \u0628\u0627 \u0634\u0645\u0627\u0631\u0647 \u062a\u0644\u0641\u0646 \u0645\u0648\u0628\u0627\u06cc\u0644 \u06a9\u0627\u0631 \u0645\u06cc \u06a9\u0646\u062f","InvalidOTP":"\u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f \u0646\u0627\u0645\u0639\u0628\u0631 \u0627\u0633\u062a!","ErrorPleasetryagainlater":"\u062e\u0637\u0627! \u0644\u0637\u0641\u0627 \u0645\u062c\u062f\u062f \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f","Passworddoesnotmatchtheconfirmpassword":"\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u06cc\u06a9\u0633\u0627\u0646 \u0646\u06cc\u0633\u062a!","Invaliddetails":"\u062c\u0632\u0626\u06cc\u0627\u062a \u0646\u0627\u0645\u0639\u062a\u0628\u0631!","InvalidEmail":"\u0627\u06cc\u0645\u06cc\u0644 \u0646\u0627\u0645\u0639\u062a\u0628\u0631!","InvalidMobileNumber":"\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644 \u0646\u0627\u0645\u0639\u062a\u0628\u0631!","eitherenterpassormob":"\u0634\u0645\u0627\u0631\u0647 \u062a\u0644\u0641\u0646 \u0647\u0645\u0631\u0627\u0647 \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f \u06cc\u0627 \u0631\u0648\u06cc \u062b\u0628\u062a \u0646\u0627\u0645 \u0628\u0627 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u06a9\u0644\u06cc\u06a9 \u06a9\u0646\u06cc\u062f","login":"\u0648\u0631\u0648\u062f","signup":"\u0639\u0636\u0648\u06cc\u062a","ForgotPassword":"\u0641\u0631\u0627\u0645\u0648\u0634 \u0631\u0645\u0632\u0639\u0628\u0648\u0631","Email":"\u0627\u06cc\u0645\u06cc\u0644","Mobileno":"\u0634\u0645\u0627\u0631\u0647 \u0645\u0648\u0628\u0627\u06cc\u0644","ohsnap":"\u062e\u0637\u0627!!!","yay":"\u0628\u0644\u0647!","notice":"\u0627\u0637\u0644\u0627\u0639!","submit":"\u0627\u0631\u0633\u0627\u0644","SubmitOTP":"\u062b\u0628\u062a \u06a9\u062f \u062a\u0627\u06cc\u06cc\u062f","required":"\u0627\u062c\u0628\u0627\u0631\u06cc","login_success":"\u0648\u0631\u0648\u062f \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u0646\u062c\u0627\u0645 \u0634\u062f, \u062f\u0631 \u062d\u0627\u0644 \u062a\u063a\u06cc\u06cc\u0631 \u0645\u0633\u06cc\u0631..","login_reg_success_msg":"1"};
+</script>
+<script src='http://namayeshnet.com/wp-content/plugins/digits/assets/js/login.js?ver=7.0'></script>
+<script src='http://namayeshnet.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.7.5'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.7.2'></script>
+<script>
+var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/namayeshnet.com\/wp-admin\/admin-ajax.php","nonce":"35517af6cb","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fa_IR","app_id":""}};
+</script>
+<script src='http://namayeshnet.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.7.2'></script>
+<script src='http://namayeshnet.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script src='http://namayeshnet.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
+<script>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":true,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.7.5","urls":{"assets":"http:\/\/namayeshnet.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":371,"title":"\u0646\u0645\u0627\u06cc\u0634 \u0646\u062a","excerpt":""}};
+</script>
+<script src='http://namayeshnet.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.7.5'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+							<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_29_1',rl:[1240,1024,778,480],el:[900],gw:[1240],gh:[900],layout:'fullscreen',offsetContainer:'',offset:'',mh:"0"});
+					var	revapi29,
+						tpj;
+					jQuery(function() {
+						tpj = jQuery;
+						if(tpj("#rev_slider_29_1").revolution == undefined){
+							revslider_showDoubleJqueryError("#rev_slider_29_1");
+						}else{
+							revapi29 = tpj("#rev_slider_29_1").show().revolution({
+								jsFileLocation:"//namayeshnet.com/wp-content/plugins/revslider/public/assets/js/",
+								sliderLayout:"fullscreen",
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:1240,
+								gridheight:900,
+								minHeight:"",
+								spinner:"spinner0",
+								editorheight:"900,50,960,348",
+								responsiveLevels:"1240,1024,778,480",
+								disableProgressBar:"on",
+								navigation: {
+									onHoverStop:false
+								},
+								parallax: {
+									levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,30],
+									type:"scroll",
+									origo:"slideCenter",
+									speed:0
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+				</script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="http://namayeshnet.com/wp-content/plugins/wp-rocket/assets/js/lazyload/12.0/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="https://www.youtube.com/embed/ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.id)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+	</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1577694270 -->
